@@ -25,7 +25,7 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 /* Mobile race detail drawer */
 #mobile-drawer{display:none;position:fixed;bottom:0;left:0;right:0;
   background:var(--surface);border-top:2px solid var(--accent);
-  border-radius:14px 14px 0 0;z-index:999;max-height:75vh;
+  border-radius:14px 14px 0 0;z-index:999;min-height:40vh;max-height:82vh;
   overflow-y:auto;box-shadow:0 -4px 24px rgba(0,0,0,.5);}
 #mobile-drawer.open{display:block;}
 #mobile-drawer-header{display:flex;align-items:center;justify-content:space-between;
@@ -600,10 +600,14 @@ function jumpToRace(idx){
     if(!card)return;
     card.classList.add('open');
     if(window.innerWidth<=768){
-        // Mobile: show in slide-up drawer instead of scrolling
+        // Mobile: clone the full card (already has 'open' class) into the drawer
         const drawer=document.getElementById('mobile-drawer');
         const content=document.getElementById('mobile-drawer-content');
-        content.innerHTML=card.innerHTML;
+        content.innerHTML='';
+        const clone=card.cloneNode(true);
+        clone.style.border='none';
+        clone.style.margin='0';
+        content.appendChild(clone);
         drawer.classList.add('open');
         drawer.scrollTop=0;
     } else {
