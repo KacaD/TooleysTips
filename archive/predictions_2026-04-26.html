@@ -22,6 +22,21 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 .mobile-notice{display:none;background:#1e3a5f;color:#93c5fd;font-size:12px;
   text-align:center;padding:6px 12px;border-bottom:1px solid #2563eb;}
 @media(max-width:768px){.mobile-notice{display:block;}}
+/* Mobile race detail drawer */
+#mobile-drawer{display:none;position:fixed;bottom:0;left:0;right:0;
+  background:var(--surface);border-top:2px solid var(--accent);
+  border-radius:14px 14px 0 0;z-index:999;max-height:75vh;
+  overflow-y:auto;box-shadow:0 -4px 24px rgba(0,0,0,.5);}
+#mobile-drawer.open{display:block;}
+#mobile-drawer-header{display:flex;align-items:center;justify-content:space-between;
+  padding:10px 16px 8px;border-bottom:1px solid var(--border);
+  position:sticky;top:0;background:var(--surface);z-index:1;}
+#mobile-drawer-title{font-weight:700;font-size:13px;color:var(--accent);}
+#mobile-drawer-close{background:var(--surface2);border:1px solid var(--border);
+  color:var(--text);border-radius:6px;padding:4px 10px;font-size:12px;cursor:pointer;}
+#mobile-drawer-content{padding:10px 12px 24px;}
+#mobile-drawer-content .race-card{border:none;margin:0;padding:0;display:block;}
+#mobile-drawer-content .race-header{display:none;}
 .page-header{background:linear-gradient(135deg,#1a1d27,#16192a);
   border-bottom:1px solid var(--border);padding:8px 24px;
   display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;}
@@ -584,10 +599,22 @@ function jumpToRace(idx){
     const card=document.getElementById('race-'+idx);
     if(!card)return;
     card.classList.add('open');
-    const sticky=document.querySelector('.sticky-wrapper');
-    const offset=sticky?sticky.offsetHeight+8:8;
-    const top=card.getBoundingClientRect().top+window.scrollY-offset;
-    window.scrollTo({top:top,behavior:'smooth'});
+    if(window.innerWidth<=768){
+        // Mobile: show in slide-up drawer instead of scrolling
+        const drawer=document.getElementById('mobile-drawer');
+        const content=document.getElementById('mobile-drawer-content');
+        content.innerHTML=card.innerHTML;
+        drawer.classList.add('open');
+        drawer.scrollTop=0;
+    } else {
+        const sticky=document.querySelector('.sticky-wrapper');
+        const offset=sticky?sticky.offsetHeight+8:8;
+        const top=card.getBoundingClientRect().top+window.scrollY-offset;
+        window.scrollTo({top:top,behavior:'smooth'});
+    }
+}
+function closeMobileDrawer(){
+    document.getElementById('mobile-drawer').classList.remove('open');
 }
 function filterRaces(type,btn){
     document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
@@ -616,5 +643,13 @@ function toggleFavPanel(btn){
     btn.classList.toggle('active');
 }
 </script>
+  <!-- Mobile race detail drawer -->
+  <div id="mobile-drawer">
+    <div id="mobile-drawer-header">
+      <span id="mobile-drawer-title">Race Detail</span>
+      <button onclick="closeMobileDrawer()" id="mobile-drawer-close">✕ Close</button>
+    </div>
+    <div id="mobile-drawer-content"></div>
+  </div>
 </body>
 </html>
