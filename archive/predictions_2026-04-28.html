@@ -38,12 +38,21 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 #mobile-drawer-content .race-card{border:none;margin:0;padding:0;display:block;}
 #mobile-drawer-content .race-header{display:none;}
 .page-header{background:linear-gradient(135deg,#1a1d27,#16192a);
-  border-bottom:1px solid var(--border);padding:8px 24px;
-  display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;}
+  border-bottom:1px solid var(--border);padding:7px 24px;
+  display:flex;align-items:center;gap:16px;flex-wrap:wrap;}
+.page-title-block{flex-shrink:0;}
 .page-title{font-size:17px;font-weight:700;}.page-title span{color:var(--accent);}
-.page-subtitle{color:var(--muted);font-size:11px;margin-top:2px;}
-.weights-bar{display:flex;gap:8px;flex-wrap:wrap;font-size:11px;color:var(--muted);}
-.weights-bar strong{color:var(--text);}
+.page-subtitle{color:var(--muted);font-size:11px;margin-top:1px;}
+/* Daily strip */
+.daily-strip{flex:1;display:flex;align-items:center;flex-wrap:wrap;gap:6px;
+  font-size:12px;min-width:0;overflow:hidden;}
+.ds-dot{color:var(--border);}
+.ds-custom{color:#c4b5fd;font-weight:600;}
+.ds-win{color:#4ade80;font-weight:600;}
+.ds-neutral{color:var(--muted);}
+.ds-shout{color:#fcd34d;font-weight:600;}
+/* Footer weights (small, muted) */
+.footer-weights{font-size:10px;color:rgba(124,133,162,.5);display:block;margin-top:4px;}
 
 /* ── Summary panels ──────────────────────────────────────── */
 .summary-panel{display:grid;grid-template-columns:1fr 1fr 1fr 1fr 0.65fr;gap:5px;padding:6px 18px;
@@ -312,11 +321,11 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
     📱 Mobile view — limited functionality. For full race analysis use desktop.
   </div>
   <div class="page-header">
-    <div>
+    <div class="page-title-block">
       <div class="page-title">TooleysTips <span>- 2026-04-28</span></div>
       <div class="page-subtitle">Stage 3 v1 · gap≥0.35 for back picks · HCAP/COND dual weights · Betfair SP 2015–present</div>
     </div>
-    <div class="weights-bar">HCAP: RPR <strong>4.000</strong>  TS <strong>3.970</strong>  TRAJ <strong>0.400</strong>  COURSE <strong>0.982</strong>  DIST <strong>1.542</strong>  GOING <strong>3.376</strong>  OR_RPR <strong>0.596</strong>  TRNR <strong>1.367</strong>  JOCK <strong>3.256</strong>  DRAW <strong>1.500</strong>  OR <strong>0.300</strong>  TIPS <strong>1.500</strong>&nbsp;&nbsp;&nbsp;COND: RPR <strong>2.402</strong>  TS <strong>3.932</strong>  TRAJ <strong>1.273</strong>  COURSE <strong>0.851</strong>  DIST <strong>0.406</strong>  GOING <strong>3.958</strong>  OR_RPR <strong>0.300</strong>  TRNR <strong>3.434</strong>  JOCK <strong>0.897</strong>  DRAW <strong>1.500</strong>  OR <strong>0.314</strong>  TIPS <strong>1.500</strong></div>
+    <div class="daily-strip"><span class="ds-custom">📌 Happy Birthday Jackie!</span> &nbsp;<span class='ds-dot'>·</span>&nbsp; <span class="ds-win">✅ 2/15 yesterday &nbsp;-7.2 pts</span> &nbsp;<span class='ds-dot'>·</span>&nbsp; <span class="ds-neutral">💪 Tough week (-7.2 pts) — model stays the course</span> &nbsp;<span class='ds-dot'>·</span>&nbsp; <span class="ds-shout">👀 Ballybaymoonshiner (Southwell) back after 139d off — 4/11 career record (36% wins)</span> &nbsp;<span class='ds-dot'>·</span>&nbsp; <span class="ds-shout">👀 Organ (Epsom) back after 220d off — 3/10 career record (30% wins)</span></div>
   </div>
   <div class="summary-panel">
     <div class="summary-box backs">
@@ -664,8 +673,10 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 <tr class="runner-row "><td class="runner-name">Labiche<div class="runner-tags"><span class="tag trainer">T: Henry Candy</span><span class="tag jockey">J: Robert Havlin</span><span class="tag rp-ratings">OR:58 | RPR:69 | TS:60</span><span class="tag debut">🎯 HCAP DEBUT</span><span class="tag form-tag">Form: <span class="form-pos">4</span><span class="form-pos">8</span><span class="form-pos">0</span><span class="form-break">-</span> <span class="form-days">244d ago</span></span><span class="tag form-warn">⚠ Poor recent form</span></div></td><td class="cd-cell">3r/0w</td><td style="background:rgba(34,197,94,0.39)"><span class="pos">+1.67</span></td><td style="background:rgba(34,197,94,0.60)"><span class="pos">+3.97</span></td><td style="background:rgba(34,197,94,0.01)"><span class="pos">+0.07</span></td><td style="background:rgba(34,197,94,0.13)"><span class="pos">+0.57</span></td><td style="background:rgba(34,197,94,0.09)"><span class="pos">+0.39</span></td><td style="background:rgba(34,197,94,0.26)"><span class="pos">+1.12</span></td><td style="background:rgba(34,197,94,0.04)"><span class="pos">+0.20</span></td><td style="background:rgba(34,197,94,0.18)"><span class="pos">+0.80</span></td><td style="background:rgba(34,197,94,0.44)"><span class="pos">+1.90</span></td><td style="background:rgba(34,197,94,0.20)"><span class="pos">+0.88</span></td><td style="background:rgba(34,197,94,0.03)"><span class="pos">+0.15</span></td><td style="background:rgba(34,197,94,0.17)"><span class="pos">+0.75</span></td><td class="score-cell"><strong>+12.46</strong><div class="score-bar"><div class="bar-fill bar-high" style="width:81.7%"></div></div></td></tr>
 <tr class="runner-row "><td class="runner-name">Betty Lemon<div class="runner-tags"><span class="tag trainer">T: Hughie Morrison</span><span class="tag jockey">J: Callum Hutchinson</span><span class="tag rp-ratings">OR:55 | RPR:64 | TS:46</span><span class="tag form-tag">Form: <span class="form-pos">5</span><span class="form-pos">7</span><span class="form-pos">4</span><span class="form-pos">7</span><span class="form-pos">0</span><span class="form-break">-</span> <span class="form-days">160d ago</span></span><span class="tag form-warn">⚠ Poor recent form</span></div></td><td class="cd-cell">5r/0w</td><td style="background:rgba(34,197,94,0.15)"><span class="pos">+0.67</span></td><td style="background:rgba(34,197,94,0.60)"><span class="pos">+2.65</span></td><td style="background:rgba(34,197,94,0.03)"><span class="pos">+0.13</span></td><td style="background:rgba(34,197,94,0.13)"><span class="pos">+0.57</span></td><td style="background:rgba(34,197,94,0.36)"><span class="pos">+1.54</span></td><td style="background:rgba(34,197,94,0.26)"><span class="pos">+1.12</span></td><td style="background:rgba(34,197,94,0.09)"><span class="pos">+0.40</span></td><td style="background:rgba(34,197,94,0.18)"><span class="pos">+0.80</span></td><td style="background:rgba(34,197,94,0.44)"><span class="pos">+1.90</span></td><td style="background:rgba(34,197,94,0.20)"><span class="pos">+0.88</span></td><td style="background:rgba(34,197,94,0.01)"><span class="pos">+0.05</span></td><td style="background:rgba(34,197,94,0.17)"><span class="pos">+0.75</span></td><td class="score-cell"><strong>+11.46</strong><div class="score-bar"><div class="bar-fill bar-high" style="width:75.1%"></div></div></td></tr></tbody></table></div></div></div>
 </div>
-<div class="page-footer">Generated 2026-04-28 · Betfair SP data 2015–present · Weights optimised via Stage 3 rolling backtest ·
-Past performance is not a guarantee of future results.</div>
+<div class="page-footer">
+  Generated 2026-04-28 · Betfair SP data 2015–present · Past performance is not a guarantee of future results.<br>
+  <span class="footer-weights">HCAP: RPR <strong>4.000</strong>  TS <strong>3.970</strong>  TRAJ <strong>0.400</strong>  COURSE <strong>0.982</strong>  DIST <strong>1.542</strong>  GOING <strong>3.376</strong>  OR_RPR <strong>0.596</strong>  TRNR <strong>1.367</strong>  JOCK <strong>3.256</strong>  DRAW <strong>1.500</strong>  OR <strong>0.300</strong>  TIPS <strong>1.500</strong> &nbsp;&nbsp; COND: RPR <strong>2.402</strong>  TS <strong>3.932</strong>  TRAJ <strong>1.273</strong>  COURSE <strong>0.851</strong>  DIST <strong>0.406</strong>  GOING <strong>3.958</strong>  OR_RPR <strong>0.300</strong>  TRNR <strong>3.434</strong>  JOCK <strong>0.897</strong>  DRAW <strong>1.500</strong>  OR <strong>0.314</strong>  TIPS <strong>1.500</strong></span>
+</div>
 <script>
 function toggleRace(hdr){
     const card=hdr.closest('.race-card');
