@@ -273,24 +273,25 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
   border-radius:8px;padding:2px 8px;font-size:11px;font-weight:700;margin-left:4px;}
 
 /* ── Tooleys Tips (NAP / NB / RESERVE) ──────────────────── */
+.summary-box.naps{max-height:none;overflow-y:visible;}
 .summary-box.naps h2{color:#fbbf24;}
-.nap-item{padding:5px 6px;border-radius:7px;margin-bottom:4px;cursor:pointer;
+.nap-item{padding:3px 5px;border-radius:6px;margin-bottom:3px;cursor:pointer;
   background:rgba(251,191,36,.07);border:1px solid rgba(251,191,36,.18);
   transition:filter .15s;}
 .nap-item:hover{filter:brightness(1.2);}
-.nap-header{display:flex;align-items:baseline;gap:5px;flex-wrap:wrap;}
-.nap-lbl{font-size:11px;font-weight:800;padding:1px 7px;border-radius:10px;
-  min-width:52px;text-align:center;flex-shrink:0;}
+.nap-header{display:flex;align-items:baseline;gap:4px;flex-wrap:wrap;}
+.nap-lbl{font-size:10px;font-weight:800;padding:1px 6px;border-radius:8px;
+  min-width:48px;text-align:center;flex-shrink:0;}
 .nap-lbl-1{background:rgba(251,191,36,.35);color:#fcd34d;border:1px solid rgba(251,191,36,.5);}
 .nap-lbl-2{background:rgba(148,163,184,.2);color:#cbd5e1;border:1px solid rgba(148,163,184,.3);}
 .nap-lbl-3{background:rgba(180,120,80,.2);color:#c4956a;border:1px solid rgba(180,120,80,.3);}
-.nap-horse{font-weight:700;font-size:12px;color:var(--text);flex:1;}
-.nap-odds{font-size:11px;color:var(--value);}
-.nap-venue{font-size:10px;color:var(--muted);margin-left:auto;}
-.nap-tags{margin-top:3px;display:flex;flex-wrap:wrap;gap:3px;}
-.nap-pos-tag{font-size:10px;padding:1px 5px;border-radius:8px;
+.nap-horse{font-weight:700;font-size:11px;color:var(--text);flex:1;}
+.nap-odds{font-size:10px;color:var(--value);}
+.nap-venue{font-size:9px;color:var(--muted);margin-left:auto;}
+.nap-tags{margin-top:2px;display:flex;flex-wrap:wrap;gap:2px;}
+.nap-pos-tag{font-size:9px;padding:1px 4px;border-radius:7px;
   background:rgba(16,185,129,.18);color:#6ee7b7;}
-.nap-neg-tag{font-size:10px;padding:1px 5px;border-radius:8px;
+.nap-neg-tag{font-size:9px;padding:1px 4px;border-radius:7px;
   background:rgba(239,68,68,.15);color:#fca5a5;}
 .nap-empty{font-size:11px;color:var(--muted);padding:8px 6px;font-style:italic;}
 /* Nap results in yesterday panel */
@@ -358,7 +359,7 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 <div class="res-summary res-lay-sum"><span class="res-label">LAYS</span> <span class="res-stat">3/3 won</span> <span class="res-pnl res-pos">+3.00 pts</span></div>
     </div>
     <div class="summary-box stats">
-      <h2>📈 Performance <span class="stat-pos" style="font-size:10px;margin-left:4px;">+17.2pts</span></h2><div class="stat-section-lbl">BACKS</div><div class="stat-block"><span class="stat-lbl">This week</span><span class="stat-val">2/15 <span class="stat-sr">(13% SR)</span></span><span class="stat-val stat-neg">-7.2pts</span><span class="stat-val stat-neg">ROI -48%</span></div><div class="stat-block"><span class="stat-lbl">This month</span><span class="stat-val">44/168 <span class="stat-sr">(26% SR)</span></span><span class="stat-val stat-pos">+8.8pts</span><span class="stat-val stat-pos">ROI +5%</span></div><div class="stat-block"><span class="stat-lbl">Last 7d</span><span class="stat-val">38/146 <span class="stat-sr">(26% SR)</span></span><span class="stat-val stat-pos">+4.2pts</span><span class="stat-val stat-pos">ROI +3%</span></div><div class="stat-block"><span class="stat-lbl">All time</span><span class="stat-val">49/178 <span class="stat-sr">(28% SR)</span></span><span class="stat-val stat-pos">+17.2pts</span><span class="stat-val stat-pos">ROI +10%</span></div><div class="stat-block stat-lay"><span class="stat-lbl">LAYS</span><span class="stat-val">6/11</span><span class="stat-val stat-neg">-10.9pts</span></div><div class="stat-section-lbl">TOOLEYS TIPS</div><div class="stat-block stat-nap"><span class="stat-lbl">This month</span><span class="stat-val muted">no data</span></div><div class="stat-block stat-nap"><span class="stat-lbl">All time</span><span class="stat-val muted">no data</span></div>
+      <h2>📈 Performance <span class="stat-pos" style="font-size:10px;margin-left:4px;">+17.2pts</span></h2><div class="stat-section-lbl">BACKS</div><div class="stat-block"><span class="stat-lbl">This week</span><span class="stat-val">2/15 <span class="stat-sr">(13% SR)</span></span><span class="stat-val stat-neg">-7.2pts</span><span class="stat-val stat-neg">ROI -48%</span></div><div class="stat-block"><span class="stat-lbl">This month</span><span class="stat-val">44/168 <span class="stat-sr">(26% SR)</span></span><span class="stat-val stat-pos">+8.8pts</span><span class="stat-val stat-pos">ROI +5%</span></div><div class="stat-block"><span class="stat-lbl">Last 7d</span><span class="stat-val">38/146 <span class="stat-sr">(26% SR)</span></span><span class="stat-val stat-pos">+4.2pts</span><span class="stat-val stat-pos">ROI +3%</span></div><div class="stat-block"><span class="stat-lbl">All time</span><span class="stat-val">49/178 <span class="stat-sr">(28% SR)</span></span><span class="stat-val stat-pos">+17.2pts</span><span class="stat-val stat-pos">ROI +10%</span></div><div class="stat-section-lbl">TOOLEYS TIPS</div><div class="stat-block stat-nap"><span class="stat-lbl">This month</span><span class="stat-val muted">no data</span></div><div class="stat-block stat-nap"><span class="stat-lbl">All time</span><span class="stat-val muted">no data</span></div>
     </div>
   </div>
   <div class="filter-bar">
