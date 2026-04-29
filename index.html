@@ -734,13 +734,27 @@ function jumpToRace(idx){
     if(!card)return;
     card.classList.add('open');
     if(window.innerWidth<=768){
-        // Mobile: clone the full card (already has 'open' class) into the drawer
+        // Mobile: clone the race card into the bottom drawer
         const drawer=document.getElementById('mobile-drawer');
         const content=document.getElementById('mobile-drawer-content');
         content.innerHTML='';
         const clone=card.cloneNode(true);
         clone.style.border='none';
         clone.style.margin='0';
+        // Force the race body visible — CSS cascade can lose the .open rule
+        // after re-parenting the clone into the drawer
+        const body=clone.querySelector('.race-body');
+        if(body){body.style.display='block';}
+        // Show the race header in the drawer (it was hidden by CSS but we need
+        // the time/course/title as context; just hide the toggle arrow)
+        const hdr=clone.querySelector('.race-header');
+        if(hdr){
+            hdr.style.display='flex';
+            hdr.style.cursor='default';
+            hdr.onclick=null;
+            const icon=hdr.querySelector('.toggle-icon');
+            if(icon)icon.style.display='none';
+        }
         content.appendChild(clone);
         drawer.classList.add('open');
         drawer.scrollTop=0;
