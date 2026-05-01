@@ -323,6 +323,23 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 .conn-row-notable:hover td{background:rgba(251,191,36,.10) !important;}
 .tag-sole{background:rgba(251,191,36,.2);color:#fcd34d;font-weight:700;}
 
+/* ── Monthly Performance panel ──────────────────────────── */
+.month-panel{background:var(--surface);border-top:1px solid var(--border);padding:14px 24px 20px;display:none;}
+.month-panel.open{display:block;}
+.month-panel h3{font-size:13px;font-weight:700;color:var(--accent);margin-bottom:10px;letter-spacing:.05em;}
+.month-chart-wrap{background:var(--surface2);border-radius:8px;padding:12px 8px 4px;margin-bottom:14px;}
+.month-table-wrap{overflow-x:auto;max-height:420px;overflow-y:auto;}
+.month-table{width:100%;border-collapse:collapse;font-size:12px;}
+.month-table th{background:var(--surface2);color:var(--muted);font-size:10px;text-transform:uppercase;
+  padding:5px 10px;text-align:right;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:1;}
+.month-table th:first-child{text-align:left;}
+.month-table td{padding:5px 10px;border-bottom:1px solid rgba(45,49,72,.4);}
+.month-table td.r{text-align:right;font-family:monospace;}
+.month-table tr:hover td{background:var(--surface2);}
+.month-table .mt-tips{color:#fbbf24;}.month-table .mt-dual{color:#38bdf8;}.month-table .mt-back{color:#4ade80;}
+.month-table .mt-pos{color:var(--back);font-weight:600;}.month-table .mt-neg{color:var(--lay);font-weight:600;}
+.month-table .mt-total{font-weight:700;border-top:1px solid var(--border);}
+
 /* ── Form figures ────────────────────────────────────────── */
 .form-tag{background:rgba(99,102,241,.12);color:#a5b4fc;font-family:monospace;font-size:11px;}
 .form-bad{color:#f87171;font-weight:700;}
@@ -455,6 +472,7 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
   </div>
   <div class="filter-bar">
     <button class='filter-btn' onclick='toggleHistPanel(this)' title='History of all predictions'>📋 History</button>
+    <button class='filter-btn' onclick='toggleMonthPanel(this)' title='Month-by-month performance'>📅 Monthly</button>
     <button class='filter-btn' onclick='toggleConnPanel(this)' title='Trainer &amp; jockey course stats'>👤 Connections</button>
     <button class='filter-btn' onclick='toggleFavPanel(this)' title='Favourites by course'>📊 Fav Stats</button>
     <button class="filter-btn" onclick="expandAll()">Expand All</button>
@@ -584,6 +602,7 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 <tr class="" data-cat="tips"><td class="ht-course">2026-04-28</td><td class="ht-course">2:40 Epsom 1m2f</td><td class="ht-horse">New Zealand</td><td><span class="hist-tag ht-nap">NAP</span></td><td class="r">1.80</td><td class="r ht-pos">4/6</td><td class="r ht-pnl-neg">-1.00pts</td><td class="r"><span class="ht-loss-badge">✗</span></td></tr>
 <tr class="" data-cat="tips"><td class="ht-course">2026-04-28</td><td class="ht-course">2:12 Yarmouth 7f</td><td class="ht-horse">Diamont Katie</td><td><span class="hist-tag ht-nb">NB</span></td><td class="r">2.58</td><td class="r ht-pos">2/6</td><td class="r ht-pnl-neg">-1.00pts</td><td class="r"><span class="ht-loss-badge">✗</span></td></tr>
 <tr class="ht-won" data-cat="tips"><td class="ht-course">2026-04-28</td><td class="ht-course">2:05 Epsom 1m</td><td class="ht-horse">Runman</td><td><span class="hist-tag ht-reserve">RESERVE</span></td><td class="r">1.08</td><td class="r ht-pos">1/9</td><td class="r ht-pnl-pos">+0.08pts</td><td class="r"><span class="ht-won-badge">✓ WON</span></td></tr></tbody></table></div></div>
+  <div class='month-panel' id='month-panel'><h3>Monthly Performance — P&amp;L by System</h3><div class="month-chart-wrap"><svg viewBox="0 0 920 230" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;display:block;"><line x1="52" y1="182.0" x2="905" y2="182.0" stroke="#7c85a2" stroke-width="1" opacity="0.7"/><text x="48" y="185.5" text-anchor="end" font-size="9" fill="#7c85a2">+0</text><line x1="52" y1="145.8" x2="905" y2="145.8" stroke="#7c85a2" stroke-width="1" stroke-dasharray="3,3" opacity="0.35"/><text x="48" y="149.3" text-anchor="end" font-size="9" fill="#7c85a2">+3</text><line x1="52" y1="109.6" x2="905" y2="109.6" stroke="#7c85a2" stroke-width="1" stroke-dasharray="3,3" opacity="0.35"/><text x="48" y="113.1" text-anchor="end" font-size="9" fill="#7c85a2">+6</text><line x1="52" y1="73.5" x2="905" y2="73.5" stroke="#7c85a2" stroke-width="1" stroke-dasharray="3,3" opacity="0.35"/><text x="48" y="77.0" text-anchor="end" font-size="9" fill="#7c85a2">+9</text><line x1="52" y1="37.3" x2="905" y2="37.3" stroke="#7c85a2" stroke-width="1" stroke-dasharray="3,3" opacity="0.35"/><text x="48" y="40.8" text-anchor="end" font-size="9" fill="#7c85a2">+12</text><rect x="445.5" y="137.6" width="21.0" height="44.4" fill="#fbbf24" rx="2" opacity="0.85"/><rect x="467.5" y="92.9" width="21.0" height="89.1" fill="#38bdf8" rx="2" opacity="0.85"/><rect x="489.5" y="42.9" width="21.0" height="139.1" fill="#4ade80" rx="2" opacity="0.85"/><text x="478.5" y="224" text-anchor="middle" font-size="9" fill="#7c85a2">Apr 26</text><rect x="52" y="4" width="9" height="9" fill="#fbbf24" rx="1" opacity="0.85"/><text x="64" y="13" font-size="9" fill="#fbbf24">Tips</text><rect x="96" y="4" width="9" height="9" fill="#38bdf8" rx="1" opacity="0.85"/><text x="108" y="13" font-size="9" fill="#38bdf8">Dual</text><rect x="140" y="4" width="9" height="9" fill="#4ade80" rx="1" opacity="0.85"/><text x="152" y="13" font-size="9" fill="#4ade80">Backs</text></svg></div><div class="month-table-wrap"><table class="month-table"><thead><tr><th>Month</th><th class="mt-tips" colspan="2">🏆 Tips (W/N · P&L)</th><th class="mt-dual" colspan="2">⭐ Dual (W/N · P&L)</th><th class="mt-back" colspan="2">▲ Backs (W/N · P&L)</th><th class="r">Month P&L</th><th class="r">Cumulative</th></tr></thead><tbody><tr><td class="fav-course">April 2026</td><td class="r mt-tips">5/9 <span class="stat-sr">(56%)</span></td><td class="r mt-pos">+3.7</td><td class="r mt-dual">2/2 <span class="stat-sr">(100%)</span></td><td class="r mt-pos">+7.4</td><td class="r mt-back">15/51 <span class="stat-sr">(29%)</span></td><td class="r mt-pos">+11.5</td><td class="r mt-pos">+22.6pts</td><td class="r mt-pos">+22.6pts</td></tr><tr class="mt-total"><td class="fav-course">All Time</td><td class="r mt-tips">5/9 <span class="stat-sr">(56%)</span></td><td class="r mt-pos">+3.7</td><td class="r mt-dual">2/2 <span class="stat-sr">(100%)</span></td><td class="r mt-pos">+7.4</td><td class="r mt-back">15/51 <span class="stat-sr">(29%)</span></td><td class="r mt-pos">+11.5</td><td class="r mt-pos">+22.6pts</td><td class="r mt-pos">+22.6pts</td></tr></tbody></table></div></div>
 </div>
 <div class="races-list">
 <div class="race-card has-back" id="race-0" data-time="105" data-hcap="0" data-back="1" data-lay="0" data-near="0" data-value="0"><div class="race-header" onclick="toggleRace(this)"><div class="race-meta"><span class="race-time">1:45</span><span class="race-course">Newmarket</span><span class="race-dist">1m2f</span><span class=race-going>GOOD, Good to Firm in places</span></div><div class="race-badges"><span class="badge badge-surf">TRF/R/G</span></div><div class="race-picks-preview"><span class="preview-back">▲ Earth Shot</span></div><span class="toggle-icon">▼</span></div><div class="race-body"><div class="venue-note">Fav SR: 34.4% | ROI: <span class="pos">+2.2%</span> (314 races)</div><div class="race-note">i Venue: fav SR 34.4%, ROI +2.2% (314 races)</div><div class="pick-line pick-back"><span class="pick-icon">▲ BACK</span><span class="pick-horse">Earth Shot</span><span class="pick-score">+15.97</span><span class="pick-conf">★★</span> <span class="form-alert">⏸ 188d ABSENCE</span><span class="pick-reason">TTS rank 1/7  |  TRNR rank 3/7</span></div><div class="runners-table-wrap"><table class="runners-table"><thead><tr><th>Horse</th><th>Runs</th><th>TTR</th><th>TTS</th><th>TRAJ</th><th>COURSE</th><th>DIST</th><th>GOING</th><th>OR_TTR</th><th>TRNR</th><th>JOCK</th><th>DRAW</th><th>OR</th><th>TIPS</th><th>Score</th></tr></thead><tbody><tr class="runner-row runner-back"><td class="runner-name"><span class="marker marker-back">▲</span>Earth Shot<div class="runner-tags"><span class="tag trainer">T: William Haggas</span><span class="tag jockey">J: Tom Marquand</span><span class="tag rp-ratings">TTR:92 | TTS:56 | Tips:10</span><span class="tag form-tag">Form: <span class="form-pos">2</span><span class="form-break">-</span> <span class="form-days">188d ago</span></span><span class="tag form-absence">⏸ 188d absence</span></div></td><td class="cd-cell">1r/0w</td><td style="background:rgba(34,197,94,0.54)"><span class="pos">+2.40</span></td><td style="background:rgba(34,197,94,0.60)"><span class="pos">+3.93</span></td><td style="background:rgba(34,197,94,0.16)"><span class="pos">+0.73</span></td><td style="background:rgba(34,197,94,0.10)"><span class="pos">+0.49</span></td><td style="background:rgba(34,197,94,0.05)"><span class="pos">+0.23</span></td><td style="background:rgba(34,197,94,0.50)"><span class="pos">+2.26</span></td><td style="background:rgba(34,197,94,0.03)"><span class="pos">+0.17</span></td><td style="background:rgba(34,197,94,0.55)"><span class="pos">+2.45</span></td><td style="background:rgba(34,197,94,0.17)"><span class="pos">+0.77</span></td><td style="background:rgba(34,197,94,0.19)"><span class="pos">+0.86</span></td><td style="background:rgba(34,197,94,0.04)"><span class="pos">+0.18</span></td><td style="background:rgba(34,197,94,0.33)"><span class="pos">+1.50</span></td><td class="score-cell"><strong>+15.97</strong><div class="score-bar"><div class="bar-fill bar-high" style="width:100.0%"></div></div></td></tr>
@@ -947,8 +966,13 @@ function toggleHistPanel(btn){
     panel.classList.toggle('open');
     btn.classList.toggle('active');
 }
+function toggleMonthPanel(btn){
+    const panel=document.getElementById('month-panel');
+    panel.classList.toggle('open');
+    btn.classList.toggle('active');
+}
 function clearPanels(){
-    ['fav-panel','conn-panel','hist-panel'].forEach(id=>{
+    ['fav-panel','conn-panel','hist-panel','month-panel'].forEach(id=>{
         const p=document.getElementById(id);
         if(p) p.classList.remove('open');
     });
