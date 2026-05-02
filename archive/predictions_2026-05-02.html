@@ -100,6 +100,7 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 .res-horse{font-weight:600;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 .res-venue{color:var(--muted);font-size:10px;flex-shrink:0;}
 .res-bsp{font-family:monospace;font-size:10px;color:#fcd34d;flex-shrink:0;}
+.res-pos-tag{font-size:10px;color:var(--muted);font-family:monospace;flex-shrink:0;margin-right:4px;}
 .res-loss-note{font-size:10px;color:var(--muted);padding:2px 6px;font-style:italic;}
 .res-lay-sum{margin-top:4px;}
 .res-empty{font-size:11px;color:var(--muted);padding:8px 6px;font-style:italic;}
@@ -422,7 +423,7 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
   </div>
   <div class="summary-panel">
     <div class="summary-box naps">
-      <h2>🏆 Tooleys Tips of the Day</h2><div class="nap-item" onclick="jumpToRace(3)"><div class="nap-header"><span class="nap-lbl nap-lbl-1">NAP</span><span class="nap-horse">Tamam Star</span><span class="nap-venue">1:35 Thirsk 5f</span></div><div class="nap-tags"><span class="nap-pos-tag">Clear standout</span><span class="nap-pos-tag">9 tips</span></div></div><div class="nap-item" onclick="jumpToRace(39)"><div class="nap-header"><span class="nap-lbl nap-lbl-2">NB</span><span class="nap-horse">Mafting</span><span class="nap-venue">7:02 Doncaster 1m4f</span></div><div class="nap-tags"><span class="nap-pos-tag">Clear standout</span><span class="nap-pos-tag">10 tips</span></div></div><div class="nap-item" onclick="jumpToRace(6)"><div class="nap-header"><span class="nap-lbl nap-lbl-3">RESERVE</span><span class="nap-horse">Blue Bolt</span><span class="nap-venue">2:05 Goodwood 1m</span></div><div class="nap-tags"><span class="nap-pos-tag">Clear standout</span><span class="nap-pos-tag">8 tips</span><span class="nap-neg-tag">210d absence</span></div></div>
+      <h2>🏆 Tooleys Tips of the Day</h2><div class="nap-item" onclick="jumpToRace(39)"><div class="nap-header"><span class="nap-lbl nap-lbl-1">NAP</span><span class="nap-horse">Mafting</span><span class="nap-venue">7:02 Doncaster 1m4f</span></div><div class="nap-tags"><span class="nap-pos-tag">Clear standout</span><span class="nap-pos-tag">10 tips</span></div></div><div class="nap-item" onclick="jumpToRace(6)"><div class="nap-header"><span class="nap-lbl nap-lbl-2">NB</span><span class="nap-horse">Blue Bolt</span><span class="nap-venue">2:05 Goodwood 1m</span></div><div class="nap-tags"><span class="nap-pos-tag">Clear standout</span><span class="nap-pos-tag">8 tips</span><span class="nap-neg-tag">210d absence</span></div></div><div class="nap-item" onclick="jumpToRace(3)"><div class="nap-header"><span class="nap-lbl nap-lbl-3">RESERVE</span><span class="nap-horse">Tamam Star</span><span class="nap-venue">1:35 Thirsk 5f</span></div><div class="nap-tags"><span class="nap-pos-tag">Clear standout</span><span class="nap-pos-tag">9 tips</span><span class="nap-neg-tag">thin data (1 run)</span></div></div>
     </div>
     <div class="summary-box sole">
       <h2>⭐ Dual Specialists (1 today)</h2><div class="sole-item" onclick="jumpToRace(45)"><span class="sole-time">12:45</span><span class="sole-course">Uttoxeter</span><span class="sole-horse">Raffles Nobu</span><div class="sole-conn">T: Nick Scholfield &nbsp;·&nbsp; J: Freddie Keighley</div></div>
@@ -465,9 +466,9 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
     </div>
     <div class="summary-box results">
       <h2>📊 Yesterday — 2026-05-01 <span style="font-size:9px;color:var(--muted);margin-left:4px;">W:2(9%) P:6(26%) /23</span></h2><div class="res-summary res-nap-sum"><span class="res-label res-nap-lbl">🏆 TIPS</span> <span class="res-stat">1/3 <span class="res-sr">(33%)</span></span> <span class="res-pnl res-neg">-0.84 pts</span></div>
-<div class="res-nap-row"><span class="res-nap-rank">NAP</span><span class="res-cross">✗</span> <span class="res-horse">Pacific Avenue</span><span class="res-venue">Goodwood 2:40</span><span class="res-bsp"> BSP 1.76</span></div>
-<div class="res-nap-row"><span class="res-nap-rank">NB</span><span class="res-tick">✓</span> <span class="res-horse">Earth Shot</span><span class="res-venue">Newmarket 1:45</span><span class="res-bsp"> BSP 2.16</span></div>
-<div class="res-nap-row"><span class="res-nap-rank">RESERVE</span><span class="res-cross">✗</span> <span class="res-horse">Golden Redemption</span><span class="res-venue">Newmarket 4:05</span><span class="res-bsp"> BSP 4.70</span></div>
+<div class="res-nap-row"><span class="res-nap-rank">NAP</span><span class="res-cross">✗</span> <span class="res-horse">Pacific Avenue</span> <span class="res-pos-tag">2/4</span><span class="res-venue">Goodwood 2:40</span><span class="res-bsp"> BSP 1.76</span></div>
+<div class="res-nap-row"><span class="res-nap-rank">NB</span><span class="res-tick">✓</span> <span class="res-horse">Earth Shot</span> <span class="res-pos-tag">1/7</span><span class="res-venue">Newmarket 1:45</span><span class="res-bsp"> BSP 2.16</span></div>
+<div class="res-nap-row"><span class="res-nap-rank">RESERVE</span><span class="res-cross">✗</span> <span class="res-horse">Golden Redemption</span> <span class="res-pos-tag">2/6</span><span class="res-venue">Newmarket 4:05</span><span class="res-bsp"> BSP 4.70</span></div>
 <div class="res-summary"><span class="res-label res-backs-lbl">BACKS</span> <span class="res-stat">1/20 <span class="res-sr">(5%)</span></span> <span class="res-pnl res-neg">-17.98 pts</span></div>
 <div class="res-winner"><span class="res-tick">✓</span> <span class="res-horse">Sweet William</span> <span class="res-venue">Ascot 2:35</span> <span class="res-bsp">BSP 2.02</span></div>
 <div class="res-loss-note">19 losses — notable: Joolianoss won at 23.2 BSP</div>
