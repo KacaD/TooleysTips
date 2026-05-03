@@ -501,22 +501,49 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 
 /* ── Dual Sole Bookings box ──────────────────────────────── */
 .summary-box.sole h2{color:#38bdf8;}
-.summary-box.sole{max-height:230px;}
-.sole-item{display:flex;align-items:center;flex-wrap:wrap;gap:4px;
-  padding:3px 5px;border-radius:6px;margin-bottom:3px;cursor:pointer;
-  background:rgba(56,189,248,.07);border:1px solid rgba(56,189,248,.18);
+.summary-box.sole{max-height:420px;}
+/* Tier blocks */
+.sole-tier-block{margin-bottom:6px;}
+.sole-tier-hdr{font-size:10px;font-weight:700;letter-spacing:.05em;
+  padding:3px 6px;border-radius:5px;margin-bottom:4px;}
+.sole-tier-hdr-premium{background:rgba(252,211,77,.18);color:#fcd34d;
+  border:1px solid rgba(252,211,77,.35);}
+.sole-tier-hdr-standard{background:rgba(148,163,184,.12);color:#94a3b8;
+  border:1px solid rgba(148,163,184,.25);}
+.sole-tier-hdr-below{background:rgba(100,116,139,.08);color:#64748b;
+  border:1px solid rgba(100,116,139,.15);}
+.sole-tier-sub{font-size:9px;color:var(--muted);margin:-2px 0 4px 4px;font-style:italic;}
+/* Individual items */
+.sole-item{display:flex;flex-direction:column;gap:2px;
+  padding:4px 6px;border-radius:6px;margin-bottom:3px;cursor:pointer;
   transition:filter .15s;}
 .sole-item:hover{filter:brightness(1.2);}
+.sole-item-premium{background:rgba(252,211,77,.09);border:1px solid rgba(252,211,77,.28);}
+.sole-item-standard{background:rgba(56,189,248,.07);border:1px solid rgba(56,189,248,.18);}
+.sole-item-below{background:rgba(100,116,139,.05);border:1px solid rgba(100,116,139,.12);}
+.sole-main-row{display:flex;align-items:center;flex-wrap:wrap;gap:4px;}
+.sole-tier-star{font-size:11px;}
 .sole-time{color:var(--muted);width:32px;flex-shrink:0;font-size:11px;}
 .sole-course{color:var(--muted);width:70px;flex-shrink:0;font-size:11px;
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 .sole-horse{flex:1;font-weight:700;font-size:11px;}
 .sole-odds{font-size:11px;color:var(--value);width:36px;text-align:right;}
-.sole-back-badge{font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;
-  background:rgba(252,211,77,.15);color:#fcd34d;flex-shrink:0;}
-.sole-conn{font-size:9px;color:var(--muted);width:100%;padding-left:2px;}
+.sole-back-badge,.sole-model{font-size:9px;font-weight:700;padding:1px 5px;
+  border-radius:8px;flex-shrink:0;}
+.sole-model{background:rgba(252,211,77,.15);color:#fcd34d;}
+.sole-score{font-size:10px;font-weight:700;padding:1px 5px;border-radius:6px;flex-shrink:0;}
+.sole-score-premium{background:rgba(252,211,77,.2);color:#fcd34d;}
+.sole-score-standard{background:rgba(56,189,248,.15);color:#38bdf8;}
+.sole-score-below{background:rgba(100,116,139,.15);color:#94a3b8;}
+.sole-conn{font-size:9px;color:var(--muted);padding-left:2px;}
+.sole-jh{margin-left:8px;font-size:9px;font-style:italic;color:#a78bfa;}
 /* Sole stats in performance panel */
 .stat-sole{background:rgba(56,189,248,.05);border-left:2px solid rgba(56,189,248,.3);}
+@media(max-width:600px){
+  .sole-tier-sub{display:none;}
+  .sole-jh{display:none;}
+  .sole-score{font-size:9px;}
+}
 </style>
 </head>
 <body>
@@ -542,7 +569,7 @@ New trainer tags added.</span> &nbsp;<span class='ds-dot'>·</span>&nbsp; <span 
       <h2>🏆 Tooleys Tips of the Day</h2><div class="nap-item" onclick="jumpToRace(41)"><div class="nap-header"><span class="nap-lbl nap-lbl-1">NAP</span><span class="nap-horse">Mafting</span><span class="nap-venue">7:02 Doncaster 1m4f</span></div><div class="nap-tags"><span class="nap-pos-tag">Clear standout</span><span class="nap-pos-tag">10 tips</span></div><div class="nap-narrative">Won sole run this season 12d ago</div></div><div class="nap-item" onclick="jumpToRace(8)"><div class="nap-header"><span class="nap-lbl nap-lbl-2">NB</span><span class="nap-horse">Blue Bolt</span><span class="nap-venue">2:05 Goodwood 1m</span></div><div class="nap-tags"><span class="nap-pos-tag">Clear standout</span><span class="nap-pos-tag">8 tips</span><span class="nap-neg-tag">210d absence</span></div><div class="nap-narrative">In frame all last 5 · Regular jockey retained</div></div><div class="nap-item" onclick="jumpToRace(5)"><div class="nap-header"><span class="nap-lbl nap-lbl-3">RESERVE</span><span class="nap-horse">Tamam Star</span><span class="nap-venue">1:35 Thirsk 5f</span></div><div class="nap-tags"><span class="nap-pos-tag">Clear standout</span><span class="nap-pos-tag">9 tips</span><span class="nap-neg-tag">thin data (1 run)</span></div></div>
     </div>
     <div class="summary-box sole">
-      <h2>⭐ Dual Specialists (0 today) <span style="color:#fcd34d;">★★</span></h2><div class="nap-empty">No dual specialist bookings today</div>
+      <h2>⭐ Dual Specialists (0 today)</h2><div class="nap-empty">No dual specialist bookings today</div>
     </div>
     <div class="summary-box backs">
       <h2>▲ Possible Further Back Picks (34)</h2><div class="summary-pick summary-back" onclick="jumpToRace(0)"><span class="sp-time">12:45</span><span class="sp-course">Uttoxeter 2m</span><span class="sp-horse">Diesel Line</span><span class="sp-score">+16.43</span><span class="sp-conf">★</span></div>
