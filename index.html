@@ -235,6 +235,14 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 .ev-win{background:rgba(34,197,94,.2);color:var(--back);}
 .ev-place{background:rgba(251,191,36,.2);color:var(--value);}
 .summary-back .sp-score{color:var(--back);}
+.summary-nap{background:rgba(251,191,36,.18);border:1px solid rgba(251,191,36,.45);}
+.summary-nap .sp-horse{color:#fbbf24;font-weight:800;}
+.summary-nap .sp-badge{font-size:9px;font-weight:800;background:rgba(251,191,36,.3);
+  color:#fbbf24;border-radius:4px;padding:1px 5px;flex-shrink:0;}
+.summary-ds{background:rgba(99,179,237,.15);border:1px solid rgba(99,179,237,.4);}
+.summary-ds .sp-horse{color:#63b3ed;font-weight:800;}
+.summary-ds .sp-badge{font-size:9px;font-weight:800;background:rgba(99,179,237,.25);
+  color:#63b3ed;border-radius:4px;padding:1px 5px;flex-shrink:0;}
 .summary-lay .sp-score{color:var(--lay);}
 .summary-near .sp-score{color:var(--near);}
 .summary-value .sp-score{color:var(--value);}
@@ -745,7 +753,7 @@ More stats tabs added</span> &nbsp;<span class='ds-dot'>·</span>&nbsp; <span cl
     </div>
   </div>
   <div class="filter-bar">
-    <button class='filter-btn' onclick='toggleBacksPanel(this)' title='All possible further back picks today'>&#9650; Back Picks (32)</button>
+    <button class='filter-btn' onclick='toggleBacksPanel(this)' title='All picks today — Tips, DS &amp; model backs'>&#9650; Back Picks (40)</button>
     <button class='filter-btn' onclick='toggleValuePanel(this)' title='Today&apos;s 3 best value bets — early morning selections'>💰 Value Bets</button>
     <button class='filter-btn' onclick='toggleDsAllPanel(this)' title='All dual specialist horses today (Standard + Tracked)'>&#11088; All DS (23)</button>
     <button class='filter-btn' onclick='toggleRetHorsePanel(this)' title='Horses returning from 120+ day absences with strong records'>🐴 Returning Horses (22)</button>
@@ -838,32 +846,40 @@ More stats tabs added</span> &nbsp;<span class='ds-dot'>·</span>&nbsp; <span cl
 <tr><td class="fav-course">Wincanton</td><td class="fav-num">1061</td><td class="fav-num">379</td><td class="fav-num"><span class="neg">35.7%</span></td><td class="fav-num"><span class="neg">-6.8%</span></td><td class="fav-num"><span class="fav-verdict vgem-lay">LAY GEM</span></td></tr>
 <tr><td class="fav-course">Newbury</td><td class="fav-num">2104</td><td class="fav-num">649</td><td class="fav-num"><span class="neg">30.8%</span></td><td class="fav-num"><span class="neg">-7.4%</span></td><td class="fav-num"><span class="fav-verdict vgem-lay">LAY GEM</span></td></tr>
 <tr><td class="fav-course">Brighton</td><td class="fav-num">1353</td><td class="fav-num">434</td><td class="fav-num"><span class="neg">32.1%</span></td><td class="fav-num"><span class="neg">-8.7%</span></td><td class="fav-num"><span class="fav-verdict vgem-lay">LAY GEM</span></td></tr></tbody></table></div></div>
-  <div class='backs-panel' id='backs-panel'><h3>Back Picks (32) &mdash; Today</h3><div style='display:flex;flex-wrap:wrap;gap:4px;padding-top:6px;'><div class="summary-pick summary-back" onclick="jumpToRace(0)"><span class="sp-time">12:45</span><span class="sp-course">Haydock 3m</span><span class="sp-horse">Tranquil Sea</span><span class="sp-score">+15.62</span><span class="sp-conf">★</span></div>
+  <div class='backs-panel' id='backs-panel'><h3>Back Picks (40) &mdash; Today</h3><div style='display:flex;flex-wrap:wrap;gap:4px;padding-top:6px;'><div class="summary-pick summary-ds" onclick="jumpToRace(0)"><span class="sp-time">12:45</span><span class="sp-course">Haydock </span><span class="sp-badge">⭐DS</span><span class="sp-horse">Tranquil Sea</span><span class="sp-odds">4/1</span></div>
+<div class="summary-pick summary-back" onclick="jumpToRace(0)"><span class="sp-time">12:45</span><span class="sp-course">Haydock 3m</span><span class="sp-horse">Tranquil Sea</span><span class="sp-score">+15.62</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(1)"><span class="sp-time">12:55</span><span class="sp-course">Lingfield 1m2f</span><span class="sp-horse">Sweet Reward</span><span class="sp-score">+17.83</span><span class="sp-conf">★</span></div>
+<div class="summary-pick summary-nap" onclick="jumpToRace(4)"><span class="sp-time">1:28</span><span class="sp-course">Lingfield 1m3f</span><span class="sp-badge">TIP</span><span class="sp-horse">Amora Queen</span></div>
+<div class="summary-pick summary-ds" onclick="jumpToRace(4)"><span class="sp-time">1:28</span><span class="sp-course">Lingfield </span><span class="sp-badge">⭐DS</span><span class="sp-horse">Prizeland</span><span class="sp-odds">9/2</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(5)"><span class="sp-time">1:38</span><span class="sp-course">Nottingham 6f</span><span class="sp-horse">Bayside</span><span class="sp-score">+15.70</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(6)"><span class="sp-time">1:45</span><span class="sp-course">Ascot 1m</span><span class="sp-horse">Zgharta</span><span class="sp-score">+18.84</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(7)"><span class="sp-time">1:48</span><span class="sp-course">Haydock 1m7f</span><span class="sp-horse">Aribidia</span><span class="sp-score">+15.50</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(8)"><span class="sp-time">1:58</span><span class="sp-course">Lingfield 1m3f</span><span class="sp-horse">Maho Bay</span><span class="sp-score">+15.45</span><span class="sp-conf">★</span></div>
+<div class="summary-pick summary-nap" onclick="jumpToRace(9)"><span class="sp-time">2:08</span><span class="sp-course">Nottingham 1m</span><span class="sp-badge">TIP</span><span class="sp-horse">Lighting Thunder</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(11)"><span class="sp-time">2:30</span><span class="sp-course">Haydock 1m3f</span><span class="sp-horse">Barbury Boy</span><span class="sp-score">+16.74</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(16)"><span class="sp-time">3:15</span><span class="sp-course">Lingfield 7f</span><span class="sp-horse">Dragon Leader</span><span class="sp-score">+18.01</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(17)"><span class="sp-time">3:20</span><span class="sp-course">Hexham 2m</span><span class="sp-horse">Tap Tap Shamie</span><span class="sp-score">+15.30</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(18)"><span class="sp-time">3:25</span><span class="sp-course">Nottingham 1m</span><span class="sp-horse">Leadenhall</span><span class="sp-score">+18.43</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(19)"><span class="sp-time">3:30</span><span class="sp-course">Ascot 1m2f</span><span class="sp-horse">Waterford Castle</span><span class="sp-score">+16.05</span><span class="sp-conf">★</span></div>
+<div class="summary-pick summary-ds" onclick="jumpToRace(20)"><span class="sp-time">3:40</span><span class="sp-course">Haydock </span><span class="sp-badge">⭐DS</span><span class="sp-horse">Lake Forest</span><span class="sp-odds">9/4</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(20)"><span class="sp-time">3:40</span><span class="sp-course">Haydock 7f</span><span class="sp-horse">Lake Forest</span><span class="sp-score">+17.10</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(22)"><span class="sp-time">3:55</span><span class="sp-course">Hexham 1m7f</span><span class="sp-horse">Zero Tolerance</span><span class="sp-score">+17.63</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(23)"><span class="sp-time">4:00</span><span class="sp-course">Nottingham 5f</span><span class="sp-horse">Komorkis</span><span class="sp-score">+15.89</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(24)"><span class="sp-time">4:05</span><span class="sp-course">Ascot 1m2f</span><span class="sp-horse">Naga</span><span class="sp-score">+18.39</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(25)"><span class="sp-time">4:15</span><span class="sp-course">Haydock 7f</span><span class="sp-horse">Diligent Resdev</span><span class="sp-score">+16.27</span><span class="sp-conf">★</span></div>
+<div class="summary-pick summary-ds" onclick="jumpToRace(26)"><span class="sp-time">4:25</span><span class="sp-course">Lingfield </span><span class="sp-badge">⭐DS</span><span class="sp-horse">So Smart</span><span class="sp-odds">14/1</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(27)"><span class="sp-time">4:30</span><span class="sp-course">Hexham 3m</span><span class="sp-horse">Jet Legs</span><span class="sp-score">+19.85</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(28)"><span class="sp-time">4:35</span><span class="sp-course">Nottingham 5f</span><span class="sp-horse">Tickettothestars</span><span class="sp-score">+16.36</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(29)"><span class="sp-time">4:40</span><span class="sp-course">Ascot 6f</span><span class="sp-horse">Azure Zain</span><span class="sp-score">+16.16</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(30)"><span class="sp-time">5:05</span><span class="sp-course">Hexham 3m</span><span class="sp-horse">Eagles Rock</span><span class="sp-score">+17.05</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(31)"><span class="sp-time">5:10</span><span class="sp-course">Nottingham 1m6f</span><span class="sp-horse">Gentle Warrior</span><span class="sp-score">+18.95</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(32)"><span class="sp-time">5:25</span><span class="sp-course">Leicester 5f</span><span class="sp-horse">Thunda Struck</span><span class="sp-score">+15.47</span><span class="sp-conf">★</span></div>
+<div class="summary-pick summary-ds" onclick="jumpToRace(34)"><span class="sp-time">5:42</span><span class="sp-course">Hexham </span><span class="sp-badge">⭐DS</span><span class="sp-horse">Saracen Beau</span><span class="sp-odds">3/1</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(34)"><span class="sp-time">5:42</span><span class="sp-course">Hexham 2m4f</span><span class="sp-horse">The Four Sixes</span><span class="sp-score">+16.18</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(35)"><span class="sp-time">5:55</span><span class="sp-course">Leicester 7f</span><span class="sp-horse">Masked Warrior</span><span class="sp-score">+15.94</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(37)"><span class="sp-time">6:15</span><span class="sp-course">Hexham 2m</span><span class="sp-horse">Gemini Man</span><span class="sp-score">+17.27</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(38)"><span class="sp-time">6:25</span><span class="sp-course">Leicester 6f</span><span class="sp-horse">This Farh</span><span class="sp-score">+18.52</span><span class="sp-conf">★</span></div>
+<div class="summary-pick summary-nap" onclick="jumpToRace(39)"><span class="sp-time">6:37</span><span class="sp-course">Warwick 3m1f</span><span class="sp-badge">TIP</span><span class="sp-horse">Silver Gale</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(41)"><span class="sp-time">6:55</span><span class="sp-course">Leicester 1m4f</span><span class="sp-horse">Kurios Lady</span><span class="sp-score">+15.59</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(42)"><span class="sp-time">7:07</span><span class="sp-course">Warwick 2m5f</span><span class="sp-horse">Impecunious</span><span class="sp-score">+15.97</span><span class="sp-conf">★</span></div>
 <div class="summary-pick summary-back" onclick="jumpToRace(43)"><span class="sp-time">7:25</span><span class="sp-course">Leicester 7f</span><span class="sp-horse">Albeseeingyer</span><span class="sp-score">+16.95</span><span class="sp-conf">★</span></div>
