@@ -2376,9 +2376,12 @@ function toggleSummaryPanel(btn){
     if(!panel) return;
     const hidden = panel.style.display === 'none';
     panel.style.display = hidden ? '' : 'none';
-    btn.classList.toggle('collapsed', !hidden);
-    btn.querySelector('.pcb-label').textContent = hidden ? 'Hide Panel' : 'Show Panel';
-    if(btnBot) btnBot.style.display = hidden ? '' : 'none';
+    // Update both buttons to reflect new state
+    [btn, btnBot].forEach(b => {
+        if(!b) return;
+        b.classList.toggle('collapsed', !hidden);
+        b.querySelector('.pcb-label').textContent = hidden ? 'Hide Panel' : 'Show Panel';
+    });
 }
 function collapseRunner(btn, rowId){
     const row = document.getElementById(rowId);
