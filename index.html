@@ -2439,7 +2439,9 @@ function toggleSummaryPanel(btn){
     });
 }
 function collapseRunner(btn, rowId){
-    const row = document.getElementById(rowId);
+    // Use closest() so it works on mobile drawer clones (getElementById finds the
+    // original hidden element, not the visible clone)
+    const row = btn.closest('.runner-row') || document.getElementById(rowId);
     if(!row) return;
     const collapsed = row.classList.toggle('rn-collapsed');
     btn.classList.toggle('collapsed', collapsed);
