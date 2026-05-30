@@ -3807,15 +3807,15 @@ function histFilter(cat, btn){
 
   // ── Wrap filter-bar + race cards in a collapsible "Todays Racing & Tabs" ──
   var wrap = document.getElementById('mob-racing-wrap');
-  if(wrap) {
-    // Container box — same style as other sections
+  var racingSP = document.getElementById('summaryPanel');
+  if(wrap && racingSP) {
+    // Add as last child of summaryPanel — same grid/padding as other sections
     var racingBox = document.createElement('div');
-    racingBox.style.cssText = 'background:var(--surface);border:1px solid var(--border);border-radius:10px;margin:6px 0 0;';
+    racingBox.className = 'summary-box';
     var hdr = document.createElement('div');
-    hdr.style.cssText = 'display:flex;justify-content:space-between;align-items:center;' +
-      'padding:7px;cursor:pointer;user-select:none;';
-    var lbl = document.createElement('span');
-    lbl.style.cssText = 'font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:#7dd3fc;';
+    hdr.style.cssText = 'display:flex;justify-content:space-between;align-items:center;cursor:pointer;user-select:none;';
+    var lbl = document.createElement('h2');
+    lbl.style.cssText = 'color:#7dd3fc;margin-bottom:0;';
     lbl.textContent = '🏇 Todays Racing & Tabs';
     var icon2 = document.createElement('span');
     icon2.textContent = '+';
@@ -3824,10 +3824,9 @@ function histFilter(cat, btn){
     hdr.appendChild(lbl);
     hdr.appendChild(icon2);
     wrap.style.display = 'none';
-    // Insert racingBox into the page FIRST, then move wrap inside it
-    wrap.parentNode.insertBefore(racingBox, wrap);
     racingBox.appendChild(hdr);
     racingBox.appendChild(wrap);
+    racingSP.appendChild(racingBox);
     hdr.addEventListener('click', function(){
       var open = wrap.style.display !== 'none';
       wrap.style.display = open ? 'none' : 'block';
