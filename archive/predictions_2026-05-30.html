@@ -2532,7 +2532,7 @@ margin:10px 0 4px;padding:4px 8px;background:var(--surface2);border-radius:4px;}
 </div>
 </div><!-- /mob-racing-wrap -->
 <div class="page-footer">
-  Generated Friday 29/05/2026
+  Generated Friday 29/05/2026 &middot; Past performance is not a guarantee of future results.
 </div>
 <script>
 function toggleRace(hdr){
@@ -3833,7 +3833,9 @@ function histFilter(cat, btn){
     wrap.style.display = 'none';
     racingBox.appendChild(hdr);
     racingBox.appendChild(wrap);
-    racingSP.appendChild(racingBox);
+    var _infoBox = racingSP.querySelector('.info-box');
+    if(_infoBox) { racingSP.insertBefore(racingBox, _infoBox); }
+    else { racingSP.appendChild(racingBox); }
     hdr.addEventListener('click', function(){
       var open = wrap.style.display !== 'none';
       wrap.style.display = open ? 'none' : 'block';
