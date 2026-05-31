@@ -1055,7 +1055,7 @@ margin:10px 0 4px;padding:4px 8px;background:var(--surface2);border-radius:4px;}
   <button class="panel-collapse-btn panel-collapse-btn-bottom" id="summaryCollapseBtnBottom" onclick="toggleSummaryPanel(this)" title="Hide/show summary panel"><span class="pcb-arrow">&#9650;</span> <span class="pcb-label">Hide Panel</span></button>
   <div class="filter-bar mob-pre-init" style="display:none">
     <button class='filter-btn' onclick='toggleBacksPanel(this)' title='All picks today — Tips, DS &amp; model backs'>Todays Racing (27)</button>
-    <button class='filter-btn' onclick='togglePlaceHistPanel(this)' title='Win vs Place vs Each-Way P&amp;L history'>Back History</button>
+    <button class='filter-btn mob-info-tab' onclick='togglePlaceHistPanel(this)' title='Win vs Place vs Each-Way P&amp;L history'>Back History</button>
     <button class='filter-btn mob-info-tab' onclick='toggleDsPlaceHistPanel(this)' title='DS Premium Win vs Place vs Each-Way P&amp;L history'>DS History</button>
     
     
@@ -4380,6 +4380,7 @@ function toggleSunMode(){
     // Extra buttons
     var updBtn   = _mkInfoBtn('Updates',       'updates-panel');
     var histBtn  = _mkInfoBtn('History',        'hist-panel');
+    var backHBtn = _mkInfoBtn('Back History',   'place-hist-panel');
     var dsHBtn   = _mkInfoBtn('DS History',     'ds-place-hist-panel');
     var bfBtn    = _mkInfoBtn('Betfair Guide',  'betfair-panel');
     var monBtn   = _mkInfoBtn('Monthly',        'month-panel');
@@ -4388,6 +4389,7 @@ function toggleSunMode(){
     tabBar.appendChild(msgBtn);
     tabBar.appendChild(updBtn);
     tabBar.appendChild(histBtn);
+    tabBar.appendChild(backHBtn);
     tabBar.appendChild(dsHBtn);
     tabBar.appendChild(bfBtn);
     tabBar.appendChild(monBtn);
