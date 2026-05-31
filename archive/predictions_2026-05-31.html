@@ -64,8 +64,9 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
     text-align:left;align-self:flex-start;width:100%;}
 }
 /* Daily strip */
-#mob-news-wrap{width:100%;}.ds-msg-row{width:100%;margin-bottom:3px;text-align:center;}.ds-shout-row{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:6px;}.daily-strip{width:100%;display:flex;flex-direction:column;align-items:center;
+#mob-news-wrap{width:100%;}.ds-msg-row{width:100%;margin-bottom:3px;}.ds-shout-row{display:flex;flex-wrap:wrap;align-items:center;gap:6px;}.daily-strip{width:100%;display:flex;flex-direction:column;align-items:flex-start;
   font-size:12px;min-width:0;overflow:hidden;}
+@media(min-width:769px){.ds-msg-row{text-align:center;}.ds-shout-row{justify-content:center;}.daily-strip{align-items:center;}}
 .ds-dot{color:var(--border);}
 .ds-custom{color:#c4b5fd;font-weight:600;}
 .ds-win{color:#4ade80;font-weight:600;}
