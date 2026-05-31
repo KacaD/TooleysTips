@@ -20,7 +20,7 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 /* On mobile: drop sticky so the whole page is one scroll container.
    Nested sticky + overflow:auto boxes confuse mobile browsers into
    reporting far more scroll distance than the content needs. */
-@media(min-width:769px){.mob-only-bottom{display:none;}}@media(max-width:768px){.mob-info-tab{display:none !important;}}
+@media(min-width:769px){.mob-only-bottom{display:none;}}@media(max-width:768px){.mob-info-tab{display:none !important;}.summary-box.info-box{background:var(--surface);}.summary-box.info-box>div:last-child{background:var(--surface);}}
 @media(max-width:768px){
   .sticky-wrapper{position:static;box-shadow:none;}
   #mob-news-wrap{display:none;}
