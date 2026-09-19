@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "14:46:31",
- "count": 10,
+ "updated": "14:59:36",
+ "count": 11,
  "bets": [
   {
    "time": "13:02",
@@ -82,6 +82,14 @@
    "placed_at": "14:46:29",
    "price": 52.44,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "15:00",
+   "course": "Newmarket",
+   "horse": "Rajaking",
+   "placed_at": "14:59:32",
+   "price": 3.77,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
