@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "14:34:36",
- "count": 9,
+ "updated": "14:46:31",
+ "count": 10,
  "bets": [
   {
    "time": "13:02",
@@ -74,6 +74,14 @@
    "placed_at": "14:34:35",
    "price": 6.1,
    "secs_to_off": 25.0
+  },
+  {
+   "time": "14:47",
+   "course": "Newbury",
+   "horse": "Old Harrovian",
+   "placed_at": "14:46:29",
+   "price": 52.44,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
