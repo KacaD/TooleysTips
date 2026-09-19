@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "17:24:32",
- "count": 23,
+ "updated": "17:54:36",
+ "count": 24,
  "bets": [
   {
    "time": "13:02",
@@ -185,6 +185,14 @@
    "horse": "Zimmerman",
    "placed_at": "17:24:32",
    "price": 5.15,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "17:55",
+   "course": "Newcastle (AW)",
+   "horse": "Grow Old With Me",
+   "placed_at": "17:54:32",
+   "price": 2.79,
    "secs_to_off": 28.0
   }
  ],
