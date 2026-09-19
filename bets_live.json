@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "16:09:36",
- "count": 17,
+ "updated": "16:14:36",
+ "count": 18,
  "bets": [
   {
    "time": "13:02",
@@ -138,6 +138,14 @@
    "placed_at": "16:09:35",
    "price": 6.5,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "16:15",
+   "course": "Ayr",
+   "horse": "Amir Lehbab",
+   "placed_at": "16:14:32",
+   "price": 1.61,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
