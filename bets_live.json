@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "16:14:36",
- "count": 18,
+ "updated": "16:16:36",
+ "count": 19,
  "bets": [
   {
    "time": "13:02",
@@ -145,6 +145,14 @@
    "horse": "Amir Lehbab",
    "placed_at": "16:14:32",
    "price": 1.61,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:17",
+   "course": "Chester",
+   "horse": "Elegant Erin",
+   "placed_at": "16:16:32",
+   "price": 8.3,
    "secs_to_off": 30.0
   }
  ],
