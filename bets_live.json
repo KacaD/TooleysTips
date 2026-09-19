@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "14:59:36",
- "count": 11,
+ "updated": "15:09:36",
+ "count": 12,
  "bets": [
   {
    "time": "13:02",
@@ -90,6 +90,14 @@
    "placed_at": "14:59:32",
    "price": 3.77,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "15:10",
+   "course": "Chester",
+   "horse": "Dunkeld Dreamer",
+   "placed_at": "15:09:32",
+   "price": 5.75,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
