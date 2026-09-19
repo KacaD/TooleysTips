@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "15:45:37",
- "count": 15,
+ "updated": "15:54:37",
+ "count": 16,
  "bets": [
   {
    "time": "13:02",
@@ -122,6 +122,14 @@
    "placed_at": "15:45:32",
    "price": 7.9,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "15:55",
+   "course": "Newbury",
+   "horse": "Aalto",
+   "placed_at": "15:54:35",
+   "price": 4.45,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
