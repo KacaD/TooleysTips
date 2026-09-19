@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "16:16:36",
- "count": 19,
+ "updated": "16:51:32",
+ "count": 20,
  "bets": [
   {
    "time": "13:02",
@@ -153,6 +153,14 @@
    "horse": "Elegant Erin",
    "placed_at": "16:16:32",
    "price": 8.3,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:52",
+   "course": "Chester",
+   "horse": "Blue Prince",
+   "placed_at": "16:51:29",
+   "price": 8.7,
    "secs_to_off": 30.0
   }
  ],
