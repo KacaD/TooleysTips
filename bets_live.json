@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "13:51:01",
- "count": 5,
+ "updated": "13:59:36",
+ "count": 6,
  "bets": [
   {
    "time": "13:02",
@@ -42,6 +42,14 @@
    "placed_at": "13:49:38",
    "price": 3.27,
    "secs_to_off": 24.0
+  },
+  {
+   "time": "14:00",
+   "course": "Chester",
+   "horse": "Impulsive Spirit",
+   "placed_at": "13:59:35",
+   "price": 2.37,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
