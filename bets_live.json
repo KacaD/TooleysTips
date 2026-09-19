@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "14:11:36",
- "count": 7,
+ "updated": "14:29:36",
+ "count": 8,
  "bets": [
   {
    "time": "13:02",
@@ -57,6 +57,14 @@
    "horse": "Arapaho Gold",
    "placed_at": "14:11:32",
    "price": 2.53,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "14:30",
+   "course": "Ayr",
+   "horse": "Deep Havana",
+   "placed_at": "14:29:32",
+   "price": 5.45,
    "secs_to_off": 29.0
   }
  ],
