@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "16:54:32",
- "count": 21,
+ "updated": "17:19:32",
+ "count": 22,
  "bets": [
   {
    "time": "13:02",
@@ -170,6 +170,14 @@
    "placed_at": "16:54:29",
    "price": 2.77,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "17:20",
+   "course": "Newcastle (AW)",
+   "horse": "Enriched",
+   "placed_at": "17:19:32",
+   "price": 3.52,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
