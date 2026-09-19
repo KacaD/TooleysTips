@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "16:51:32",
- "count": 20,
+ "updated": "16:54:32",
+ "count": 21,
  "bets": [
   {
    "time": "13:02",
@@ -161,6 +161,14 @@
    "horse": "Blue Prince",
    "placed_at": "16:51:29",
    "price": 8.7,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:55",
+   "course": "Newmarket",
+   "horse": "Humphrey",
+   "placed_at": "16:54:29",
+   "price": 2.77,
    "secs_to_off": 30.0
   }
  ],
