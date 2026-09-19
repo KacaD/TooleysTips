@@ -1,7 +1,7 @@
 {
  "date": "2026-09-19",
- "updated": "17:19:32",
- "count": 22,
+ "updated": "17:24:32",
+ "count": 23,
  "bets": [
   {
    "time": "13:02",
@@ -178,6 +178,14 @@
    "placed_at": "17:19:32",
    "price": 3.52,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "17:25",
+   "course": "Chester",
+   "horse": "Zimmerman",
+   "placed_at": "17:24:32",
+   "price": 5.15,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
