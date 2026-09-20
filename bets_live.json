@@ -1,7 +1,7 @@
 {
  "date": "2026-09-20",
- "updated": "15:07:31",
- "count": 3,
+ "updated": "15:29:36",
+ "count": 4,
  "bets": [
   {
    "time": "14:08",
@@ -26,6 +26,14 @@
    "placed_at": "15:07:30",
    "price": 2.21,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "15:30",
+   "course": "Hamilton",
+   "horse": "Annie Edson Taylor",
+   "placed_at": "15:29:32",
+   "price": 5.25,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
