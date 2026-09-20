@@ -1,7 +1,7 @@
 {
  "date": "2026-09-20",
- "updated": "14:07:32",
- "count": 1,
+ "updated": "14:29:32",
+ "count": 2,
  "bets": [
   {
    "time": "14:08",
@@ -10,6 +10,14 @@
    "placed_at": "14:07:31",
    "price": 2.55,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "14:30",
+   "course": "Hamilton",
+   "horse": "Space Dreamer",
+   "placed_at": "14:29:30",
+   "price": 4.35,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
