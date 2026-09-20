@@ -1,7 +1,7 @@
 {
  "date": "2026-09-20",
- "updated": "16:59:31",
- "count": 9,
+ "updated": "17:07:31",
+ "count": 10,
  "bets": [
   {
    "time": "14:08",
@@ -73,6 +73,14 @@
    "horse": "Uncle Liam",
    "placed_at": "16:59:29",
    "price": 2.17,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "17:08",
+   "course": "Plumpton",
+   "horse": "Company Charge",
+   "placed_at": "17:07:29",
+   "price": 9.5,
    "secs_to_off": 30.0
   }
  ],
