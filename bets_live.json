@@ -1,7 +1,7 @@
 {
  "date": "2026-09-20",
- "updated": "14:29:32",
- "count": 2,
+ "updated": "15:07:31",
+ "count": 3,
  "bets": [
   {
    "time": "14:08",
@@ -17,6 +17,14 @@
    "horse": "Space Dreamer",
    "placed_at": "14:29:30",
    "price": 4.35,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:08",
+   "course": "Plumpton",
+   "horse": "Premier Fantasy",
+   "placed_at": "15:07:30",
+   "price": 2.21,
    "secs_to_off": 30.0
   }
  ],
