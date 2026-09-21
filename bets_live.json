@@ -1,7 +1,16 @@
 {
  "date": "2026-09-21",
- "updated": "10:00:01",
- "count": 0,
- "bets": [],
+ "updated": "13:42:37",
+ "count": 1,
+ "bets": [
+  {
+   "time": "13:43",
+   "course": "Hamilton",
+   "horse": "Hostelry",
+   "placed_at": "13:42:34",
+   "price": 6.9,
+   "secs_to_off": 28.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
