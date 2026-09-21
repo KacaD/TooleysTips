@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "updated": "17:16:31",
- "count": 16,
+ "updated": "17:51:32",
+ "count": 17,
  "bets": [
   {
    "time": "13:43",
@@ -129,6 +129,14 @@
    "horse": "Violet Goldsmith",
    "placed_at": "17:16:31",
    "price": 6.3,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "17:52",
+   "course": "Ffos Las",
+   "horse": "Rogers Dream",
+   "placed_at": "17:51:31",
+   "price": 2.98,
    "secs_to_off": 28.0
   }
  ],
