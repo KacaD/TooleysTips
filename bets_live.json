@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "updated": "19:41:32",
- "count": 21,
+ "updated": "20:11:32",
+ "count": 22,
  "bets": [
   {
    "time": "13:43",
@@ -169,6 +169,14 @@
    "horse": "Satyress",
    "placed_at": "19:41:31",
    "price": 2.27,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "20:12",
+   "course": "Wolverhampton (AW)",
+   "horse": "Just Jump",
+   "placed_at": "20:11:31",
+   "price": 3.12,
    "secs_to_off": 28.0
   }
  ],
