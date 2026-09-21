@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "updated": "16:29:31",
- "count": 12,
+ "updated": "16:34:31",
+ "count": 13,
  "bets": [
   {
    "time": "13:43",
@@ -98,6 +98,14 @@
    "placed_at": "16:29:31",
    "price": 2.39,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "16:35",
+   "course": "Wolverhampton (AW)",
+   "horse": "Jack Langley",
+   "placed_at": "16:34:31",
+   "price": 2.37,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
