@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "updated": "15:36:37",
- "count": 9,
+ "updated": "15:59:37",
+ "count": 10,
  "bets": [
   {
    "time": "13:43",
@@ -74,6 +74,14 @@
    "placed_at": "15:36:34",
    "price": 1.64,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "16:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "The Anthony Gover",
+   "placed_at": "15:59:34",
+   "price": 3.62,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
