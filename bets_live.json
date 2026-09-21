@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "updated": "17:06:36",
- "count": 15,
+ "updated": "17:16:31",
+ "count": 16,
  "bets": [
   {
    "time": "13:43",
@@ -121,6 +121,14 @@
    "horse": "Chianti",
    "placed_at": "17:06:31",
    "price": 3.47,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "17:17",
+   "course": "Leicester",
+   "horse": "Violet Goldsmith",
+   "placed_at": "17:16:31",
+   "price": 6.3,
    "secs_to_off": 28.0
   }
  ],
