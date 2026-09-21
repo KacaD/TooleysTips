@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "updated": "15:08:32",
- "count": 7,
+ "updated": "15:21:37",
+ "count": 8,
  "bets": [
   {
    "time": "13:43",
@@ -58,6 +58,14 @@
    "placed_at": "15:08:31",
    "price": 3.22,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "15:22",
+   "course": "Hamilton",
+   "horse": "Jordan Electrics",
+   "placed_at": "15:21:34",
+   "price": 5.05,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
