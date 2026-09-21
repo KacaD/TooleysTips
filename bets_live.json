@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "updated": "16:11:36",
- "count": 11,
+ "updated": "16:29:31",
+ "count": 12,
  "bets": [
   {
    "time": "13:43",
@@ -90,6 +90,14 @@
    "placed_at": "16:11:34",
    "price": 16.25,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "16:30",
+   "course": "Hamilton",
+   "horse": "City Captain",
+   "placed_at": "16:29:31",
+   "price": 2.39,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
