@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "updated": "15:21:37",
- "count": 8,
+ "updated": "15:36:37",
+ "count": 9,
  "bets": [
   {
    "time": "13:43",
@@ -65,6 +65,14 @@
    "horse": "Jordan Electrics",
    "placed_at": "15:21:34",
    "price": 5.05,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "15:37",
+   "course": "Leicester",
+   "horse": "Allaire",
+   "placed_at": "15:36:34",
+   "price": 1.64,
    "secs_to_off": 27.0
   }
  ],
