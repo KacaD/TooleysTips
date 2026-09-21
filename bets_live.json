@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "updated": "13:58:31",
- "count": 2,
+ "updated": "14:03:31",
+ "count": 3,
  "bets": [
   {
    "time": "13:43",
@@ -17,6 +17,14 @@
    "horse": "Another Encore",
    "placed_at": "13:58:31",
    "price": 3.82,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "14:04",
+   "course": "Ffos Las",
+   "horse": "Harry's Pop",
+   "placed_at": "14:03:31",
+   "price": 5.5,
    "secs_to_off": 29.0
   }
  ],
