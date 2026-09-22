@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "16:47:32",
- "count": 12,
+ "updated": "16:59:32",
+ "count": 13,
  "bets": [
   {
    "time": "13:55",
@@ -98,6 +98,14 @@
    "placed_at": "16:47:31",
    "price": 5.05,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "17:00",
+   "course": "Beverley",
+   "horse": "Tattie Bogle",
+   "placed_at": "16:59:31",
+   "price": 6.5,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
