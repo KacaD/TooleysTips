@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "15:04:37",
- "count": 6,
+ "updated": "15:14:31",
+ "count": 7,
  "bets": [
   {
    "time": "13:55",
@@ -50,6 +50,14 @@
    "placed_at": "15:04:36",
    "price": 1.69,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "15:15",
+   "course": "Beverley",
+   "horse": "Jakajaro",
+   "placed_at": "15:14:30",
+   "price": 2.49,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
