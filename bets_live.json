@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "16:24:36",
- "count": 10,
+ "updated": "16:31:36",
+ "count": 11,
  "bets": [
   {
    "time": "13:55",
@@ -81,6 +81,14 @@
    "horse": "Supreme Clarets",
    "placed_at": "16:24:33",
    "price": 4.45,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "16:32",
+   "course": "Fontwell",
+   "horse": "Yes Day",
+   "placed_at": "16:31:33",
+   "price": 3.12,
    "secs_to_off": 28.0
   }
  ],
