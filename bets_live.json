@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "16:59:32",
- "count": 13,
+ "updated": "17:06:32",
+ "count": 14,
  "bets": [
   {
    "time": "13:55",
@@ -105,6 +105,14 @@
    "horse": "Tattie Bogle",
    "placed_at": "16:59:31",
    "price": 6.5,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "17:07",
+   "course": "Fontwell",
+   "horse": "Midnight Pass",
+   "placed_at": "17:06:31",
+   "price": 6.9,
    "secs_to_off": 29.0
   }
  ],
