@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "13:54:36",
- "count": 1,
+ "updated": "14:04:36",
+ "count": 2,
  "bets": [
   {
    "time": "13:55",
@@ -10,6 +10,14 @@
    "placed_at": "13:54:36",
    "price": 3.92,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "14:05",
+   "course": "Beverley",
+   "horse": "Arthurian",
+   "placed_at": "14:04:33",
+   "price": 1.64,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
