@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "14:11:37",
- "count": 3,
+ "updated": "14:29:37",
+ "count": 4,
  "bets": [
   {
    "time": "13:55",
@@ -25,6 +25,14 @@
    "horse": "Virtual Rock",
    "placed_at": "14:11:33",
    "price": 2.39,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "14:30",
+   "course": "Warwick",
+   "horse": "Malinas Glory",
+   "placed_at": "14:29:33",
+   "price": 2.93,
    "secs_to_off": 27.0
   }
  ],
