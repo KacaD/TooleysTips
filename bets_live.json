@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "14:04:36",
- "count": 2,
+ "updated": "14:11:37",
+ "count": 3,
  "bets": [
   {
    "time": "13:55",
@@ -18,6 +18,14 @@
    "placed_at": "14:04:33",
    "price": 1.64,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "14:12",
+   "course": "Fontwell",
+   "horse": "Virtual Rock",
+   "placed_at": "14:11:33",
+   "price": 2.39,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
