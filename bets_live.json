@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "17:34:36",
- "count": 16,
+ "updated": "18:29:31",
+ "count": 17,
  "bets": [
   {
    "time": "13:55",
@@ -129,6 +129,14 @@
    "horse": "Buckland Belle",
    "placed_at": "17:34:31",
    "price": 2.79,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "18:30",
+   "course": "Southwell (AW)",
+   "horse": "Inside Story",
+   "placed_at": "18:29:31",
+   "price": 2.95,
    "secs_to_off": 29.0
   }
  ],
