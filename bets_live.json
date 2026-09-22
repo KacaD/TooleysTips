@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "15:14:31",
- "count": 7,
+ "updated": "15:21:36",
+ "count": 8,
  "bets": [
   {
    "time": "13:55",
@@ -58,6 +58,14 @@
    "placed_at": "15:14:30",
    "price": 2.49,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "15:22",
+   "course": "Fontwell",
+   "horse": "Rum Diamond",
+   "placed_at": "15:21:33",
+   "price": 1.83,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
