@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "14:39:37",
- "count": 5,
+ "updated": "15:04:37",
+ "count": 6,
  "bets": [
   {
    "time": "13:55",
@@ -42,6 +42,14 @@
    "placed_at": "14:39:33",
    "price": 1.8,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "15:05",
+   "course": "Warwick",
+   "horse": "Tralee Girl",
+   "placed_at": "15:04:36",
+   "price": 1.69,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
