@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "19:59:31",
- "count": 20,
+ "updated": "20:29:31",
+ "count": 21,
  "bets": [
   {
    "time": "13:55",
@@ -161,6 +161,14 @@
    "horse": "Managing Director",
    "placed_at": "19:59:31",
    "price": 1.97,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "20:30",
+   "course": "Southwell (AW)",
+   "horse": "Solarize",
+   "placed_at": "20:29:31",
+   "price": 10.75,
    "secs_to_off": 28.0
   }
  ],
