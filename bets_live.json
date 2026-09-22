@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "updated": "17:06:32",
- "count": 14,
+ "updated": "17:29:31",
+ "count": 15,
  "bets": [
   {
    "time": "13:55",
@@ -114,6 +114,14 @@
    "placed_at": "17:06:31",
    "price": 6.9,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "17:30",
+   "course": "Southwell (AW)",
+   "horse": "Winston's Warrior",
+   "placed_at": "17:29:31",
+   "price": 4.35,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
