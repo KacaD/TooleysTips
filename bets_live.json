@@ -1,7 +1,7 @@
 {
  "date": "2026-09-23",
- "updated": "19:59:32",
- "count": 15,
+ "updated": "20:29:31",
+ "count": 16,
  "bets": [
   {
    "time": "15:15",
@@ -122,6 +122,14 @@
    "placed_at": "19:59:30",
    "price": 5.05,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "20:30",
+   "course": "Kempton (AW)",
+   "horse": "Arundel",
+   "placed_at": "20:29:30",
+   "price": 4.95,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
