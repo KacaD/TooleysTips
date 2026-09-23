@@ -1,7 +1,16 @@
 {
  "date": "2026-09-23",
- "updated": "10:00:01",
- "count": 0,
- "bets": [],
+ "updated": "15:14:37",
+ "count": 1,
+ "bets": [
+  {
+   "time": "15:15",
+   "course": "Goodwood",
+   "horse": "Boiling Point",
+   "placed_at": "15:14:33",
+   "price": 4.05,
+   "secs_to_off": 28.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
