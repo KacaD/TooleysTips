@@ -1,7 +1,7 @@
 {
  "date": "2026-09-23",
- "updated": "17:59:31",
- "count": 12,
+ "updated": "18:29:31",
+ "count": 13,
  "bets": [
   {
    "time": "15:15",
@@ -98,6 +98,14 @@
    "placed_at": "17:59:30",
    "price": 2.19,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "18:30",
+   "course": "Kempton (AW)",
+   "horse": "Iconic Dawn",
+   "placed_at": "18:29:30",
+   "price": 6.9,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
