@@ -1,7 +1,7 @@
 {
  "date": "2026-09-23",
- "updated": "18:29:31",
- "count": 13,
+ "updated": "19:29:32",
+ "count": 14,
  "bets": [
   {
    "time": "15:15",
@@ -106,6 +106,14 @@
    "placed_at": "18:29:30",
    "price": 6.9,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "19:30",
+   "course": "Kempton (AW)",
+   "horse": "Manly Fireball",
+   "placed_at": "19:29:30",
+   "price": 10.25,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
