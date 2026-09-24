@@ -1,7 +1,7 @@
 {
  "date": "2026-09-24",
- "updated": "18:29:32",
- "count": 15,
+ "updated": "19:29:31",
+ "count": 16,
  "bets": [
   {
    "time": "15:17",
@@ -121,6 +121,14 @@
    "horse": "Lady Henshaw",
    "placed_at": "18:29:30",
    "price": 4.55,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "19:30",
+   "course": "Southwell (AW)",
+   "horse": "Fiorella Princess",
+   "placed_at": "19:29:30",
+   "price": 2.27,
    "secs_to_off": 30.0
   }
  ],
