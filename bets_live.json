@@ -1,7 +1,7 @@
 {
  "date": "2026-09-24",
- "updated": "16:09:37",
- "count": 5,
+ "updated": "16:21:32",
+ "count": 6,
  "bets": [
   {
    "time": "15:17",
@@ -42,6 +42,14 @@
    "placed_at": "16:09:33",
    "price": 2.53,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "16:22",
+   "course": "Southwell (AW)",
+   "horse": "King Sharja",
+   "placed_at": "16:21:30",
+   "price": 6.3,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
