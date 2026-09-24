@@ -1,7 +1,7 @@
 {
  "date": "2026-09-24",
- "updated": "15:34:36",
- "count": 3,
+ "updated": "15:51:37",
+ "count": 4,
  "bets": [
   {
    "time": "15:17",
@@ -26,6 +26,14 @@
    "placed_at": "15:34:35",
    "price": 1.72,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "15:52",
+   "course": "Pontefract",
+   "horse": "Per Contra",
+   "placed_at": "15:51:32",
+   "price": 6.1,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
