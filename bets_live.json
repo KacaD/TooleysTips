@@ -1,7 +1,16 @@
 {
  "date": "2026-09-24",
- "updated": "10:00:02",
- "count": 0,
- "bets": [],
+ "updated": "15:16:36",
+ "count": 1,
+ "bets": [
+  {
+   "time": "15:17",
+   "course": "Pontefract",
+   "horse": "The Mean Fiddler",
+   "placed_at": "15:16:35",
+   "price": 3.82,
+   "secs_to_off": 27.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
