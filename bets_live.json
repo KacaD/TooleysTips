@@ -1,7 +1,7 @@
 {
  "date": "2026-09-24",
- "updated": "17:09:31",
- "count": 12,
+ "updated": "17:29:36",
+ "count": 13,
  "bets": [
   {
    "time": "15:17",
@@ -98,6 +98,14 @@
    "placed_at": "17:09:30",
    "price": 3.47,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "17:30",
+   "course": "Southwell (AW)",
+   "horse": "Shades Of May",
+   "placed_at": "17:29:33",
+   "price": 4.45,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
