@@ -1,7 +1,7 @@
 {
  "date": "2026-09-24",
- "updated": "17:59:32",
- "count": 14,
+ "updated": "18:29:32",
+ "count": 15,
  "bets": [
   {
    "time": "15:17",
@@ -113,6 +113,14 @@
    "horse": "Lieutenant Kije",
    "placed_at": "17:59:30",
    "price": 3.97,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "18:30",
+   "course": "Southwell (AW)",
+   "horse": "Lady Henshaw",
+   "placed_at": "18:29:30",
+   "price": 4.55,
    "secs_to_off": 30.0
   }
  ],
