@@ -1,7 +1,7 @@
 {
  "date": "2026-09-24",
- "updated": "17:02:31",
- "count": 11,
+ "updated": "17:09:31",
+ "count": 12,
  "bets": [
   {
    "time": "15:17",
@@ -89,6 +89,14 @@
    "horse": "The Good Biscuit",
    "placed_at": "17:02:30",
    "price": 11.75,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "17:10",
+   "course": "Perth",
+   "horse": "Tigress Lilly",
+   "placed_at": "17:09:30",
+   "price": 3.47,
    "secs_to_off": 30.0
   }
  ],
