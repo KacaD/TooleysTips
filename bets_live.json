@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "17:09:37",
- "count": 18,
+ "updated": "17:22:32",
+ "count": 19,
  "bets": [
   {
    "time": "12:55",
@@ -146,6 +146,14 @@
    "placed_at": "17:09:32",
    "price": 3.27,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "17:23",
+   "course": "Haydock",
+   "horse": "Circuit Breaker",
+   "placed_at": "17:22:32",
+   "price": 7.5,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
