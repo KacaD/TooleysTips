@@ -1,7 +1,16 @@
 {
  "date": "2026-09-25",
- "updated": "10:00:01",
- "count": 0,
- "bets": [],
+ "updated": "12:54:37",
+ "count": 1,
+ "bets": [
+  {
+   "time": "12:55",
+   "course": "Worcester",
+   "horse": "Kally Des Bruyeres",
+   "placed_at": "12:54:34",
+   "price": 10.75,
+   "secs_to_off": 27.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
