@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "16:44:31",
- "count": 16,
+ "updated": "16:49:36",
+ "count": 17,
  "bets": [
   {
    "time": "12:55",
@@ -130,6 +130,14 @@
    "placed_at": "16:44:29",
    "price": 7.7,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "16:50",
+   "course": "Haydock",
+   "horse": "Glory Of The Seas",
+   "placed_at": "16:49:32",
+   "price": 4.95,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
