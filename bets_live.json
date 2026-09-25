@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "19:14:32",
- "count": 22,
+ "updated": "20:14:36",
+ "count": 23,
  "bets": [
   {
    "time": "12:55",
@@ -177,6 +177,14 @@
    "horse": "Reginald Charles",
    "placed_at": "19:14:32",
    "price": 5.45,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "20:15",
+   "course": "Newcastle (AW)",
+   "horse": "Lord Abama",
+   "placed_at": "20:14:32",
+   "price": 5.35,
    "secs_to_off": 27.0
   }
  ],
