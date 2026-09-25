@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "15:42:31",
- "count": 11,
+ "updated": "15:49:36",
+ "count": 12,
  "bets": [
   {
    "time": "12:55",
@@ -89,6 +89,14 @@
    "horse": "Jassas",
    "placed_at": "15:42:31",
    "price": 2.03,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "15:50",
+   "course": "Worcester",
+   "horse": "The Egyptian Ginge",
+   "placed_at": "15:49:32",
+   "price": 3.72,
    "secs_to_off": 29.0
   }
  ],
