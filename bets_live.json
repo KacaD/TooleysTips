@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "14:39:36",
- "count": 9,
+ "updated": "14:59:37",
+ "count": 10,
  "bets": [
   {
    "time": "12:55",
@@ -74,6 +74,14 @@
    "placed_at": "14:39:34",
    "price": 3.57,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "15:00",
+   "course": "Newmarket",
+   "horse": "Talk Of New York",
+   "placed_at": "14:59:34",
+   "price": 1.49,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
