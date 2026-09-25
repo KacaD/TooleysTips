@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "17:44:36",
- "count": 20,
+ "updated": "18:44:37",
+ "count": 21,
  "bets": [
   {
    "time": "12:55",
@@ -161,6 +161,14 @@
    "horse": "Brash",
    "placed_at": "17:44:32",
    "price": 4.25,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "18:45",
+   "course": "Newcastle (AW)",
+   "horse": "Invincible Crown",
+   "placed_at": "18:44:32",
+   "price": 1.85,
    "secs_to_off": 28.0
   }
  ],
