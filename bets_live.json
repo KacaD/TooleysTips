@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "13:57:36",
- "count": 5,
+ "updated": "14:04:36",
+ "count": 6,
  "bets": [
   {
    "time": "12:55",
@@ -42,6 +42,14 @@
    "placed_at": "13:57:34",
    "price": 3.17,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "14:05",
+   "course": "Worcester",
+   "horse": "Merely A Detail",
+   "placed_at": "14:04:34",
+   "price": 7.5,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
