@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "18:44:37",
- "count": 21,
+ "updated": "19:14:32",
+ "count": 22,
  "bets": [
   {
    "time": "12:55",
@@ -170,6 +170,14 @@
    "placed_at": "18:44:32",
    "price": 1.85,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "19:15",
+   "course": "Newcastle (AW)",
+   "horse": "Reginald Charles",
+   "placed_at": "19:14:32",
+   "price": 5.45,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
