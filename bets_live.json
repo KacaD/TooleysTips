@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "16:24:31",
- "count": 15,
+ "updated": "16:44:31",
+ "count": 16,
  "bets": [
   {
    "time": "12:55",
@@ -121,6 +121,14 @@
    "horse": "Mojo Ego",
    "placed_at": "16:24:29",
    "price": 3.72,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:45",
+   "course": "Newmarket",
+   "horse": "Flying Frontier",
+   "placed_at": "16:44:29",
+   "price": 7.7,
    "secs_to_off": 30.0
   }
  ],
