@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "14:04:36",
- "count": 6,
+ "updated": "14:24:36",
+ "count": 7,
  "bets": [
   {
    "time": "12:55",
@@ -50,6 +50,14 @@
    "placed_at": "14:04:34",
    "price": 7.5,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "14:25",
+   "course": "Newmarket",
+   "horse": "Light Of Dawn",
+   "placed_at": "14:24:34",
+   "price": 3.82,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
