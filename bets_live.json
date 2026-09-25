@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "updated": "17:22:32",
- "count": 19,
+ "updated": "17:44:36",
+ "count": 20,
  "bets": [
   {
    "time": "12:55",
@@ -153,6 +153,14 @@
    "horse": "Circuit Breaker",
    "placed_at": "17:22:32",
    "price": 7.5,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "17:45",
+   "course": "Newcastle (AW)",
+   "horse": "Brash",
+   "placed_at": "17:44:32",
+   "price": 4.25,
    "secs_to_off": 28.0
   }
  ],
