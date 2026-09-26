@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "17:59:31",
- "count": 25,
+ "updated": "18:29:31",
+ "count": 26,
  "bets": [
   {
    "time": "13:22",
@@ -202,6 +202,14 @@
    "placed_at": "17:59:30",
    "price": 4.15,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "18:30",
+   "course": "Southwell (AW)",
+   "horse": "Patrol",
+   "placed_at": "18:29:30",
+   "price": 3.17,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
