@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "14:39:36",
- "count": 8,
+ "updated": "14:48:31",
+ "count": 9,
  "bets": [
   {
    "time": "13:22",
@@ -66,6 +66,14 @@
    "placed_at": "14:39:36",
    "price": 1.95,
    "secs_to_off": 24.0
+  },
+  {
+   "time": "14:49",
+   "course": "Ripon",
+   "horse": "Tiva",
+   "placed_at": "14:48:30",
+   "price": 7.3,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
