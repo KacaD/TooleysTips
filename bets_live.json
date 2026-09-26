@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "17:44:32",
- "count": 23,
+ "updated": "17:54:31",
+ "count": 24,
  "bets": [
   {
    "time": "13:22",
@@ -185,6 +185,14 @@
    "horse": "Talismans Time",
    "placed_at": "17:44:30",
    "price": 2.73,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "17:55",
+   "course": "Southwell (AW)",
+   "horse": "Hypnotised",
+   "placed_at": "17:54:30",
+   "price": 1.89,
    "secs_to_off": 30.0
   }
  ],
