@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "15:14:37",
- "count": 12,
+ "updated": "15:27:37",
+ "count": 13,
  "bets": [
   {
    "time": "13:22",
@@ -98,6 +98,14 @@
    "placed_at": "15:14:36",
    "price": 5.05,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "15:28",
+   "course": "Ripon",
+   "horse": "Indian Run",
+   "placed_at": "15:27:33",
+   "price": 11.25,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
