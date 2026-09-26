@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "19:59:31",
- "count": 29,
+ "updated": "20:29:31",
+ "count": 30,
  "bets": [
   {
    "time": "13:22",
@@ -233,6 +233,14 @@
    "horse": "Caragio",
    "placed_at": "19:59:30",
    "price": 4.25,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "20:30",
+   "course": "Southwell (AW)",
+   "horse": "Come On Over",
+   "placed_at": "20:29:30",
+   "price": 6.3,
    "secs_to_off": 30.0
   }
  ],
