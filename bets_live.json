@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "19:29:32",
- "count": 28,
+ "updated": "19:59:31",
+ "count": 29,
  "bets": [
   {
    "time": "13:22",
@@ -226,6 +226,14 @@
    "placed_at": "19:29:30",
    "price": 4.95,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "20:00",
+   "course": "Southwell (AW)",
+   "horse": "Caragio",
+   "placed_at": "19:59:30",
+   "price": 4.25,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
