@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "14:09:36",
- "count": 4,
+ "updated": "14:15:31",
+ "count": 5,
  "bets": [
   {
    "time": "13:22",
@@ -34,6 +34,14 @@
    "placed_at": "14:09:33",
    "price": 5.35,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "14:16",
+   "course": "Ripon",
+   "horse": "Forest Berry",
+   "placed_at": "14:15:30",
+   "price": 4.45,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
