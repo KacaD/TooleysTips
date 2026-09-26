@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "14:59:37",
- "count": 10,
+ "updated": "15:04:37",
+ "count": 11,
  "bets": [
   {
    "time": "13:22",
@@ -82,6 +82,14 @@
    "placed_at": "14:59:36",
    "price": 2.77,
    "secs_to_off": 25.0
+  },
+  {
+   "time": "15:05",
+   "course": "Market Rasen",
+   "horse": "Moment Of Light",
+   "placed_at": "15:04:36",
+   "price": 1.86,
+   "secs_to_off": 24.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
