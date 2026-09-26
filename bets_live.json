@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "16:39:36",
- "count": 18,
+ "updated": "16:44:36",
+ "count": 19,
  "bets": [
   {
    "time": "13:22",
@@ -146,6 +146,14 @@
    "placed_at": "16:39:33",
    "price": 5.45,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "16:45",
+   "course": "Southwell (AW)",
+   "horse": "Romotoso",
+   "placed_at": "16:44:33",
+   "price": 2.29,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
