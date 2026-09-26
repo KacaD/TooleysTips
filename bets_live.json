@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "18:59:31",
- "count": 27,
+ "updated": "19:29:32",
+ "count": 28,
  "bets": [
   {
    "time": "13:22",
@@ -217,6 +217,14 @@
    "horse": "Liam Mera Kai",
    "placed_at": "18:59:30",
    "price": 13.75,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "19:30",
+   "course": "Southwell (AW)",
+   "horse": "Gladiadora",
+   "placed_at": "19:29:30",
+   "price": 4.95,
    "secs_to_off": 29.0
   }
  ],
