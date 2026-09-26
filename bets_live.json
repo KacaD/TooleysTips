@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "16:09:36",
- "count": 16,
+ "updated": "16:24:31",
+ "count": 17,
  "bets": [
   {
    "time": "13:22",
@@ -130,6 +130,14 @@
    "placed_at": "16:09:33",
    "price": 6.2,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "16:25",
+   "course": "Market Rasen",
+   "horse": "Galway Reel",
+   "placed_at": "16:24:30",
+   "price": 1.87,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
