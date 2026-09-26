@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "13:21:37",
- "count": 1,
+ "updated": "13:34:37",
+ "count": 2,
  "bets": [
   {
    "time": "13:22",
@@ -10,6 +10,14 @@
    "placed_at": "13:21:36",
    "price": 5.25,
    "secs_to_off": 24.0
+  },
+  {
+   "time": "13:35",
+   "course": "Haydock",
+   "horse": "Looka",
+   "placed_at": "13:34:36",
+   "price": 6.1,
+   "secs_to_off": 25.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
