@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "14:15:31",
- "count": 5,
+ "updated": "14:26:31",
+ "count": 6,
  "bets": [
   {
    "time": "13:22",
@@ -41,6 +41,14 @@
    "horse": "Forest Berry",
    "placed_at": "14:15:30",
    "price": 4.45,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "14:27",
+   "course": "Newmarket",
+   "horse": "Libertango",
+   "placed_at": "14:26:30",
+   "price": 7.7,
    "secs_to_off": 30.0
   }
  ],
