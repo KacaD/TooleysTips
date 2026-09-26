@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "15:59:36",
- "count": 15,
+ "updated": "16:09:36",
+ "count": 16,
  "bets": [
   {
    "time": "13:22",
@@ -122,6 +122,14 @@
    "placed_at": "15:59:36",
    "price": 2.4,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "16:10",
+   "course": "Southwell (AW)",
+   "horse": "Let's Go Hugo",
+   "placed_at": "16:09:33",
+   "price": 6.2,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
