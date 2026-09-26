@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "17:29:32",
- "count": 22,
+ "updated": "17:44:32",
+ "count": 23,
  "bets": [
   {
    "time": "13:22",
@@ -177,6 +177,14 @@
    "horse": "Indemnity",
    "placed_at": "17:29:30",
    "price": 6.05,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "17:45",
+   "course": "Ripon",
+   "horse": "Talismans Time",
+   "placed_at": "17:44:30",
+   "price": 2.73,
    "secs_to_off": 30.0
   }
  ],
