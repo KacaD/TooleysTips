@@ -1,7 +1,7 @@
 {
  "date": "2026-09-26",
- "updated": "14:26:31",
- "count": 6,
+ "updated": "14:29:41",
+ "count": 7,
  "bets": [
   {
    "time": "13:22",
@@ -50,6 +50,14 @@
    "placed_at": "14:26:30",
    "price": 7.7,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:30",
+   "course": "Market Rasen",
+   "horse": "Elated",
+   "placed_at": "14:29:39",
+   "price": 2.45,
+   "secs_to_off": 23.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
