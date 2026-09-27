@@ -1,7 +1,7 @@
 {
  "date": "2026-09-27",
- "updated": "13:48:31",
- "count": 3,
+ "updated": "14:23:36",
+ "count": 4,
  "bets": [
   {
    "time": "13:19",
@@ -26,6 +26,14 @@
    "placed_at": "13:48:31",
    "price": 3.47,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "14:24",
+   "course": "Ffos Las",
+   "horse": "Call Time",
+   "placed_at": "14:23:34",
+   "price": 1.51,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
