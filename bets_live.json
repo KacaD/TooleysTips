@@ -1,7 +1,7 @@
 {
  "date": "2026-09-28",
- "updated": "15:14:36",
- "count": 7,
+ "updated": "15:28:36",
+ "count": 8,
  "bets": [
   {
    "time": "13:44",
@@ -57,6 +57,14 @@
    "horse": "Newfangled",
    "placed_at": "15:14:35",
    "price": 2.72,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "15:29",
+   "course": "Hamilton",
+   "horse": "Impartiality",
+   "placed_at": "15:28:35",
+   "price": 5.95,
    "secs_to_off": 27.0
   }
  ],
