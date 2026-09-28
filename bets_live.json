@@ -1,7 +1,7 @@
 {
  "date": "2026-09-28",
- "updated": "13:43:36",
- "count": 1,
+ "updated": "13:49:36",
+ "count": 2,
  "bets": [
   {
    "time": "13:44",
@@ -10,6 +10,14 @@
    "placed_at": "13:43:32",
    "price": 2.63,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "13:50",
+   "course": "Newton Abbot",
+   "horse": "Muskerry Rock",
+   "placed_at": "13:49:35",
+   "price": 5.95,
+   "secs_to_off": 25.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
