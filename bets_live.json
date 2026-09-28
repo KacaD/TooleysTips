@@ -1,72 +1,7 @@
 {
- "date": "2026-09-27",
- "updated": "16:31:36",
- "count": 8,
- "bets": [
-  {
-   "time": "13:19",
-   "course": "Ffos Las",
-   "horse": "Macarone",
-   "placed_at": "13:18:34",
-   "price": 4.7,
-   "secs_to_off": 27.0
-  },
-  {
-   "time": "13:37",
-   "course": "Epsom",
-   "horse": "Regal Tiger",
-   "placed_at": "13:36:31",
-   "price": 5.65,
-   "secs_to_off": 30.0
-  },
-  {
-   "time": "13:49",
-   "course": "Ffos Las",
-   "horse": "Rhodes Runner",
-   "placed_at": "13:48:31",
-   "price": 3.47,
-   "secs_to_off": 29.0
-  },
-  {
-   "time": "14:24",
-   "course": "Ffos Las",
-   "horse": "Call Time",
-   "placed_at": "14:23:34",
-   "price": 1.51,
-   "secs_to_off": 28.0
-  },
-  {
-   "time": "14:47",
-   "course": "Epsom",
-   "horse": "Blue Noon",
-   "placed_at": "14:46:34",
-   "price": 2.81,
-   "secs_to_off": 28.0
-  },
-  {
-   "time": "14:59",
-   "course": "Ffos Las",
-   "horse": "Carthusian",
-   "placed_at": "14:58:31",
-   "price": 3.57,
-   "secs_to_off": 30.0
-  },
-  {
-   "time": "15:34",
-   "course": "Ffos Las",
-   "horse": "Silent Force",
-   "placed_at": "15:33:32",
-   "price": 1.34,
-   "secs_to_off": 28.0
-  },
-  {
-   "time": "16:32",
-   "course": "Epsom",
-   "horse": "Thanos",
-   "placed_at": "16:31:32",
-   "price": 6.1,
-   "secs_to_off": 28.0
-  }
- ],
+ "date": "2026-09-28",
+ "updated": "10:00:02",
+ "count": 0,
+ "bets": [],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
