@@ -1,7 +1,7 @@
 {
  "date": "2026-09-29",
- "updated": "16:59:31",
- "count": 10,
+ "updated": "17:06:31",
+ "count": 11,
  "bets": [
   {
    "time": "14:08",
@@ -81,6 +81,14 @@
    "horse": "Arundel",
    "placed_at": "16:59:30",
    "price": 2.31,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "17:07",
+   "course": "Bath",
+   "horse": "Distant Rumble",
+   "placed_at": "17:06:30",
+   "price": 7.1,
    "secs_to_off": 30.0
   }
  ],
