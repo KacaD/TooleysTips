@@ -1,7 +1,7 @@
 {
  "date": "2026-09-29",
- "updated": "14:31:31",
- "count": 3,
+ "updated": "14:44:36",
+ "count": 4,
  "bets": [
   {
    "time": "14:08",
@@ -26,6 +26,14 @@
    "placed_at": "14:31:30",
    "price": 9.7,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:45",
+   "course": "Sedgefield",
+   "horse": "Steel Raven",
+   "placed_at": "14:44:33",
+   "price": 1.36,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
