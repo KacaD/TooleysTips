@@ -1,7 +1,7 @@
 {
  "date": "2026-09-29",
- "updated": "14:07:36",
- "count": 1,
+ "updated": "14:14:36",
+ "count": 2,
  "bets": [
   {
    "time": "14:08",
@@ -10,6 +10,14 @@
    "placed_at": "14:07:33",
    "price": 2.49,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "14:15",
+   "course": "Sedgefield",
+   "horse": "Cawthorne Cracker",
+   "placed_at": "14:14:33",
+   "price": 5.35,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
