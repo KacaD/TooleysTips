@@ -1,7 +1,7 @@
 {
  "date": "2026-09-29",
- "updated": "16:14:31",
- "count": 7,
+ "updated": "16:29:31",
+ "count": 8,
  "bets": [
   {
    "time": "14:08",
@@ -58,6 +58,14 @@
    "placed_at": "16:14:30",
    "price": 2.65,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "16:30",
+   "course": "Wolverhampton (AW)",
+   "horse": "Manton Road",
+   "placed_at": "16:29:30",
+   "price": 4.85,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
