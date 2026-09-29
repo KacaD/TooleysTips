@@ -1,7 +1,7 @@
 {
  "date": "2026-09-29",
- "updated": "16:29:31",
- "count": 8,
+ "updated": "16:34:31",
+ "count": 9,
  "bets": [
   {
    "time": "14:08",
@@ -65,6 +65,14 @@
    "horse": "Manton Road",
    "placed_at": "16:29:30",
    "price": 4.85,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "16:35",
+   "course": "Bath",
+   "horse": "Devon Angel",
+   "placed_at": "16:34:30",
+   "price": 6.39,
    "secs_to_off": 29.0
   }
  ],
