@@ -1,7 +1,7 @@
 {
  "date": "2026-09-30",
- "updated": "15:41:36",
- "count": 6,
+ "updated": "16:14:36",
+ "count": 7,
  "bets": [
   {
    "time": "13:38",
@@ -49,6 +49,14 @@
    "horse": "Golden Strike",
    "placed_at": "15:41:33",
    "price": 2.92,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "16:15",
+   "course": "Catterick",
+   "horse": "Mo Anam Chara",
+   "placed_at": "16:14:33",
+   "price": 3.87,
    "secs_to_off": 28.0
   }
  ],
