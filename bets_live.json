@@ -1,7 +1,7 @@
 {
  "date": "2026-09-30",
- "updated": "17:54:36",
- "count": 13,
+ "updated": "17:59:36",
+ "count": 14,
  "bets": [
   {
    "time": "13:38",
@@ -105,6 +105,14 @@
    "horse": "Albegone",
    "placed_at": "17:54:32",
    "price": 3.62,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "18:00",
+   "course": "Kempton (AW)",
+   "horse": "Talamon",
+   "placed_at": "17:59:32",
+   "price": 4.45,
    "secs_to_off": 28.0
   }
  ],
