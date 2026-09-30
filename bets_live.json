@@ -1,7 +1,7 @@
 {
  "date": "2026-09-30",
- "updated": "13:37:31",
- "count": 1,
+ "updated": "13:56:31",
+ "count": 2,
  "bets": [
   {
    "time": "13:38",
@@ -9,6 +9,14 @@
    "horse": "Sod Hall Lane",
    "placed_at": "13:37:30",
    "price": 1.15,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "13:57",
+   "course": "Catterick",
+   "horse": "Duchess Of Immatin",
+   "placed_at": "13:56:30",
+   "price": 1.67,
    "secs_to_off": 30.0
   }
  ],
