@@ -1,7 +1,7 @@
 {
  "date": "2026-09-30",
- "updated": "16:24:31",
- "count": 8,
+ "updated": "16:32:31",
+ "count": 9,
  "bets": [
   {
    "time": "13:38",
@@ -65,6 +65,14 @@
    "horse": "Real Bullet",
    "placed_at": "16:24:30",
    "price": 1.71,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:33",
+   "course": "Musselburgh",
+   "horse": "Calef",
+   "placed_at": "16:32:30",
+   "price": 4.65,
    "secs_to_off": 30.0
   }
  ],
