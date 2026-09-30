@@ -1,7 +1,16 @@
 {
  "date": "2026-09-30",
- "updated": "10:00:01",
- "count": 0,
- "bets": [],
+ "updated": "13:37:31",
+ "count": 1,
+ "bets": [
+  {
+   "time": "13:38",
+   "course": "Musselburgh",
+   "horse": "Sod Hall Lane",
+   "placed_at": "13:37:30",
+   "price": 1.15,
+   "secs_to_off": 30.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
