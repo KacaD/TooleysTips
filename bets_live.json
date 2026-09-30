@@ -1,7 +1,7 @@
 {
  "date": "2026-09-30",
- "updated": "13:56:31",
- "count": 2,
+ "updated": "14:12:31",
+ "count": 3,
  "bets": [
   {
    "time": "13:38",
@@ -17,6 +17,14 @@
    "horse": "Duchess Of Immatin",
    "placed_at": "13:56:30",
    "price": 1.67,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "14:13",
+   "course": "Musselburgh",
+   "horse": "Walsingham",
+   "placed_at": "14:12:30",
+   "price": 3.37,
    "secs_to_off": 30.0
   }
  ],
