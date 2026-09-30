@@ -1,7 +1,7 @@
 {
  "date": "2026-09-30",
- "updated": "17:24:31",
- "count": 11,
+ "updated": "17:29:31",
+ "count": 12,
  "bets": [
   {
    "time": "13:38",
@@ -89,6 +89,14 @@
    "horse": "Wardlaw",
    "placed_at": "17:24:29",
    "price": 2.09,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "17:30",
+   "course": "Kempton (AW)",
+   "horse": "Encounter",
+   "placed_at": "17:29:29",
+   "price": 3.67,
    "secs_to_off": 30.0
   }
  ],
