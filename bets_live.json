@@ -1,7 +1,7 @@
 {
  "date": "2026-09-30",
- "updated": "18:29:36",
- "count": 15,
+ "updated": "18:59:32",
+ "count": 16,
  "bets": [
   {
    "time": "13:38",
@@ -122,6 +122,14 @@
    "placed_at": "18:29:32",
    "price": 4.05,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "19:00",
+   "course": "Kempton (AW)",
+   "horse": "Venetian Lion",
+   "placed_at": "18:59:29",
+   "price": 2.29,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
