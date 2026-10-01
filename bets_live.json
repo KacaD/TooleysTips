@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "17:24:32",
- "count": 18,
+ "updated": "17:29:32",
+ "count": 19,
  "bets": [
   {
    "time": "13:23",
@@ -145,6 +145,14 @@
    "horse": "Roc De Fer",
    "placed_at": "17:24:30",
    "price": 3.47,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "17:30",
+   "course": "Newcastle (AW)",
+   "horse": "Saint Of Seville",
+   "placed_at": "17:29:30",
+   "price": 2.09,
    "secs_to_off": 30.0
   }
  ],
