@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "14:03:36",
- "count": 4,
+ "updated": "14:14:36",
+ "count": 5,
  "bets": [
   {
    "time": "13:23",
@@ -33,6 +33,14 @@
    "horse": "Gold Army",
    "placed_at": "14:03:33",
    "price": 3.02,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "14:15",
+   "course": "Southwell",
+   "horse": "Socks Off",
+   "placed_at": "14:14:33",
+   "price": 6.7,
    "secs_to_off": 27.0
   }
  ],
