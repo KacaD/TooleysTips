@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "15:24:32",
- "count": 10,
+ "updated": "15:42:37",
+ "count": 11,
  "bets": [
   {
    "time": "13:23",
@@ -82,6 +82,14 @@
    "placed_at": "15:24:30",
    "price": 1.99,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "15:43",
+   "course": "Nottingham",
+   "horse": "Kaindy",
+   "placed_at": "15:42:36",
+   "price": 2.07,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
