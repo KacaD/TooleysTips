@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "17:29:32",
- "count": 19,
+ "updated": "17:59:32",
+ "count": 20,
  "bets": [
   {
    "time": "13:23",
@@ -153,6 +153,14 @@
    "horse": "Saint Of Seville",
    "placed_at": "17:29:30",
    "price": 2.09,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "18:00",
+   "course": "Newcastle (AW)",
+   "horse": "Kentucky Rain",
+   "placed_at": "17:59:30",
+   "price": 5.8,
    "secs_to_off": 30.0
   }
  ],
