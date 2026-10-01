@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "17:59:32",
- "count": 20,
+ "updated": "18:29:31",
+ "count": 21,
  "bets": [
   {
    "time": "13:23",
@@ -161,6 +161,14 @@
    "horse": "Kentucky Rain",
    "placed_at": "17:59:30",
    "price": 5.8,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "18:30",
+   "course": "Newcastle (AW)",
+   "horse": "Sailor's Return",
+   "placed_at": "18:29:30",
+   "price": 5.15,
    "secs_to_off": 30.0
   }
  ],
