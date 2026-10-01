@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "19:59:32",
- "count": 24,
+ "updated": "20:29:31",
+ "count": 25,
  "bets": [
   {
    "time": "13:23",
@@ -194,6 +194,14 @@
    "placed_at": "19:59:30",
    "price": 3.02,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "20:30",
+   "course": "Newcastle (AW)",
+   "horse": "Falcon Nine",
+   "placed_at": "20:29:30",
+   "price": 6.5,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
