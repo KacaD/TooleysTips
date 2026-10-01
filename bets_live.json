@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "13:29:32",
- "count": 2,
+ "updated": "13:57:36",
+ "count": 3,
  "bets": [
   {
    "time": "13:23",
@@ -18,6 +18,14 @@
    "placed_at": "13:29:30",
    "price": 9.3,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "13:58",
+   "course": "Nottingham",
+   "horse": "Pride Of Toledo",
+   "placed_at": "13:57:36",
+   "price": 5.15,
+   "secs_to_off": 24.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
