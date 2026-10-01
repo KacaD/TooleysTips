@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "14:49:36",
- "count": 8,
+ "updated": "15:13:37",
+ "count": 9,
  "bets": [
   {
    "time": "13:23",
@@ -66,6 +66,14 @@
    "placed_at": "14:49:36",
    "price": 5.75,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "15:14",
+   "course": "Salisbury",
+   "horse": "Social Symbol",
+   "placed_at": "15:13:33",
+   "price": 2.77,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
