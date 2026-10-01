@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "18:59:31",
- "count": 22,
+ "updated": "19:29:32",
+ "count": 23,
  "bets": [
   {
    "time": "13:23",
@@ -177,6 +177,14 @@
    "horse": "Lady Kodiac",
    "placed_at": "18:59:30",
    "price": 4.85,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "19:30",
+   "course": "Newcastle (AW)",
+   "horse": "Espanita",
+   "placed_at": "19:29:30",
+   "price": 3.27,
    "secs_to_off": 30.0
   }
  ],
