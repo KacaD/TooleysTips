@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "18:29:31",
- "count": 21,
+ "updated": "18:59:31",
+ "count": 22,
  "bets": [
   {
    "time": "13:23",
@@ -169,6 +169,14 @@
    "horse": "Sailor's Return",
    "placed_at": "18:29:30",
    "price": 5.15,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "19:00",
+   "course": "Newcastle (AW)",
+   "horse": "Lady Kodiac",
+   "placed_at": "18:59:30",
+   "price": 4.85,
    "secs_to_off": 30.0
   }
  ],
