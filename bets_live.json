@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "updated": "14:38:31",
- "count": 7,
+ "updated": "14:49:36",
+ "count": 8,
  "bets": [
   {
    "time": "13:23",
@@ -58,6 +58,14 @@
    "placed_at": "14:38:30",
    "price": 4.55,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:50",
+   "course": "Southwell",
+   "horse": "Law Of Supply",
+   "placed_at": "14:49:36",
+   "price": 5.75,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
