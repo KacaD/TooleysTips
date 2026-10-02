@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
- "updated": "13:37:37",
- "count": 2,
+ "updated": "13:49:37",
+ "count": 3,
  "bets": [
   {
    "time": "13:31",
@@ -18,6 +18,14 @@
    "placed_at": "13:37:36",
    "price": 1.79,
    "secs_to_off": 24.0
+  },
+  {
+   "time": "13:50",
+   "course": "Ascot",
+   "horse": "Tex",
+   "placed_at": "13:49:36",
+   "price": 4.75,
+   "secs_to_off": 25.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
