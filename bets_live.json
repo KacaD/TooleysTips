@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
- "updated": "14:12:37",
- "count": 5,
+ "updated": "14:24:37",
+ "count": 6,
  "bets": [
   {
    "time": "13:31",
@@ -41,6 +41,14 @@
    "horse": "Dante's Inferno",
    "placed_at": "14:12:36",
    "price": 2.55,
+   "secs_to_off": 25.0
+  },
+  {
+   "time": "14:25",
+   "course": "Ascot",
+   "horse": "Pink Larkspur",
+   "placed_at": "14:24:36",
+   "price": 2.98,
    "secs_to_off": 25.0
   }
  ],
