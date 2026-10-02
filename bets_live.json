@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
- "updated": "15:34:37",
- "count": 12,
+ "updated": "15:57:37",
+ "count": 13,
  "bets": [
   {
    "time": "13:31",
@@ -98,6 +98,14 @@
    "placed_at": "15:34:33",
    "price": 1.78,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "15:58",
+   "course": "Hexham",
+   "horse": "Frisky Whiskey",
+   "placed_at": "15:57:33",
+   "price": 2.97,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
