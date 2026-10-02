@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
- "updated": "14:40:37",
- "count": 7,
+ "updated": "14:47:37",
+ "count": 8,
  "bets": [
   {
    "time": "13:31",
@@ -58,6 +58,14 @@
    "placed_at": "14:40:33",
    "price": 1.28,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "14:48",
+   "course": "Hexham",
+   "horse": "Mr McLoughlan",
+   "placed_at": "14:47:36",
+   "price": 2.77,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
