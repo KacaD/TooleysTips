@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
- "updated": "16:04:37",
- "count": 14,
+ "updated": "16:09:32",
+ "count": 15,
  "bets": [
   {
    "time": "13:31",
@@ -114,6 +114,14 @@
    "placed_at": "16:04:33",
    "price": 2.91,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "16:10",
+   "course": "Ascot",
+   "horse": "Northcliff",
+   "placed_at": "16:09:30",
+   "price": 22.49,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
