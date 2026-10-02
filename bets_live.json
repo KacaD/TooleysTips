@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
- "updated": "15:15:36",
- "count": 10,
+ "updated": "15:22:36",
+ "count": 11,
  "bets": [
   {
    "time": "13:31",
@@ -81,6 +81,14 @@
    "horse": "Diamondinthedark",
    "placed_at": "15:15:33",
    "price": 5.95,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "15:23",
+   "course": "Hexham",
+   "horse": "Ballynoe Boy",
+   "placed_at": "15:22:33",
+   "price": 2.99,
    "secs_to_off": 27.0
   }
  ],
