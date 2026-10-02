@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
- "updated": "13:49:37",
- "count": 3,
+ "updated": "14:05:37",
+ "count": 4,
  "bets": [
   {
    "time": "13:31",
@@ -25,6 +25,14 @@
    "horse": "Tex",
    "placed_at": "13:49:36",
    "price": 4.75,
+   "secs_to_off": 25.0
+  },
+  {
+   "time": "14:06",
+   "course": "Wolverhampton (AW)",
+   "horse": "Classic Bellini",
+   "placed_at": "14:05:36",
+   "price": 5.85,
    "secs_to_off": 25.0
   }
  ],
