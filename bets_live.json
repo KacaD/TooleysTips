@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
- "updated": "14:05:37",
- "count": 4,
+ "updated": "14:12:37",
+ "count": 5,
  "bets": [
   {
    "time": "13:31",
@@ -33,6 +33,14 @@
    "horse": "Classic Bellini",
    "placed_at": "14:05:36",
    "price": 5.85,
+   "secs_to_off": 25.0
+  },
+  {
+   "time": "14:13",
+   "course": "Hexham",
+   "horse": "Dante's Inferno",
+   "placed_at": "14:12:36",
+   "price": 2.55,
    "secs_to_off": 25.0
   }
  ],
