@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
- "updated": "16:32:37",
- "count": 17,
+ "updated": "16:44:32",
+ "count": 18,
  "bets": [
   {
    "time": "13:31",
@@ -138,6 +138,14 @@
    "placed_at": "16:32:33",
    "price": 2.13,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "16:45",
+   "course": "Ascot",
+   "horse": "Cranachan",
+   "placed_at": "16:44:31",
+   "price": 2.33,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
