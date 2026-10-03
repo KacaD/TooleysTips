@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "18:59:32",
- "count": 30,
+ "updated": "19:29:32",
+ "count": 31,
  "bets": [
   {
    "time": "12:25",
@@ -241,6 +241,14 @@
    "horse": "Imperial Ballet",
    "placed_at": "18:59:32",
    "price": 3.42,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "19:30",
+   "course": "Southwell (AW)",
+   "horse": "New Image",
+   "placed_at": "19:29:32",
+   "price": 2.89,
    "secs_to_off": 28.0
   }
  ],
