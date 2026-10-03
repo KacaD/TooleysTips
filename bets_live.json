@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "14:44:37",
- "count": 12,
+ "updated": "14:49:37",
+ "count": 13,
  "bets": [
   {
    "time": "12:25",
@@ -97,6 +97,14 @@
    "horse": "Altius",
    "placed_at": "14:44:35",
    "price": 1.91,
+   "secs_to_off": 26.0
+  },
+  {
+   "time": "14:50",
+   "course": "Redcar",
+   "horse": "Bay Dream Believer",
+   "placed_at": "14:49:35",
+   "price": 9.3,
    "secs_to_off": 26.0
   }
  ],
