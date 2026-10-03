@@ -1,7 +1,16 @@
 {
  "date": "2026-10-03",
- "updated": "10:00:02",
- "count": 0,
- "bets": [],
+ "updated": "12:24:37",
+ "count": 1,
+ "bets": [
+  {
+   "time": "12:25",
+   "course": "Newmarket",
+   "horse": "Hoseki",
+   "placed_at": "12:24:35",
+   "price": 2.67,
+   "secs_to_off": 25.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
