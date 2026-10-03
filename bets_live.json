@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "13:34:32",
- "count": 4,
+ "updated": "13:41:32",
+ "count": 5,
  "bets": [
   {
    "time": "12:25",
@@ -33,6 +33,14 @@
    "horse": "Blue Bolt",
    "placed_at": "13:34:32",
    "price": 1.29,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "13:42",
+   "course": "Redcar",
+   "horse": "Green Star",
+   "placed_at": "13:41:32",
+   "price": 3.42,
    "secs_to_off": 30.0
   }
  ],
