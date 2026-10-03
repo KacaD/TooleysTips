@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "16:59:32",
- "count": 24,
+ "updated": "17:09:32",
+ "count": 25,
  "bets": [
   {
    "time": "12:25",
@@ -193,6 +193,14 @@
    "horse": "Mr McWhinny",
    "placed_at": "16:59:32",
    "price": 3.77,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "17:10",
+   "course": "Redcar",
+   "horse": "Parisian Scholar",
+   "placed_at": "17:09:32",
+   "price": 4.05,
    "secs_to_off": 28.0
   }
  ],
