@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "14:01:37",
- "count": 7,
+ "updated": "14:09:42",
+ "count": 8,
  "bets": [
   {
    "time": "12:25",
@@ -58,6 +58,14 @@
    "placed_at": "14:01:35",
    "price": 2.56,
    "secs_to_off": 25.0
+  },
+  {
+   "time": "14:10",
+   "course": "Newmarket",
+   "horse": "Evanesco",
+   "placed_at": "14:09:38",
+   "price": 4.05,
+   "secs_to_off": 24.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
