@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "17:09:32",
- "count": 25,
+ "updated": "17:34:32",
+ "count": 26,
  "bets": [
   {
    "time": "12:25",
@@ -201,6 +201,14 @@
    "horse": "Parisian Scholar",
    "placed_at": "17:09:32",
    "price": 4.05,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "17:35",
+   "course": "Fontwell",
+   "horse": "County Champs",
+   "placed_at": "17:34:32",
+   "price": 4.7,
    "secs_to_off": 28.0
   }
  ],
