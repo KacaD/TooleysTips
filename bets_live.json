@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "17:34:32",
- "count": 26,
+ "updated": "17:39:32",
+ "count": 27,
  "bets": [
   {
    "time": "12:25",
@@ -209,6 +209,14 @@
    "horse": "County Champs",
    "placed_at": "17:34:32",
    "price": 4.7,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "17:40",
+   "course": "Redcar",
+   "horse": "Mo Of Cairo",
+   "placed_at": "17:39:32",
+   "price": 3.02,
    "secs_to_off": 28.0
   }
  ],
