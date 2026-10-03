@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "12:24:37",
- "count": 1,
+ "updated": "12:59:37",
+ "count": 2,
  "bets": [
   {
    "time": "12:25",
@@ -10,6 +10,14 @@
    "placed_at": "12:24:35",
    "price": 2.67,
    "secs_to_off": 25.0
+  },
+  {
+   "time": "13:00",
+   "course": "Newmarket",
+   "horse": "Night In Vegas",
+   "placed_at": "12:59:35",
+   "price": 1.71,
+   "secs_to_off": 24.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
