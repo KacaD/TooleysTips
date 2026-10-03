@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "13:14:42",
- "count": 3,
+ "updated": "13:34:32",
+ "count": 4,
  "bets": [
   {
    "time": "12:25",
@@ -26,6 +26,14 @@
    "placed_at": "13:14:38",
    "price": 2.27,
    "secs_to_off": 24.0
+  },
+  {
+   "time": "13:35",
+   "course": "Newmarket",
+   "horse": "Blue Bolt",
+   "placed_at": "13:34:32",
+   "price": 1.29,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
