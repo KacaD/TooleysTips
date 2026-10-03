@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "15:49:32",
- "count": 19,
+ "updated": "15:54:32",
+ "count": 20,
  "bets": [
   {
    "time": "12:25",
@@ -154,6 +154,14 @@
    "placed_at": "15:49:32",
    "price": 3.97,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "15:55",
+   "course": "Redcar",
+   "horse": "Sondad",
+   "placed_at": "15:54:32",
+   "price": 4.85,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
