@@ -1,7 +1,7 @@
 {
  "date": "2026-10-03",
- "updated": "16:24:37",
- "count": 21,
+ "updated": "16:34:37",
+ "count": 22,
  "bets": [
   {
    "time": "12:25",
@@ -169,6 +169,14 @@
    "horse": "Birthday Angel",
    "placed_at": "16:24:32",
    "price": 4.85,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "16:35",
+   "course": "Redcar",
+   "horse": "Classic Encounter",
+   "placed_at": "16:34:32",
+   "price": 7.1,
    "secs_to_off": 28.0
   }
  ],
