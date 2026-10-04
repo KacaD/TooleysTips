@@ -1,7 +1,7 @@
 {
  "date": "2026-10-04",
- "updated": "16:39:32",
- "count": 7,
+ "updated": "16:55:32",
+ "count": 8,
  "bets": [
   {
    "time": "13:45",
@@ -57,6 +57,14 @@
    "horse": "Luminaries",
    "placed_at": "16:39:31",
    "price": 4.8,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "16:56",
+   "course": "Uttoxeter",
+   "horse": "Better Off Alone",
+   "placed_at": "16:55:31",
+   "price": 3.12,
    "secs_to_off": 28.0
   }
  ],
