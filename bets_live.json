@@ -1,7 +1,7 @@
 {
  "date": "2026-10-04",
- "updated": "15:14:32",
- "count": 5,
+ "updated": "15:29:32",
+ "count": 6,
  "bets": [
   {
    "time": "13:45",
@@ -41,6 +41,14 @@
    "horse": "Jubilant",
    "placed_at": "15:14:30",
    "price": 4.05,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:30",
+   "course": "Kelso",
+   "horse": "Tommy's Oscar",
+   "placed_at": "15:29:30",
+   "price": 9.1,
    "secs_to_off": 30.0
   }
  ],
