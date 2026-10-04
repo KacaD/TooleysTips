@@ -1,7 +1,7 @@
 {
  "date": "2026-10-04",
- "updated": "14:35:37",
- "count": 3,
+ "updated": "14:54:32",
+ "count": 4,
  "bets": [
   {
    "time": "13:45",
@@ -26,6 +26,14 @@
    "placed_at": "14:35:33",
    "price": 3.07,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "14:55",
+   "course": "Kelso",
+   "horse": "Tuppence",
+   "placed_at": "14:54:30",
+   "price": 1.68,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
