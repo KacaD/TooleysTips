@@ -1,7 +1,7 @@
 {
  "date": "2026-10-05",
- "updated": "17:59:32",
- "count": 18,
+ "updated": "18:14:32",
+ "count": 19,
  "bets": [
   {
    "time": "13:41",
@@ -145,6 +145,14 @@
    "horse": "On The Queue Tee",
    "placed_at": "17:59:32",
    "price": 3.87,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "18:15",
+   "course": "Kempton (AW)",
+   "horse": "Moving Force",
+   "placed_at": "18:14:32",
+   "price": 7.7,
    "secs_to_off": 29.0
   }
  ],
