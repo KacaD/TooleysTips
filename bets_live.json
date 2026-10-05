@@ -1,72 +1,7 @@
 {
- "date": "2026-10-04",
- "updated": "16:55:32",
- "count": 8,
- "bets": [
-  {
-   "time": "13:45",
-   "course": "Kelso",
-   "horse": "Jentobello",
-   "placed_at": "13:44:33",
-   "price": 1.32,
-   "secs_to_off": 28.0
-  },
-  {
-   "time": "14:01",
-   "course": "Uttoxeter",
-   "horse": "Venezuelan",
-   "placed_at": "14:00:33",
-   "price": 5.85,
-   "secs_to_off": 29.0
-  },
-  {
-   "time": "14:36",
-   "course": "Uttoxeter",
-   "horse": "Sytadel",
-   "placed_at": "14:35:33",
-   "price": 3.07,
-   "secs_to_off": 27.0
-  },
-  {
-   "time": "14:55",
-   "course": "Kelso",
-   "horse": "Tuppence",
-   "placed_at": "14:54:30",
-   "price": 1.68,
-   "secs_to_off": 30.0
-  },
-  {
-   "time": "15:15",
-   "course": "Uttoxeter",
-   "horse": "Jubilant",
-   "placed_at": "15:14:30",
-   "price": 4.05,
-   "secs_to_off": 30.0
-  },
-  {
-   "time": "15:30",
-   "course": "Kelso",
-   "horse": "Tommy's Oscar",
-   "placed_at": "15:29:30",
-   "price": 9.1,
-   "secs_to_off": 30.0
-  },
-  {
-   "time": "16:40",
-   "course": "Kelso",
-   "horse": "Luminaries",
-   "placed_at": "16:39:31",
-   "price": 4.8,
-   "secs_to_off": 28.0
-  },
-  {
-   "time": "16:56",
-   "course": "Uttoxeter",
-   "horse": "Better Off Alone",
-   "placed_at": "16:55:31",
-   "price": 3.12,
-   "secs_to_off": 28.0
-  }
- ],
+ "date": "2026-10-05",
+ "updated": "10:00:01",
+ "count": 0,
+ "bets": [],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
