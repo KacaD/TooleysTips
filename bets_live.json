@@ -1,7 +1,7 @@
 {
  "date": "2026-10-05",
- "updated": "18:59:32",
- "count": 21,
+ "updated": "19:14:32",
+ "count": 22,
  "bets": [
   {
    "time": "13:41",
@@ -169,6 +169,14 @@
    "horse": "The Dark Baron",
    "placed_at": "18:59:32",
    "price": 7.5,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "19:15",
+   "course": "Kempton (AW)",
+   "horse": "Ararat",
+   "placed_at": "19:14:32",
+   "price": 6.9,
    "secs_to_off": 28.0
   }
  ],
