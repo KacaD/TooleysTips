@@ -1,7 +1,7 @@
 {
  "date": "2026-10-05",
- "updated": "15:49:32",
- "count": 7,
+ "updated": "16:04:31",
+ "count": 8,
  "bets": [
   {
    "time": "13:41",
@@ -57,6 +57,14 @@
    "horse": "Stormy Impact",
    "placed_at": "15:49:31",
    "price": 5.15,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:05",
+   "course": "Yarmouth",
+   "horse": "Lucky Hero",
+   "placed_at": "16:04:31",
+   "price": 6.5,
    "secs_to_off": 30.0
   }
  ],
