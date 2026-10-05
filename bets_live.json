@@ -1,7 +1,7 @@
 {
  "date": "2026-10-05",
- "updated": "19:29:37",
- "count": 23,
+ "updated": "19:59:32",
+ "count": 24,
  "bets": [
   {
    "time": "13:41",
@@ -186,6 +186,14 @@
    "placed_at": "19:29:33",
    "price": 2.21,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "20:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "Caraway",
+   "placed_at": "19:59:30",
+   "price": 7.3,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
