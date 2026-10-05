@@ -1,7 +1,16 @@
 {
  "date": "2026-10-05",
- "updated": "10:00:01",
- "count": 0,
- "bets": [],
+ "updated": "13:40:32",
+ "count": 1,
+ "bets": [
+  {
+   "time": "13:41",
+   "course": "Stratford",
+   "horse": "No More Bolero",
+   "placed_at": "13:40:31",
+   "price": 1.95,
+   "secs_to_off": 29.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
