@@ -1,7 +1,7 @@
 {
  "date": "2026-10-05",
- "updated": "14:24:36",
- "count": 4,
+ "updated": "15:14:32",
+ "count": 5,
  "bets": [
   {
    "time": "13:41",
@@ -34,6 +34,14 @@
    "placed_at": "14:24:34",
    "price": 1.64,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "15:15",
+   "course": "Pontefract",
+   "horse": "The Good Biscuit",
+   "placed_at": "15:14:31",
+   "price": 9.3,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
