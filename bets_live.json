@@ -1,7 +1,7 @@
 {
  "date": "2026-10-05",
- "updated": "17:29:32",
- "count": 16,
+ "updated": "17:32:32",
+ "count": 17,
  "bets": [
   {
    "time": "13:41",
@@ -129,6 +129,14 @@
    "horse": "Iron Dome",
    "placed_at": "17:29:32",
    "price": 1.2,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "17:33",
+   "course": "Pontefract",
+   "horse": "Jojo Rabbit",
+   "placed_at": "17:32:32",
+   "price": 4.35,
    "secs_to_off": 28.0
   }
  ],
