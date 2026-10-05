@@ -1,7 +1,7 @@
 {
  "date": "2026-10-05",
- "updated": "14:15:36",
- "count": 3,
+ "updated": "14:24:36",
+ "count": 4,
  "bets": [
   {
    "time": "13:41",
@@ -26,6 +26,14 @@
    "placed_at": "14:15:34",
    "price": 2.59,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "14:25",
+   "course": "Yarmouth",
+   "horse": "Zhuri",
+   "placed_at": "14:24:34",
+   "price": 1.64,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
