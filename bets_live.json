@@ -1,7 +1,7 @@
 {
  "date": "2026-10-05",
- "updated": "16:55:37",
- "count": 13,
+ "updated": "16:59:32",
+ "count": 14,
  "bets": [
   {
    "time": "13:41",
@@ -106,6 +106,14 @@
    "placed_at": "16:55:32",
    "price": 4.85,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "17:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "Dreams Galore",
+   "placed_at": "16:59:29",
+   "price": 4.15,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
