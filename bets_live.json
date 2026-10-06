@@ -1,7 +1,7 @@
 {
  "date": "2026-10-06",
- "updated": "18:59:31",
- "count": 16,
+ "updated": "19:29:32",
+ "count": 17,
  "bets": [
   {
    "time": "13:31",
@@ -129,6 +129,14 @@
    "horse": "Insuspense",
    "placed_at": "18:59:31",
    "price": 4.15,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "19:30",
+   "course": "Southwell (AW)",
+   "horse": "Khabib",
+   "placed_at": "19:29:31",
+   "price": 4.65,
    "secs_to_off": 28.0
   }
  ],
