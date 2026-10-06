@@ -1,7 +1,7 @@
 {
  "date": "2026-10-06",
- "updated": "14:05:37",
- "count": 2,
+ "updated": "14:12:37",
+ "count": 3,
  "bets": [
   {
    "time": "13:31",
@@ -17,6 +17,14 @@
    "horse": "Woodvale",
    "placed_at": "14:05:33",
    "price": 1.86,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "14:13",
+   "course": "Brighton",
+   "horse": "Queens Bandit",
+   "placed_at": "14:12:33",
+   "price": 3.47,
    "secs_to_off": 27.0
   }
  ],
