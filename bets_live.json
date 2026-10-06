@@ -1,7 +1,7 @@
 {
  "date": "2026-10-06",
- "updated": "16:25:32",
- "count": 11,
+ "updated": "16:32:32",
+ "count": 12,
  "bets": [
   {
    "time": "13:31",
@@ -89,6 +89,14 @@
    "horse": "Ruby Wedding",
    "placed_at": "16:25:30",
    "price": 3.27,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:33",
+   "course": "Brighton",
+   "horse": "My Mate Mackley",
+   "placed_at": "16:32:30",
+   "price": 3.32,
    "secs_to_off": 30.0
   }
  ],
