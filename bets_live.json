@@ -1,7 +1,7 @@
 {
  "date": "2026-10-06",
- "updated": "14:47:37",
- "count": 6,
+ "updated": "15:05:31",
+ "count": 7,
  "bets": [
   {
    "time": "13:31",
@@ -50,6 +50,14 @@
    "placed_at": "14:47:33",
    "price": 4.85,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "15:06",
+   "course": "Huntingdon",
+   "horse": "Dancing Dame",
+   "placed_at": "15:05:30",
+   "price": 1.84,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
