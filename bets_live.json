@@ -1,7 +1,7 @@
 {
  "date": "2026-10-06",
- "updated": "18:29:32",
- "count": 15,
+ "updated": "18:59:31",
+ "count": 16,
  "bets": [
   {
    "time": "13:31",
@@ -120,6 +120,14 @@
    "course": "Southwell (AW)",
    "horse": "Engraved",
    "placed_at": "18:29:31",
+   "price": 4.15,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "19:00",
+   "course": "Southwell (AW)",
+   "horse": "Insuspense",
+   "placed_at": "18:59:31",
    "price": 4.15,
    "secs_to_off": 28.0
   }
