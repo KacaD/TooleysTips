@@ -1,7 +1,7 @@
 {
  "date": "2026-10-06",
- "updated": "14:30:37",
- "count": 4,
+ "updated": "14:40:32",
+ "count": 5,
  "bets": [
   {
    "time": "13:31",
@@ -34,6 +34,14 @@
    "placed_at": "14:30:36",
    "price": 1.93,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "14:41",
+   "course": "Leicester",
+   "horse": "Secret Rival",
+   "placed_at": "14:40:30",
+   "price": 11.25,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
