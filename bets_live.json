@@ -1,7 +1,7 @@
 {
  "date": "2026-10-06",
- "updated": "19:59:32",
- "count": 18,
+ "updated": "20:29:32",
+ "count": 19,
  "bets": [
   {
    "time": "13:31",
@@ -145,6 +145,14 @@
    "horse": "Affettuoso",
    "placed_at": "19:59:31",
    "price": 2.05,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "20:30",
+   "course": "Southwell (AW)",
+   "horse": "He's Our Cracker",
+   "placed_at": "20:29:31",
+   "price": 3.77,
    "secs_to_off": 28.0
   }
  ],
