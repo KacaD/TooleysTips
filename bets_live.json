@@ -1,7 +1,7 @@
 {
  "date": "2026-10-06",
- "updated": "15:05:31",
- "count": 7,
+ "updated": "15:22:31",
+ "count": 8,
  "bets": [
   {
    "time": "13:31",
@@ -57,6 +57,14 @@
    "horse": "Dancing Dame",
    "placed_at": "15:05:30",
    "price": 1.84,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:23",
+   "course": "Brighton",
+   "horse": "Basilette",
+   "placed_at": "15:22:30",
+   "price": 5.35,
    "secs_to_off": 30.0
   }
  ],
