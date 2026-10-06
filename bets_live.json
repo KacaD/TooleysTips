@@ -1,7 +1,7 @@
 {
  "date": "2026-10-06",
- "updated": "16:47:37",
- "count": 13,
+ "updated": "17:00:36",
+ "count": 14,
  "bets": [
   {
    "time": "13:31",
@@ -105,6 +105,14 @@
    "horse": "Bran Galad",
    "placed_at": "16:47:33",
    "price": 7.1,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "17:01",
+   "course": "Leicester",
+   "horse": "Magic Music",
+   "placed_at": "17:00:31",
+   "price": 2.99,
    "secs_to_off": 29.0
   }
  ],
