@@ -1,7 +1,7 @@
 {
  "date": "2026-10-07",
- "updated": "16:28:32",
- "count": 14,
+ "updated": "16:34:32",
+ "count": 15,
  "bets": [
   {
    "time": "13:05",
@@ -113,6 +113,14 @@
    "horse": "Edwin Hubble",
    "placed_at": "16:28:30",
    "price": 6.1,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:35",
+   "course": "Worcester",
+   "horse": "Roe And Co",
+   "placed_at": "16:34:30",
+   "price": 10.25,
    "secs_to_off": 30.0
   }
  ],
