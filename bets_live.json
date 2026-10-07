@@ -1,7 +1,7 @@
 {
  "date": "2026-10-07",
- "updated": "15:58:37",
- "count": 12,
+ "updated": "16:19:32",
+ "count": 13,
  "bets": [
   {
    "time": "13:05",
@@ -97,6 +97,14 @@
    "horse": "Get Outta Here",
    "placed_at": "15:58:32",
    "price": 6.3,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "16:20",
+   "course": "Sedgefield",
+   "horse": "Moyanna",
+   "placed_at": "16:19:32",
+   "price": 2.01,
    "secs_to_off": 29.0
   }
  ],
