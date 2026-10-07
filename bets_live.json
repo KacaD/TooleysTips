@@ -1,7 +1,7 @@
 {
  "date": "2026-10-07",
- "updated": "14:28:37",
- "count": 7,
+ "updated": "14:34:32",
+ "count": 8,
  "bets": [
   {
    "time": "13:05",
@@ -58,6 +58,14 @@
    "placed_at": "14:28:35",
    "price": 2.11,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "14:35",
+   "course": "Worcester",
+   "horse": "We're Out Of Aces",
+   "placed_at": "14:34:32",
+   "price": 5.65,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
