@@ -1,7 +1,7 @@
 {
  "date": "2026-10-07",
- "updated": "13:34:37",
- "count": 2,
+ "updated": "13:49:37",
+ "count": 3,
  "bets": [
   {
    "time": "13:05",
@@ -17,6 +17,14 @@
    "horse": "Kelijoe",
    "placed_at": "13:34:35",
    "price": 3.77,
+   "secs_to_off": 26.0
+  },
+  {
+   "time": "13:50",
+   "course": "Sedgefield",
+   "horse": "Arms Park",
+   "placed_at": "13:49:35",
+   "price": 4.45,
    "secs_to_off": 26.0
   }
  ],
