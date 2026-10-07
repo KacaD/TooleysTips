@@ -1,7 +1,7 @@
 {
  "date": "2026-10-07",
- "updated": "18:00:50",
- "count": 18,
+ "updated": "19:29:31",
+ "count": 19,
  "bets": [
   {
    "time": "13:05",
@@ -145,6 +145,14 @@
    "horse": "Ghaiyyath Dream",
    "placed_at": "17:59:30",
    "price": 4.75,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "19:30",
+   "course": "Kempton (AW)",
+   "horse": "Kiniro",
+   "placed_at": "19:29:30",
+   "price": 2.35,
    "secs_to_off": 30.0
   }
  ],
