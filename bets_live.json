@@ -1,7 +1,7 @@
 {
  "date": "2026-10-07",
- "updated": "16:34:32",
- "count": 15,
+ "updated": "17:04:31",
+ "count": 16,
  "bets": [
   {
    "time": "13:05",
@@ -121,6 +121,14 @@
    "horse": "Roe And Co",
    "placed_at": "16:34:30",
    "price": 10.25,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "17:05",
+   "course": "Nottingham",
+   "horse": "Asadjumeirah",
+   "placed_at": "17:04:30",
+   "price": 7.9,
    "secs_to_off": 30.0
   }
  ],
