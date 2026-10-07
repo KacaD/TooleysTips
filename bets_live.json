@@ -1,7 +1,7 @@
 {
  "date": "2026-10-07",
- "updated": "19:29:31",
- "count": 19,
+ "updated": "19:59:32",
+ "count": 20,
  "bets": [
   {
    "time": "13:05",
@@ -154,6 +154,14 @@
    "placed_at": "19:29:30",
    "price": 2.35,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "20:00",
+   "course": "Kempton (AW)",
+   "horse": "Last Flight",
+   "placed_at": "19:59:30",
+   "price": 4.65,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
