@@ -1,7 +1,7 @@
 {
  "date": "2026-10-07",
- "updated": "15:04:31",
- "count": 9,
+ "updated": "15:19:37",
+ "count": 10,
  "bets": [
   {
    "time": "13:05",
@@ -73,6 +73,14 @@
    "horse": "Cowboy Casanova",
    "placed_at": "15:04:29",
    "price": 4.95,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:20",
+   "course": "Sedgefield",
+   "horse": "Aimeric",
+   "placed_at": "15:19:32",
+   "price": 3.32,
    "secs_to_off": 30.0
   }
  ],
