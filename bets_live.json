@@ -1,7 +1,7 @@
 {
  "date": "2026-10-07",
- "updated": "13:04:37",
- "count": 1,
+ "updated": "13:34:37",
+ "count": 2,
  "bets": [
   {
    "time": "13:05",
@@ -10,6 +10,14 @@
    "placed_at": "13:04:32",
    "price": 2.68,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "13:35",
+   "course": "Worcester",
+   "horse": "Kelijoe",
+   "placed_at": "13:34:35",
+   "price": 3.77,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
