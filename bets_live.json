@@ -1,7 +1,7 @@
 {
  "date": "2026-10-08",
- "updated": "16:47:37",
- "count": 14,
+ "updated": "17:12:32",
+ "count": 15,
  "bets": [
   {
    "time": "13:45",
@@ -114,6 +114,14 @@
    "placed_at": "16:47:32",
    "price": 2.04,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "17:13",
+   "course": "Ayr",
+   "horse": "Vampire Slayer",
+   "placed_at": "17:12:32",
+   "price": 19.49,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
