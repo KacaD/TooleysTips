@@ -1,7 +1,7 @@
 {
  "date": "2026-10-08",
- "updated": "16:37:32",
- "count": 13,
+ "updated": "16:47:37",
+ "count": 14,
  "bets": [
   {
    "time": "13:45",
@@ -105,6 +105,14 @@
    "horse": "Rory's Gold",
    "placed_at": "16:37:29",
    "price": 7.9,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:48",
+   "course": "Market Rasen",
+   "horse": "Ratemenow",
+   "placed_at": "16:47:32",
+   "price": 2.04,
    "secs_to_off": 30.0
   }
  ],
