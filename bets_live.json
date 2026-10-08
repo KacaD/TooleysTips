@@ -1,7 +1,7 @@
 {
  "date": "2026-10-08",
- "updated": "14:30:32",
- "count": 5,
+ "updated": "14:39:37",
+ "count": 6,
  "bets": [
   {
    "time": "13:45",
@@ -42,6 +42,14 @@
    "placed_at": "14:30:32",
    "price": 3.62,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "14:40",
+   "course": "Bath",
+   "horse": "Little Jaybee",
+   "placed_at": "14:39:35",
+   "price": 8.3,
+   "secs_to_off": 25.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
