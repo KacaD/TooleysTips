@@ -1,7 +1,7 @@
 {
  "date": "2026-10-08",
- "updated": "13:44:36",
- "count": 1,
+ "updated": "13:55:36",
+ "count": 2,
  "bets": [
   {
    "time": "13:45",
@@ -10,6 +10,14 @@
    "placed_at": "13:44:35",
    "price": 3.02,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "13:56",
+   "course": "Market Rasen",
+   "horse": "Sun Art",
+   "placed_at": "13:55:35",
+   "price": 2.53,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
