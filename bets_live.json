@@ -1,7 +1,7 @@
 {
  "date": "2026-10-08",
- "updated": "17:12:32",
- "count": 15,
+ "updated": "19:29:32",
+ "count": 16,
  "bets": [
   {
    "time": "13:45",
@@ -122,6 +122,14 @@
    "placed_at": "17:12:32",
    "price": 19.49,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "19:30",
+   "course": "Southwell (AW)",
+   "horse": "Ernie's Valentine",
+   "placed_at": "19:29:32",
+   "price": 5.25,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
