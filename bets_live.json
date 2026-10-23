@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "updated": "18:59:32",
- "count": 17,
+ "updated": "19:59:32",
+ "count": 18,
  "bets": [
   {
    "time": "13:15",
@@ -137,6 +137,14 @@
    "horse": "R P McMurphy",
    "placed_at": "18:59:30",
    "price": 5.15,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "20:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "So Sassy",
+   "placed_at": "19:59:30",
+   "price": 3.6,
    "secs_to_off": 30.0
   }
  ],
