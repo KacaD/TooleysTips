@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "updated": "16:44:36",
- "count": 11,
+ "updated": "16:59:32",
+ "count": 12,
  "bets": [
   {
    "time": "13:15",
@@ -90,6 +90,14 @@
    "placed_at": "16:44:33",
    "price": 5.05,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "17:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "Ernie's Valentine",
+   "placed_at": "16:59:30",
+   "price": 5.25,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
