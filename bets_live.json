@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "updated": "17:59:32",
- "count": 16,
+ "updated": "18:59:32",
+ "count": 17,
  "bets": [
   {
    "time": "13:15",
@@ -129,6 +129,14 @@
    "horse": "Stoney Wood",
    "placed_at": "17:59:30",
    "price": 2.47,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "19:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "R P McMurphy",
+   "placed_at": "18:59:30",
+   "price": 5.15,
    "secs_to_off": 30.0
   }
  ],
