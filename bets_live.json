@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "updated": "16:24:32",
- "count": 15,
+ "updated": "16:29:32",
+ "count": 16,
  "bets": [
   {
    "time": "12:55",
@@ -121,6 +121,14 @@
    "horse": "Newtown Rambler",
    "placed_at": "16:24:31",
    "price": 3.47,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "16:30",
+   "course": "Doncaster",
+   "horse": "It Just Takes Time",
+   "placed_at": "16:29:31",
+   "price": 13.25,
    "secs_to_off": 29.0
   }
  ],
