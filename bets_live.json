@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "updated": "12:54:31",
- "count": 1,
+ "updated": "13:29:32",
+ "count": 2,
  "bets": [
   {
    "time": "12:55",
@@ -9,6 +9,14 @@
    "horse": "Al Shabab Storm",
    "placed_at": "12:54:31",
    "price": 3.37,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "13:30",
+   "course": "Doncaster",
+   "horse": "Al Hudaiba",
+   "placed_at": "13:29:31",
+   "price": 7.3,
    "secs_to_off": 30.0
   }
  ],
