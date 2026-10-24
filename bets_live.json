@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "updated": "14:43:36",
- "count": 8,
+ "updated": "14:54:37",
+ "count": 9,
  "bets": [
   {
    "time": "12:55",
@@ -66,6 +66,14 @@
    "placed_at": "14:43:34",
    "price": 6.7,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "14:55",
+   "course": "Cheltenham",
+   "horse": "Diamond Dealer",
+   "placed_at": "14:54:34",
+   "price": 4.95,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
