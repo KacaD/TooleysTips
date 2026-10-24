@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "updated": "16:29:32",
- "count": 16,
+ "updated": "16:59:31",
+ "count": 17,
  "bets": [
   {
    "time": "12:55",
@@ -130,6 +130,14 @@
    "placed_at": "16:29:31",
    "price": 13.25,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "17:00",
+   "course": "Southwell (AW)",
+   "horse": "Moulin Booj",
+   "placed_at": "16:59:31",
+   "price": 9.9,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
