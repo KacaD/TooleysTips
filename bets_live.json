@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "updated": "14:09:37",
- "count": 5,
+ "updated": "14:19:37",
+ "count": 6,
  "bets": [
   {
    "time": "12:55",
@@ -41,6 +41,14 @@
    "horse": "Realisation",
    "placed_at": "14:09:34",
    "price": 4.85,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "14:20",
+   "course": "Cheltenham",
+   "horse": "Divilabother",
+   "placed_at": "14:19:34",
+   "price": 34.99,
    "secs_to_off": 27.0
   }
  ],
