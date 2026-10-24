@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "updated": "13:44:32",
- "count": 3,
+ "updated": "14:04:32",
+ "count": 4,
  "bets": [
   {
    "time": "12:55",
@@ -26,6 +26,14 @@
    "placed_at": "13:44:31",
    "price": 3.02,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:05",
+   "course": "Doncaster",
+   "horse": "Bengal Tiger",
+   "placed_at": "14:04:31",
+   "price": 2.11,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
