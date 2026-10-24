@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "updated": "18:29:32",
- "count": 20,
+ "updated": "20:29:32",
+ "count": 21,
  "bets": [
   {
    "time": "12:55",
@@ -162,6 +162,14 @@
    "placed_at": "18:29:31",
    "price": 2.15,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "20:30",
+   "course": "Southwell (AW)",
+   "horse": "Edmond Halley",
+   "placed_at": "20:29:30",
+   "price": 7.3,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
