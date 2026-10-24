@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "updated": "13:29:32",
- "count": 2,
+ "updated": "13:44:32",
+ "count": 3,
  "bets": [
   {
    "time": "12:55",
@@ -17,6 +17,14 @@
    "horse": "Al Hudaiba",
    "placed_at": "13:29:31",
    "price": 7.3,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "13:45",
+   "course": "Cheltenham",
+   "horse": "Road To Wembley",
+   "placed_at": "13:44:31",
+   "price": 3.02,
    "secs_to_off": 30.0
   }
  ],
