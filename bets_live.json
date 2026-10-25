@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "updated": "15:47:31",
- "count": 6,
+ "updated": "16:22:32",
+ "count": 7,
  "bets": [
   {
    "time": "13:00",
@@ -49,6 +49,14 @@
    "horse": "Lightning Flash",
    "placed_at": "15:47:31",
    "price": 3.02,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "16:23",
+   "course": "Market Rasen",
+   "horse": "Beau De Maine",
+   "placed_at": "16:22:31",
+   "price": 2.59,
    "secs_to_off": 29.0
   }
  ],
