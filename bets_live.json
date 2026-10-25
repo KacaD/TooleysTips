@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "updated": "13:34:31",
- "count": 2,
+ "updated": "14:09:32",
+ "count": 3,
  "bets": [
   {
    "time": "13:00",
@@ -17,6 +17,14 @@
    "horse": "See Blue",
    "placed_at": "13:34:31",
    "price": 9.7,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "14:10",
+   "course": "Market Rasen",
+   "horse": "Sure Touch",
+   "placed_at": "14:09:31",
+   "price": 3.67,
    "secs_to_off": 29.0
   }
  ],
