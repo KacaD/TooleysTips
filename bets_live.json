@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
- "updated": "12:59:32",
- "count": 1,
+ "updated": "13:34:31",
+ "count": 2,
  "bets": [
   {
    "time": "13:00",
@@ -9,6 +9,14 @@
    "horse": "Moore Brion",
    "placed_at": "12:59:31",
    "price": 1.72,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "13:35",
+   "course": "Market Rasen",
+   "horse": "See Blue",
+   "placed_at": "13:34:31",
+   "price": 9.7,
    "secs_to_off": 29.0
   }
  ],
