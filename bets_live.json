@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "14:51:32",
- "count": 10,
+ "updated": "14:59:32",
+ "count": 11,
  "bets": [
   {
    "time": "12:25",
@@ -81,6 +81,14 @@
    "horse": "Hello Sweety",
    "placed_at": "14:51:30",
    "price": 4.85,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:00",
+   "course": "Redcar",
+   "horse": "Kiss Me My Love",
+   "placed_at": "14:59:30",
+   "price": 3.22,
    "secs_to_off": 30.0
   }
  ],
