@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "13:54:37",
- "count": 6,
+ "updated": "14:06:37",
+ "count": 7,
  "bets": [
   {
    "time": "12:25",
@@ -50,6 +50,14 @@
    "placed_at": "13:54:33",
    "price": 4.35,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "14:07",
+   "course": "Leicester",
+   "horse": "Blanquita",
+   "placed_at": "14:06:33",
+   "price": 2.41,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
