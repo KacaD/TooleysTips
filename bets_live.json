@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "13:06:37",
- "count": 3,
+ "updated": "13:17:32",
+ "count": 4,
  "bets": [
   {
    "time": "12:25",
@@ -26,6 +26,14 @@
    "placed_at": "13:06:36",
    "price": 11.75,
    "secs_to_off": 25.0
+  },
+  {
+   "time": "13:18",
+   "course": "Hereford",
+   "horse": "Kamille Au Kanada",
+   "placed_at": "13:17:30",
+   "price": 1.43,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
