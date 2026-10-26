@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "19:14:32",
- "count": 25,
+ "updated": "19:29:32",
+ "count": 26,
  "bets": [
   {
    "time": "12:25",
@@ -201,6 +201,14 @@
    "horse": "Fizzy Bear",
    "placed_at": "19:14:30",
    "price": 9.9,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "19:30",
+   "course": "Southwell (AW)",
+   "horse": "Arabian Leopard",
+   "placed_at": "19:29:30",
+   "price": 22.49,
    "secs_to_off": 29.0
   }
  ],
