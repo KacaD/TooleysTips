@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "18:59:32",
- "count": 24,
+ "updated": "19:14:32",
+ "count": 25,
  "bets": [
   {
    "time": "12:25",
@@ -193,6 +193,14 @@
    "horse": "Big Money",
    "placed_at": "18:59:30",
    "price": 1.91,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "19:15",
+   "course": "Kempton (AW)",
+   "horse": "Fizzy Bear",
+   "placed_at": "19:14:30",
+   "price": 9.9,
    "secs_to_off": 29.0
   }
  ],
