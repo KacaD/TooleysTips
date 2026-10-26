@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "13:17:32",
- "count": 4,
+ "updated": "13:36:37",
+ "count": 5,
  "bets": [
   {
    "time": "12:25",
@@ -34,6 +34,14 @@
    "placed_at": "13:17:30",
    "price": 1.43,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "13:37",
+   "course": "Leicester",
+   "horse": "Rogue Constelation",
+   "placed_at": "13:36:33",
+   "price": 1.59,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
