@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "16:04:32",
- "count": 15,
+ "updated": "16:23:36",
+ "count": 16,
  "bets": [
   {
    "time": "12:25",
@@ -122,6 +122,14 @@
    "placed_at": "16:04:30",
    "price": 8.5,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "16:24",
+   "course": "Leicester",
+   "horse": "Wrist Art",
+   "placed_at": "16:23:33",
+   "price": 8.3,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
