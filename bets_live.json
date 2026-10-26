@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "19:29:32",
- "count": 26,
+ "updated": "19:44:32",
+ "count": 27,
  "bets": [
   {
    "time": "12:25",
@@ -209,6 +209,14 @@
    "horse": "Arabian Leopard",
    "placed_at": "19:29:30",
    "price": 22.49,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "19:45",
+   "course": "Kempton (AW)",
+   "horse": "Roy Lane",
+   "placed_at": "19:44:30",
+   "price": 2.13,
    "secs_to_off": 29.0
   }
  ],
