@@ -1,64 +1,7 @@
 {
- "date": "2026-10-25",
- "updated": "16:22:32",
- "count": 7,
- "bets": [
-  {
-   "time": "13:00",
-   "course": "Market Rasen",
-   "horse": "Moore Brion",
-   "placed_at": "12:59:31",
-   "price": 1.72,
-   "secs_to_off": 29.0
-  },
-  {
-   "time": "13:35",
-   "course": "Market Rasen",
-   "horse": "See Blue",
-   "placed_at": "13:34:31",
-   "price": 9.7,
-   "secs_to_off": 29.0
-  },
-  {
-   "time": "14:10",
-   "course": "Market Rasen",
-   "horse": "Sure Touch",
-   "placed_at": "14:09:31",
-   "price": 3.67,
-   "secs_to_off": 29.0
-  },
-  {
-   "time": "14:41",
-   "course": "Market Rasen",
-   "horse": "Paper Mill",
-   "placed_at": "14:40:31",
-   "price": 2.39,
-   "secs_to_off": 29.0
-  },
-  {
-   "time": "15:13",
-   "course": "Market Rasen",
-   "horse": "Gambie Tiep",
-   "placed_at": "15:12:31",
-   "price": 4.65,
-   "secs_to_off": 29.0
-  },
-  {
-   "time": "15:48",
-   "course": "Market Rasen",
-   "horse": "Lightning Flash",
-   "placed_at": "15:47:31",
-   "price": 3.02,
-   "secs_to_off": 29.0
-  },
-  {
-   "time": "16:23",
-   "course": "Market Rasen",
-   "horse": "Beau De Maine",
-   "placed_at": "16:22:31",
-   "price": 2.59,
-   "secs_to_off": 29.0
-  }
- ],
+ "date": "2026-10-26",
+ "updated": "10:00:02",
+ "count": 0,
+ "bets": [],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
