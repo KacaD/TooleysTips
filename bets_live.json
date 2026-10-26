@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "19:44:32",
- "count": 27,
+ "updated": "19:59:32",
+ "count": 28,
  "bets": [
   {
    "time": "12:25",
@@ -217,6 +217,14 @@
    "horse": "Roy Lane",
    "placed_at": "19:44:30",
    "price": 2.13,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "20:00",
+   "course": "Southwell (AW)",
+   "horse": "Riley Rocks",
+   "placed_at": "19:59:30",
+   "price": 2.93,
    "secs_to_off": 29.0
   }
  ],
