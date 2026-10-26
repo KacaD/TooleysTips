@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "updated": "19:59:32",
- "count": 28,
+ "updated": "20:14:32",
+ "count": 29,
  "bets": [
   {
    "time": "12:25",
@@ -225,6 +225,14 @@
    "horse": "Riley Rocks",
    "placed_at": "19:59:30",
    "price": 2.93,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "20:15",
+   "course": "Kempton (AW)",
+   "horse": "La Trinite",
+   "placed_at": "20:14:30",
+   "price": 12.25,
    "secs_to_off": 29.0
   }
  ],
