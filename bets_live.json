@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "updated": "14:15:36",
- "count": 9,
+ "updated": "14:39:37",
+ "count": 10,
  "bets": [
   {
    "time": "12:40",
@@ -74,6 +74,14 @@
    "placed_at": "14:15:32",
    "price": 1.49,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:40",
+   "course": "Catterick",
+   "horse": "Marching Mac",
+   "placed_at": "14:39:32",
+   "price": 7.3,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
