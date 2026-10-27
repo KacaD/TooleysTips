@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "updated": "14:09:36",
- "count": 8,
+ "updated": "14:15:36",
+ "count": 9,
  "bets": [
   {
    "time": "12:40",
@@ -65,6 +65,14 @@
    "horse": "My Mate Mackley",
    "placed_at": "14:09:32",
    "price": 6.7,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "14:16",
+   "course": "Bangor-on-Dee",
+   "horse": "Rattlin Home",
+   "placed_at": "14:15:32",
+   "price": 1.49,
    "secs_to_off": 30.0
   }
  ],
