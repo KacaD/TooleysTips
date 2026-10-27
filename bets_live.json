@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "updated": "16:59:37",
- "count": 19,
+ "updated": "17:29:37",
+ "count": 20,
  "bets": [
   {
    "time": "12:40",
@@ -154,6 +154,14 @@
    "placed_at": "16:59:33",
    "price": 1.88,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "17:30",
+   "course": "Wolverhampton (AW)",
+   "horse": "Boy Basilica",
+   "placed_at": "17:29:33",
+   "price": 3.22,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
