@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "updated": "18:59:32",
- "count": 22,
+ "updated": "19:29:32",
+ "count": 23,
  "bets": [
   {
    "time": "12:40",
@@ -178,6 +178,14 @@
    "placed_at": "18:59:30",
    "price": 4.25,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "19:30",
+   "course": "Wolverhampton (AW)",
+   "horse": "Prodigal Son",
+   "placed_at": "19:29:30",
+   "price": 12.75,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
