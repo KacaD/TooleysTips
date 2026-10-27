@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "updated": "14:00:37",
- "count": 7,
+ "updated": "14:09:36",
+ "count": 8,
  "bets": [
   {
    "time": "12:40",
@@ -58,6 +58,14 @@
    "placed_at": "14:00:35",
    "price": 3.42,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "14:10",
+   "course": "Catterick",
+   "horse": "My Mate Mackley",
+   "placed_at": "14:09:32",
+   "price": 6.7,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
