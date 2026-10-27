@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "updated": "19:59:32",
- "count": 24,
+ "updated": "20:29:31",
+ "count": 25,
  "bets": [
   {
    "time": "12:40",
@@ -193,6 +193,14 @@
    "horse": "Roi De Coeur",
    "placed_at": "19:59:30",
    "price": 4.45,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "20:30",
+   "course": "Wolverhampton (AW)",
+   "horse": "Macanudo",
+   "placed_at": "20:29:30",
+   "price": 2.31,
    "secs_to_off": 29.0
   }
  ],
