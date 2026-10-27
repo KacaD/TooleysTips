@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "updated": "17:59:32",
- "count": 21,
+ "updated": "18:59:32",
+ "count": 22,
  "bets": [
   {
    "time": "12:40",
@@ -169,6 +169,14 @@
    "horse": "Ridger",
    "placed_at": "17:59:30",
    "price": 1.76,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "19:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "Territorial Star",
+   "placed_at": "18:59:30",
+   "price": 4.25,
    "secs_to_off": 30.0
   }
  ],
