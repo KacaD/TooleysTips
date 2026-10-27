@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "updated": "12:39:37",
- "count": 1,
+ "updated": "12:55:37",
+ "count": 2,
  "bets": [
   {
    "time": "12:40",
@@ -10,6 +10,14 @@
    "placed_at": "12:39:35",
    "price": 2.33,
    "secs_to_off": 25.0
+  },
+  {
+   "time": "12:56",
+   "course": "Newcastle",
+   "horse": "Wilde's Legacy",
+   "placed_at": "12:55:35",
+   "price": 1.67,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
