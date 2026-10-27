@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "updated": "19:29:32",
- "count": 23,
+ "updated": "19:59:32",
+ "count": 24,
  "bets": [
   {
    "time": "12:40",
@@ -185,6 +185,14 @@
    "horse": "Prodigal Son",
    "placed_at": "19:29:30",
    "price": 12.75,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "20:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "Roi De Coeur",
+   "placed_at": "19:59:30",
+   "price": 4.45,
    "secs_to_off": 29.0
   }
  ],
