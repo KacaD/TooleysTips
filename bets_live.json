@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "16:05:32",
- "count": 16,
+ "updated": "16:14:32",
+ "count": 17,
  "bets": [
   {
    "time": "12:46",
@@ -130,6 +130,14 @@
    "placed_at": "16:05:30",
    "price": 3.32,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "16:15",
+   "course": "Kempton (AW)",
+   "horse": "Marianne Mozart",
+   "placed_at": "16:14:30",
+   "price": 7.1,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
