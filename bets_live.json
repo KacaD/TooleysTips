@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "18:14:32",
- "count": 22,
+ "updated": "18:44:32",
+ "count": 23,
  "bets": [
   {
    "time": "12:46",
@@ -178,6 +178,14 @@
    "placed_at": "18:14:30",
    "price": 3.12,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "18:45",
+   "course": "Kempton (AW)",
+   "horse": "Pure Mint",
+   "placed_at": "18:44:30",
+   "price": 1.7,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
