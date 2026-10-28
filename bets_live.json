@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "16:20:32",
- "count": 18,
+ "updated": "16:44:32",
+ "count": 19,
  "bets": [
   {
    "time": "12:46",
@@ -146,6 +146,14 @@
    "placed_at": "16:20:30",
    "price": 2.62,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "16:45",
+   "course": "Kempton (AW)",
+   "horse": "Girls Allowed",
+   "placed_at": "16:44:30",
+   "price": 2.53,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
