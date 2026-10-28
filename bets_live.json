@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "14:50:36",
- "count": 10,
+ "updated": "15:05:37",
+ "count": 11,
  "bets": [
   {
    "time": "12:46",
@@ -81,6 +81,14 @@
    "horse": "Western Cross",
    "placed_at": "14:50:33",
    "price": 5.35,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "15:06",
+   "course": "Huntingdon",
+   "horse": "Knighton",
+   "placed_at": "15:05:33",
+   "price": 4.55,
    "secs_to_off": 28.0
   }
  ],
