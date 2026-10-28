@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "19:14:31",
- "count": 24,
+ "updated": "19:44:32",
+ "count": 25,
  "bets": [
   {
    "time": "12:46",
@@ -194,6 +194,14 @@
    "placed_at": "19:14:30",
    "price": 2.07,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "19:45",
+   "course": "Kempton (AW)",
+   "horse": "Forever Penywern",
+   "placed_at": "19:44:30",
+   "price": 6.7,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
