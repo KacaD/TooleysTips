@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "16:14:32",
- "count": 17,
+ "updated": "16:20:32",
+ "count": 18,
  "bets": [
   {
    "time": "12:46",
@@ -138,6 +138,14 @@
    "placed_at": "16:14:30",
    "price": 7.1,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "16:21",
+   "course": "Newton Abbot",
+   "horse": "Par Avion",
+   "placed_at": "16:20:30",
+   "price": 2.62,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
