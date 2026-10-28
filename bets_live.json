@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "15:45:37",
- "count": 14,
+ "updated": "15:50:32",
+ "count": 15,
  "bets": [
   {
    "time": "12:46",
@@ -114,6 +114,14 @@
    "placed_at": "15:45:33",
    "price": 4.75,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "15:51",
+   "course": "Newton Abbot",
+   "horse": "Mask Of Zorro",
+   "placed_at": "15:50:30",
+   "price": 3.95,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
