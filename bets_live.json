@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "19:44:32",
- "count": 25,
+ "updated": "20:14:32",
+ "count": 26,
  "bets": [
   {
    "time": "12:46",
@@ -201,6 +201,14 @@
    "horse": "Forever Penywern",
    "placed_at": "19:44:30",
    "price": 6.7,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "20:15",
+   "course": "Kempton (AW)",
+   "horse": "Whitesnake",
+   "placed_at": "20:14:30",
+   "price": 3.82,
    "secs_to_off": 30.0
   }
  ],
