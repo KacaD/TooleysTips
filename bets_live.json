@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "14:20:32",
- "count": 7,
+ "updated": "14:35:36",
+ "count": 8,
  "bets": [
   {
    "time": "12:46",
@@ -58,6 +58,14 @@
    "placed_at": "14:20:30",
    "price": 4.65,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:36",
+   "course": "Huntingdon",
+   "horse": "Seraphic",
+   "placed_at": "14:35:33",
+   "price": 3.57,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
