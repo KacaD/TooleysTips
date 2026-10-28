@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "updated": "14:35:36",
- "count": 8,
+ "updated": "14:45:37",
+ "count": 9,
  "bets": [
   {
    "time": "12:46",
@@ -65,6 +65,14 @@
    "horse": "Seraphic",
    "placed_at": "14:35:33",
    "price": 3.57,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "14:46",
+   "course": "Nottingham",
+   "horse": "Comrade Alexi",
+   "placed_at": "14:45:33",
+   "price": 6.9,
    "secs_to_off": 27.0
   }
  ],
