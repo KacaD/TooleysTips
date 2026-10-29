@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "updated": "13:11:37",
- "count": 2,
+ "updated": "13:19:37",
+ "count": 3,
  "bets": [
   {
    "time": "12:42",
@@ -18,6 +18,14 @@
    "placed_at": "13:11:36",
    "price": 1.77,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "13:20",
+   "course": "Stratford",
+   "horse": "Trinity Street",
+   "placed_at": "13:19:33",
+   "price": 2.51,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
