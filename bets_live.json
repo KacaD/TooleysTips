@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "updated": "18:29:32",
- "count": 20,
+ "updated": "18:59:32",
+ "count": 21,
  "bets": [
   {
    "time": "12:42",
@@ -161,6 +161,14 @@
    "horse": "Mini Mac",
    "placed_at": "18:29:30",
    "price": 2.03,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "19:00",
+   "course": "Southwell (AW)",
+   "horse": "First Legion",
+   "placed_at": "18:59:30",
+   "price": 7.7,
    "secs_to_off": 30.0
   }
  ],
