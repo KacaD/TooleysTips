@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "updated": "13:41:36",
- "count": 5,
+ "updated": "13:49:31",
+ "count": 6,
  "bets": [
   {
    "time": "12:42",
@@ -42,6 +42,14 @@
    "placed_at": "13:41:36",
    "price": 2.29,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "13:50",
+   "course": "Stratford",
+   "horse": "Smile John Boy",
+   "placed_at": "13:49:30",
+   "price": 3.07,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
