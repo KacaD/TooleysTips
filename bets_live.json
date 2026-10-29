@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "updated": "14:19:37",
- "count": 9,
+ "updated": "14:29:37",
+ "count": 10,
  "bets": [
   {
    "time": "12:42",
@@ -73,6 +73,14 @@
    "horse": "Forthfactor",
    "placed_at": "14:19:36",
    "price": 1.17,
+   "secs_to_off": 26.0
+  },
+  {
+   "time": "14:30",
+   "course": "Ffos Las",
+   "horse": "Ugo Bingo",
+   "placed_at": "14:29:36",
+   "price": 2.97,
    "secs_to_off": 26.0
   }
  ],
