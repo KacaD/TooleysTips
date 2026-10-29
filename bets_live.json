@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "updated": "13:59:36",
- "count": 7,
+ "updated": "14:11:37",
+ "count": 8,
  "bets": [
   {
    "time": "12:42",
@@ -58,6 +58,14 @@
    "placed_at": "13:59:36",
    "price": 7.0,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "14:12",
+   "course": "Bath",
+   "horse": "Spirit Lead Me",
+   "placed_at": "14:11:33",
+   "price": 4.05,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
