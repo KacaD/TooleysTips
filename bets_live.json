@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "updated": "16:24:37",
- "count": 17,
+ "updated": "16:59:32",
+ "count": 18,
  "bets": [
   {
    "time": "12:42",
@@ -138,6 +138,14 @@
    "placed_at": "16:24:33",
    "price": 2.15,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "17:00",
+   "course": "Southwell (AW)",
+   "horse": "Sin City",
+   "placed_at": "16:59:30",
+   "price": 2.96,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
