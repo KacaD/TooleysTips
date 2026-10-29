@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "updated": "16:59:32",
- "count": 18,
+ "updated": "17:59:31",
+ "count": 19,
  "bets": [
   {
    "time": "12:42",
@@ -145,6 +145,14 @@
    "horse": "Sin City",
    "placed_at": "16:59:30",
    "price": 2.96,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "18:00",
+   "course": "Southwell (AW)",
+   "horse": "Distillate",
+   "placed_at": "17:59:30",
+   "price": 2.29,
    "secs_to_off": 29.0
   }
  ],
