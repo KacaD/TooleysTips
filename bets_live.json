@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "updated": "13:36:32",
- "count": 7,
+ "updated": "13:44:37",
+ "count": 8,
  "bets": [
   {
    "time": "11:35",
@@ -58,6 +58,14 @@
    "placed_at": "13:36:31",
    "price": 2.23,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "13:45",
+   "course": "Newmarket",
+   "horse": "Siena Storm",
+   "placed_at": "13:44:34",
+   "price": 2.71,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
