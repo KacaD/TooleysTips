@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "updated": "13:19:32",
- "count": 6,
+ "updated": "13:36:32",
+ "count": 7,
  "bets": [
   {
    "time": "11:35",
@@ -50,6 +50,14 @@
    "placed_at": "13:19:31",
    "price": 1.22,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "13:37",
+   "course": "Uttoxeter",
+   "horse": "Merry Wood",
+   "placed_at": "13:36:31",
+   "price": 2.23,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
