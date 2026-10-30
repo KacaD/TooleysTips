@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "updated": "14:19:32",
- "count": 11,
+ "updated": "14:44:36",
+ "count": 12,
  "bets": [
   {
    "time": "11:35",
@@ -90,6 +90,14 @@
    "placed_at": "14:19:31",
    "price": 7.5,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:45",
+   "course": "Uttoxeter",
+   "horse": "Kally Des Bruyeres",
+   "placed_at": "14:44:34",
+   "price": 5.35,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
