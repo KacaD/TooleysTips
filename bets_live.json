@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "updated": "15:19:32",
- "count": 15,
+ "updated": "15:34:37",
+ "count": 16,
  "bets": [
   {
    "time": "11:35",
@@ -122,6 +122,14 @@
    "placed_at": "15:19:31",
    "price": 2.07,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "15:35",
+   "course": "Wetherby",
+   "horse": "Prairie Wolf",
+   "placed_at": "15:34:34",
+   "price": 6.5,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
