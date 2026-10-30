@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "updated": "17:44:32",
- "count": 22,
+ "updated": "18:14:32",
+ "count": 23,
  "bets": [
   {
    "time": "11:35",
@@ -177,6 +177,14 @@
    "horse": "Ennoble",
    "placed_at": "17:44:31",
    "price": 4.45,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "18:15",
+   "course": "Newcastle (AW)",
+   "horse": "Elyam",
+   "placed_at": "18:14:31",
+   "price": 3.27,
    "secs_to_off": 29.0
   }
  ],
