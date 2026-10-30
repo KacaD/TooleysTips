@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "updated": "14:09:32",
- "count": 10,
+ "updated": "14:19:32",
+ "count": 11,
  "bets": [
   {
    "time": "11:35",
@@ -81,6 +81,14 @@
    "horse": "Looking As You Are",
    "placed_at": "14:09:31",
    "price": 10.75,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "14:20",
+   "course": "Newmarket",
+   "horse": "Royal Playwright",
+   "placed_at": "14:19:31",
+   "price": 7.5,
    "secs_to_off": 30.0
   }
  ],
