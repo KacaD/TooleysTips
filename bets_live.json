@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "updated": "13:14:37",
- "count": 5,
+ "updated": "13:19:32",
+ "count": 6,
  "bets": [
   {
    "time": "11:35",
@@ -42,6 +42,14 @@
    "placed_at": "13:14:34",
    "price": 5.85,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "13:20",
+   "course": "Wetherby",
+   "horse": "Le Beau Madrik",
+   "placed_at": "13:19:31",
+   "price": 1.22,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
