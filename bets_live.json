@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "updated": "15:02:36",
- "count": 17,
+ "updated": "15:09:36",
+ "count": 18,
  "bets": [
   {
    "time": "11:20",
@@ -137,6 +137,14 @@
    "horse": "She's Notjoeking",
    "placed_at": "15:02:35",
    "price": 3.92,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "15:10",
+   "course": "Ascot",
+   "horse": "No Way Jay",
+   "placed_at": "15:09:35",
+   "price": 2.95,
    "secs_to_off": 27.0
   }
  ],
