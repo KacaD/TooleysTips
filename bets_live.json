@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "updated": "11:19:37",
- "count": 1,
+ "updated": "11:49:37",
+ "count": 2,
  "bets": [
   {
    "time": "11:20",
@@ -10,6 +10,14 @@
    "placed_at": "11:19:32",
    "price": 4.45,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "11:50",
+   "course": "Newmarket",
+   "horse": "Star Chorus",
+   "placed_at": "11:49:35",
+   "price": 24.49,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
