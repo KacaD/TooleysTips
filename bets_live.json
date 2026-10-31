@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "updated": "14:32:32",
- "count": 14,
+ "updated": "14:43:32",
+ "count": 15,
  "bets": [
   {
    "time": "11:20",
@@ -114,6 +114,14 @@
    "placed_at": "14:32:32",
    "price": 21.49,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "14:44",
+   "course": "Newmarket",
+   "horse": "Arabian Light",
+   "placed_at": "14:43:32",
+   "price": 6.5,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
