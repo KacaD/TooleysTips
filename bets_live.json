@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "updated": "12:49:32",
- "count": 6,
+ "updated": "13:04:41",
+ "count": 7,
  "bets": [
   {
    "time": "11:20",
@@ -50,6 +50,14 @@
    "placed_at": "12:49:32",
    "price": 9.7,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "13:05",
+   "course": "Newmarket",
+   "horse": "River King",
+   "placed_at": "13:04:38",
+   "price": 4.95,
+   "secs_to_off": 24.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
