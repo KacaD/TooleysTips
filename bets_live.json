@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "updated": "14:17:32",
- "count": 13,
+ "updated": "14:32:32",
+ "count": 14,
  "bets": [
   {
    "time": "11:20",
@@ -105,6 +105,14 @@
    "horse": "Strong Leader",
    "placed_at": "14:17:32",
    "price": 3.02,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "14:33",
+   "course": "Ascot",
+   "horse": "Your Darling",
+   "placed_at": "14:32:32",
+   "price": 21.49,
    "secs_to_off": 28.0
   }
  ],
