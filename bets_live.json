@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "updated": "13:04:41",
- "count": 7,
+ "updated": "13:09:36",
+ "count": 8,
  "bets": [
   {
    "time": "11:20",
@@ -58,6 +58,14 @@
    "placed_at": "13:04:38",
    "price": 4.95,
    "secs_to_off": 24.0
+  },
+  {
+   "time": "13:10",
+   "course": "Wetherby",
+   "horse": "Palamon",
+   "placed_at": "13:09:32",
+   "price": 3.22,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
