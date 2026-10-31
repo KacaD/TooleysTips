@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "updated": "15:57:32",
- "count": 21,
+ "updated": "16:02:32",
+ "count": 22,
  "bets": [
   {
    "time": "11:20",
@@ -169,6 +169,14 @@
    "horse": "Kennington",
    "placed_at": "15:57:32",
    "price": 5.75,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "16:03",
+   "course": "Wetherby",
+   "horse": "Paddy O'Mahler",
+   "placed_at": "16:02:32",
+   "price": 4.65,
    "secs_to_off": 29.0
   }
  ],
