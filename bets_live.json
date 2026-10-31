@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "updated": "16:14:32",
- "count": 23,
+ "updated": "17:04:32",
+ "count": 24,
  "bets": [
   {
    "time": "11:20",
@@ -186,6 +186,14 @@
    "placed_at": "16:14:32",
    "price": 3.42,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "17:05",
+   "course": "Southwell (AW)",
+   "horse": "National Honour",
+   "placed_at": "17:04:31",
+   "price": 1.52,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
