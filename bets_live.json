@@ -1,7 +1,16 @@
 {
  "date": "2026-10-31",
- "updated": "10:00:02",
- "count": 0,
- "bets": [],
+ "updated": "11:19:37",
+ "count": 1,
+ "bets": [
+  {
+   "time": "11:20",
+   "course": "Newmarket",
+   "horse": "Almarada Prince",
+   "placed_at": "11:19:32",
+   "price": 4.45,
+   "secs_to_off": 30.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
