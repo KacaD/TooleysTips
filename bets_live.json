@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "updated": "11:49:37",
- "count": 2,
+ "updated": "12:24:37",
+ "count": 3,
  "bets": [
   {
    "time": "11:20",
@@ -17,6 +17,14 @@
    "horse": "Star Chorus",
    "placed_at": "11:49:35",
    "price": 24.49,
+   "secs_to_off": 26.0
+  },
+  {
+   "time": "12:25",
+   "course": "Newmarket",
+   "horse": "Ibtekar",
+   "placed_at": "12:24:35",
+   "price": 2.17,
    "secs_to_off": 26.0
   }
  ],
