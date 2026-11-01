@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "updated": "13:12:37",
- "count": 3,
+ "updated": "13:19:37",
+ "count": 4,
  "bets": [
   {
    "time": "12:38",
@@ -25,6 +25,14 @@
    "horse": "Keops Des Bordes",
    "placed_at": "13:12:34",
    "price": 2.15,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "13:20",
+   "course": "Worcester",
+   "horse": "Johnny's Jury",
+   "placed_at": "13:19:34",
+   "price": 1.87,
    "secs_to_off": 27.0
   }
  ],
