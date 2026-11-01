@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "updated": "14:57:31",
- "count": 12,
+ "updated": "15:04:32",
+ "count": 13,
  "bets": [
   {
    "time": "12:38",
@@ -97,6 +97,14 @@
    "horse": "Doyen Quest",
    "placed_at": "14:57:31",
    "price": 3.77,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "15:05",
+   "course": "Worcester",
+   "horse": "Beau Speed",
+   "placed_at": "15:04:31",
+   "price": 11.25,
    "secs_to_off": 29.0
   }
  ],
