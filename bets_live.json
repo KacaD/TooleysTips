@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "updated": "14:29:31",
- "count": 10,
+ "updated": "14:41:31",
+ "count": 11,
  "bets": [
   {
    "time": "12:38",
@@ -82,6 +82,14 @@
    "placed_at": "14:29:31",
    "price": 1.21,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "14:42",
+   "course": "Huntingdon",
+   "horse": "Jet Of Dreams",
+   "placed_at": "14:41:31",
+   "price": 7.7,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
