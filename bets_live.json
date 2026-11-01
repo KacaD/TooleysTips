@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "updated": "14:41:31",
- "count": 11,
+ "updated": "14:57:31",
+ "count": 12,
  "bets": [
   {
    "time": "12:38",
@@ -90,6 +90,14 @@
    "placed_at": "14:41:31",
    "price": 7.7,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:58",
+   "course": "Carlisle",
+   "horse": "Doyen Quest",
+   "placed_at": "14:57:31",
+   "price": 3.77,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
