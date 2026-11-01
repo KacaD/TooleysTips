@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "updated": "14:22:31",
- "count": 9,
+ "updated": "14:29:31",
+ "count": 10,
  "bets": [
   {
    "time": "12:38",
@@ -73,6 +73,14 @@
    "horse": "Madara",
    "placed_at": "14:22:31",
    "price": 6.9,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "14:30",
+   "course": "Worcester",
+   "horse": "Song Of The Stars",
+   "placed_at": "14:29:31",
+   "price": 1.21,
    "secs_to_off": 29.0
   }
  ],
