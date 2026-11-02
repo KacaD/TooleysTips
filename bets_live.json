@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "updated": "14:59:36",
- "count": 7,
+ "updated": "15:14:36",
+ "count": 8,
  "bets": [
   {
    "time": "13:00",
@@ -58,6 +58,14 @@
    "placed_at": "14:59:33",
    "price": 6.1,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "15:15",
+   "course": "Southwell",
+   "horse": "Our Girl Sal",
+   "placed_at": "15:14:36",
+   "price": 5.15,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
