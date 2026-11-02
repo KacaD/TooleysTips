@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "updated": "18:59:32",
- "count": 18,
+ "updated": "19:14:31",
+ "count": 19,
  "bets": [
   {
    "time": "13:00",
@@ -145,6 +145,14 @@
    "horse": "Captain Cairney",
    "placed_at": "18:59:31",
    "price": 4.95,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "19:15",
+   "course": "Chelmsford (AW)",
+   "horse": "Archer's Grace",
+   "placed_at": "19:14:31",
+   "price": 3.77,
    "secs_to_off": 28.0
   }
  ],
