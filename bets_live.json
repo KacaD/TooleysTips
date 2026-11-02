@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "updated": "13:59:32",
- "count": 3,
+ "updated": "14:14:37",
+ "count": 4,
  "bets": [
   {
    "time": "13:00",
@@ -26,6 +26,14 @@
    "placed_at": "13:59:30",
    "price": 13.25,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:15",
+   "course": "Southwell",
+   "horse": "Chinese Whispers",
+   "placed_at": "14:14:33",
+   "price": 2.63,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
