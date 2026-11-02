@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "updated": "15:29:37",
- "count": 9,
+ "updated": "15:44:37",
+ "count": 10,
  "bets": [
   {
    "time": "13:00",
@@ -72,6 +72,14 @@
    "course": "Plumpton",
    "horse": "Uncle Remus",
    "placed_at": "15:29:33",
+   "price": 3.02,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "15:45",
+   "course": "Southwell",
+   "horse": "Inca",
+   "placed_at": "15:44:33",
    "price": 3.02,
    "secs_to_off": 27.0
   }
