@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "updated": "19:29:32",
- "count": 21,
+ "updated": "19:59:32",
+ "count": 22,
  "bets": [
   {
    "time": "12:18",
@@ -169,6 +169,14 @@
    "horse": "Tan Rapido",
    "placed_at": "19:29:30",
    "price": 14.25,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "20:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "Atalanta Mist",
+   "placed_at": "19:59:30",
+   "price": 6.1,
    "secs_to_off": 29.0
   }
  ],
