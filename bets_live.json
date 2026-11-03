@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "updated": "14:46:32",
- "count": 11,
+ "updated": "15:03:32",
+ "count": 12,
  "bets": [
   {
    "time": "12:18",
@@ -89,6 +89,14 @@
    "horse": "Touquet",
    "placed_at": "14:46:30",
    "price": 6.9,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:04",
+   "course": "Sedgefield",
+   "horse": "Gintime",
+   "placed_at": "15:03:30",
+   "price": 4.45,
    "secs_to_off": 30.0
   }
  ],
