@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "updated": "12:52:37",
- "count": 2,
+ "updated": "13:01:32",
+ "count": 3,
  "bets": [
   {
    "time": "12:18",
@@ -18,6 +18,14 @@
    "placed_at": "12:52:33",
    "price": 2.51,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "13:02",
+   "course": "Lingfield",
+   "horse": "Cheese",
+   "placed_at": "13:01:30",
+   "price": 15.25,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
