@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "updated": "17:29:32",
- "count": 18,
+ "updated": "17:59:31",
+ "count": 19,
  "bets": [
   {
    "time": "12:18",
@@ -145,6 +145,14 @@
    "horse": "Amandari",
    "placed_at": "17:29:30",
    "price": 3.17,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "18:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "Red Blue Point",
+   "placed_at": "17:59:30",
+   "price": 1.42,
    "secs_to_off": 29.0
   }
  ],
