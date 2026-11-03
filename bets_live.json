@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "updated": "13:27:36",
- "count": 5,
+ "updated": "13:36:31",
+ "count": 6,
  "bets": [
   {
    "time": "12:18",
@@ -42,6 +42,14 @@
    "placed_at": "13:27:33",
    "price": 1.93,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "13:37",
+   "course": "Lingfield",
+   "horse": "Soldier Poet",
+   "placed_at": "13:36:30",
+   "price": 18.49,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
