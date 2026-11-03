@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "updated": "15:03:32",
- "count": 12,
+ "updated": "15:12:32",
+ "count": 13,
  "bets": [
   {
    "time": "12:18",
@@ -97,6 +97,14 @@
    "horse": "Gintime",
    "placed_at": "15:03:30",
    "price": 4.45,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:13",
+   "course": "Warwick",
+   "horse": "The Magus",
+   "placed_at": "15:12:30",
+   "price": 5.35,
    "secs_to_off": 30.0
   }
  ],
