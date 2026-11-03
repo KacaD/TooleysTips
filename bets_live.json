@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "updated": "15:12:32",
- "count": 13,
+ "updated": "15:47:31",
+ "count": 14,
  "bets": [
   {
    "time": "12:18",
@@ -104,6 +104,14 @@
    "course": "Warwick",
    "horse": "The Magus",
    "placed_at": "15:12:30",
+   "price": 5.35,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:48",
+   "course": "Warwick",
+   "horse": "Katarcice",
+   "placed_at": "15:47:30",
    "price": 5.35,
    "secs_to_off": 30.0
   }
