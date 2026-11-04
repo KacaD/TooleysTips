@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "updated": "13:19:32",
- "count": 5,
+ "updated": "13:24:37",
+ "count": 6,
  "bets": [
   {
    "time": "12:05",
@@ -42,6 +42,14 @@
    "placed_at": "13:19:30",
    "price": 9.1,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "13:25",
+   "course": "Chepstow",
+   "horse": "Order On Time",
+   "placed_at": "13:24:33",
+   "price": 1.56,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
