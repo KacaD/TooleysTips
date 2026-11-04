@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "updated": "14:19:37",
- "count": 10,
+ "updated": "14:24:37",
+ "count": 11,
  "bets": [
   {
    "time": "12:05",
@@ -82,6 +82,14 @@
    "placed_at": "14:19:33",
    "price": 12.75,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "14:25",
+   "course": "Kempton (AW)",
+   "horse": "Kitaro Kich",
+   "placed_at": "14:24:33",
+   "price": 4.45,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
