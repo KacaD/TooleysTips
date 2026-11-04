@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "updated": "12:50:37",
- "count": 3,
+ "updated": "13:09:37",
+ "count": 4,
  "bets": [
   {
    "time": "12:05",
@@ -25,6 +25,14 @@
    "horse": "Red Acres Max",
    "placed_at": "12:50:33",
    "price": 1.98,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "13:10",
+   "course": "Musselburgh",
+   "horse": "Kartini",
+   "placed_at": "13:09:33",
+   "price": 4.35,
    "secs_to_off": 29.0
   }
  ],
