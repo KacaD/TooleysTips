@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "updated": "16:59:37",
- "count": 19,
+ "updated": "17:29:32",
+ "count": 20,
  "bets": [
   {
    "time": "12:05",
@@ -153,6 +153,14 @@
    "horse": "Colombier",
    "placed_at": "16:59:32",
    "price": 3.67,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "17:30",
+   "course": "Kempton (AW)",
+   "horse": "Persian Spirit",
+   "placed_at": "17:29:32",
+   "price": 3.12,
    "secs_to_off": 27.0
   }
  ],
