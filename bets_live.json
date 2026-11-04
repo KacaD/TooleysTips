@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "updated": "15:39:37",
- "count": 16,
+ "updated": "15:49:36",
+ "count": 17,
  "bets": [
   {
    "time": "12:05",
@@ -130,6 +130,14 @@
    "placed_at": "15:39:33",
    "price": 8.5,
    "secs_to_off": 26.0
+  },
+  {
+   "time": "15:50",
+   "course": "Musselburgh",
+   "horse": "Wobwobwob",
+   "placed_at": "15:49:33",
+   "price": 6.3,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
