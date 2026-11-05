@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "updated": "14:19:37",
- "count": 11,
+ "updated": "14:24:37",
+ "count": 12,
  "bets": [
   {
    "time": "12:33",
@@ -90,6 +90,14 @@
    "placed_at": "14:19:35",
    "price": 7.5,
    "secs_to_off": 25.0
+  },
+  {
+   "time": "14:25",
+   "course": "Newbury",
+   "horse": "Miami Magic",
+   "placed_at": "14:24:32",
+   "price": 4.85,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
