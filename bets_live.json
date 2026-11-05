@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "updated": "13:16:31",
- "count": 5,
+ "updated": "13:33:31",
+ "count": 6,
  "bets": [
   {
    "time": "12:33",
@@ -41,6 +41,14 @@
    "horse": "Merlin Allen",
    "placed_at": "13:16:29",
    "price": 2.87,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "13:34",
+   "course": "Newcastle",
+   "horse": "William Yeats",
+   "placed_at": "13:33:29",
+   "price": 4.95,
    "secs_to_off": 30.0
   }
  ],
