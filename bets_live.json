@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "updated": "15:21:37",
- "count": 19,
+ "updated": "15:27:32",
+ "count": 20,
  "bets": [
   {
    "time": "12:33",
@@ -154,6 +154,14 @@
    "placed_at": "15:21:32",
    "price": 1.69,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "15:28",
+   "course": "Southwell (AW)",
+   "horse": "Dovey Moon",
+   "placed_at": "15:27:29",
+   "price": 3.57,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
