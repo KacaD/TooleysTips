@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "updated": "12:32:37",
- "count": 1,
+ "updated": "12:41:37",
+ "count": 2,
  "bets": [
   {
    "time": "12:33",
@@ -10,6 +10,14 @@
    "placed_at": "12:32:32",
    "price": 2.33,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "12:42",
+   "course": "Newbury",
+   "horse": "Zarakerjack",
+   "placed_at": "12:41:35",
+   "price": 7.1,
+   "secs_to_off": 25.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
