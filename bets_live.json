@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "updated": "15:59:36",
- "count": 24,
+ "updated": "16:04:50",
+ "count": 25,
  "bets": [
   {
    "time": "12:33",
@@ -193,6 +193,14 @@
    "horse": "Fenaroli",
    "placed_at": "15:59:32",
    "price": 1.43,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "16:05",
+   "course": "Newbury",
+   "horse": "Treble Three",
+   "placed_at": "16:04:32",
+   "price": 8.9,
    "secs_to_off": 29.0
   }
  ],
