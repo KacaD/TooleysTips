@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "updated": "13:56:37",
- "count": 8,
+ "updated": "14:06:32",
+ "count": 9,
  "bets": [
   {
    "time": "12:33",
@@ -66,6 +66,14 @@
    "placed_at": "13:56:35",
    "price": 8.7,
    "secs_to_off": 24.0
+  },
+  {
+   "time": "14:07",
+   "course": "Newcastle",
+   "horse": "Thorneylands",
+   "placed_at": "14:06:29",
+   "price": 2.67,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
