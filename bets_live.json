@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "updated": "14:09:32",
- "count": 8,
+ "updated": "14:24:32",
+ "count": 9,
  "bets": [
   {
    "time": "12:50",
@@ -65,6 +65,14 @@
    "horse": "Ruby Island",
    "placed_at": "14:09:31",
    "price": 3.37,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "14:25",
+   "course": "Aintree",
+   "horse": "Klimt Madrik",
+   "placed_at": "14:24:31",
+   "price": 2.37,
    "secs_to_off": 30.0
   }
  ],
