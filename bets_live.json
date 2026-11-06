@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "updated": "15:42:32",
- "count": 18,
+ "updated": "15:51:32",
+ "count": 19,
  "bets": [
   {
    "time": "12:50",
@@ -146,6 +146,14 @@
    "placed_at": "15:42:31",
    "price": 2.15,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "15:52",
+   "course": "Hexham",
+   "horse": "Lady Phoebe",
+   "placed_at": "15:51:31",
+   "price": 4.45,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
