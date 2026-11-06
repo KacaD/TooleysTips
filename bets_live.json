@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "updated": "14:44:31",
- "count": 11,
+ "updated": "14:52:31",
+ "count": 12,
  "bets": [
   {
    "time": "12:50",
@@ -90,6 +90,14 @@
    "placed_at": "14:44:31",
    "price": 5.15,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "14:53",
+   "course": "Newcastle (AW)",
+   "horse": "Sovereign View",
+   "placed_at": "14:52:31",
+   "price": 20.24,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
