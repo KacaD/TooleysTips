@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "updated": "15:27:32",
- "count": 16,
+ "updated": "15:34:32",
+ "count": 17,
  "bets": [
   {
    "time": "12:50",
@@ -129,6 +129,14 @@
    "horse": "Endless Quest",
    "placed_at": "15:27:31",
    "price": 1.11,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "15:35",
+   "course": "Aintree",
+   "horse": "King Turgeon",
+   "placed_at": "15:34:31",
+   "price": 22.49,
    "secs_to_off": 29.0
   }
  ],
