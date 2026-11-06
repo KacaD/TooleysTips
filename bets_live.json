@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "updated": "14:24:32",
- "count": 9,
+ "updated": "14:34:32",
+ "count": 10,
  "bets": [
   {
    "time": "12:50",
@@ -73,6 +73,14 @@
    "horse": "Klimt Madrik",
    "placed_at": "14:24:31",
    "price": 2.37,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "14:35",
+   "course": "Fontwell",
+   "horse": "Fire Flyer",
+   "placed_at": "14:34:31",
+   "price": 57.45,
    "secs_to_off": 30.0
   }
  ],
