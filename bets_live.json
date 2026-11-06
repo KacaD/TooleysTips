@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "updated": "16:29:32",
- "count": 22,
+ "updated": "16:59:31",
+ "count": 23,
  "bets": [
   {
    "time": "12:50",
@@ -177,6 +177,14 @@
    "horse": "Northern Viola",
    "placed_at": "16:29:31",
    "price": 2.57,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "17:00",
+   "course": "Newcastle (AW)",
+   "horse": "Royal Message",
+   "placed_at": "16:59:31",
+   "price": 5.35,
    "secs_to_off": 29.0
   }
  ],
