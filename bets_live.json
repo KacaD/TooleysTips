@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "updated": "17:59:32",
- "count": 25,
+ "updated": "18:59:32",
+ "count": 26,
  "bets": [
   {
    "time": "12:50",
@@ -201,6 +201,14 @@
    "horse": "Book Of Life",
    "placed_at": "17:59:31",
    "price": 10.25,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "19:00",
+   "course": "Newcastle (AW)",
+   "horse": "Marianne Mozart",
+   "placed_at": "18:59:31",
+   "price": 21.49,
    "secs_to_off": 28.0
   }
  ],
