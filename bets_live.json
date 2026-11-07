@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "updated": "15:09:31",
- "count": 21,
+ "updated": "15:12:31",
+ "count": 22,
  "bets": [
   {
    "time": "11:55",
@@ -170,6 +170,14 @@
    "placed_at": "15:09:31",
    "price": 4.25,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "15:13",
+   "course": "Southwell (AW)",
+   "horse": "Crown The Future",
+   "placed_at": "15:12:31",
+   "price": 9.1,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
