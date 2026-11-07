@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "updated": "12:54:36",
- "count": 6,
+ "updated": "12:59:31",
+ "count": 7,
  "bets": [
   {
    "time": "11:55",
@@ -50,6 +50,14 @@
    "placed_at": "12:54:34",
    "price": 11.75,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "13:00",
+   "course": "Doncaster",
+   "horse": "Cala Vadella",
+   "placed_at": "12:59:31",
+   "price": 1.39,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
