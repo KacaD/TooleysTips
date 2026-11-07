@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "updated": "12:14:32",
- "count": 2,
+ "updated": "12:19:37",
+ "count": 3,
  "bets": [
   {
    "time": "11:55",
@@ -18,6 +18,14 @@
    "placed_at": "12:14:31",
    "price": 6.7,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "12:20",
+   "course": "Kelso",
+   "horse": "Finisk Pride",
+   "placed_at": "12:19:34",
+   "price": 2.25,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
