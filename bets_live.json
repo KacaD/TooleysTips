@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "updated": "15:34:32",
- "count": 24,
+ "updated": "15:39:32",
+ "count": 25,
  "bets": [
   {
    "time": "11:55",
@@ -193,6 +193,14 @@
    "horse": "Etalon",
    "placed_at": "15:34:31",
    "price": 52.44,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "15:40",
+   "course": "Uttoxeter",
+   "horse": "Wise Maiden",
+   "placed_at": "15:39:31",
+   "price": 8.7,
    "secs_to_off": 29.0
   }
  ],
