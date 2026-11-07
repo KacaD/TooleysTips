@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "updated": "14:39:32",
- "count": 18,
+ "updated": "14:59:32",
+ "count": 19,
  "bets": [
   {
    "time": "11:55",
@@ -145,6 +145,14 @@
    "horse": "Ring Of Music",
    "placed_at": "14:39:31",
    "price": 6.1,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:00",
+   "course": "Aintree",
+   "horse": "Walden",
+   "placed_at": "14:59:31",
+   "price": 15.25,
    "secs_to_off": 30.0
   }
  ],
