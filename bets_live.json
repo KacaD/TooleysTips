@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "updated": "16:04:32",
- "count": 29,
+ "updated": "17:29:32",
+ "count": 30,
  "bets": [
   {
    "time": "11:55",
@@ -232,6 +232,14 @@
    "course": "Aintree",
    "horse": "Al Capony",
    "placed_at": "16:04:31",
+   "price": 2.41,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "17:30",
+   "course": "Southwell (AW)",
+   "horse": "Bona Fortuna",
+   "placed_at": "17:29:31",
    "price": 2.41,
    "secs_to_off": 29.0
   }
