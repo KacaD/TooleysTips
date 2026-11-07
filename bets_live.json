@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "updated": "13:29:37",
- "count": 9,
+ "updated": "13:34:37",
+ "count": 10,
  "bets": [
   {
    "time": "11:55",
@@ -74,6 +74,14 @@
    "placed_at": "13:29:37",
    "price": 6.5,
    "secs_to_off": 24.0
+  },
+  {
+   "time": "13:35",
+   "course": "Doncaster",
+   "horse": "My Boo Boo",
+   "placed_at": "13:34:34",
+   "price": 2.99,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
