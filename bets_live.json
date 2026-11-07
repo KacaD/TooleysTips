@@ -1,7 +1,7 @@
 {
  "date": "2026-11-07",
- "updated": "12:59:31",
- "count": 7,
+ "updated": "13:24:37",
+ "count": 8,
  "bets": [
   {
    "time": "11:55",
@@ -58,6 +58,14 @@
    "placed_at": "12:59:31",
    "price": 1.39,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "13:25",
+   "course": "Uttoxeter",
+   "horse": "Valadon",
+   "placed_at": "13:24:34",
+   "price": 12.25,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
