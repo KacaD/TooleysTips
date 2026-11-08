@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "updated": "14:14:32",
- "count": 5,
+ "updated": "14:26:32",
+ "count": 6,
  "bets": [
   {
    "time": "12:40",
@@ -41,6 +41,14 @@
    "horse": "St Pancras",
    "placed_at": "14:14:32",
    "price": 13.25,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "14:27",
+   "course": "Ffos Las",
+   "horse": "Bound For Glory",
+   "placed_at": "14:26:32",
+   "price": 5.75,
    "secs_to_off": 28.0
   }
  ],
