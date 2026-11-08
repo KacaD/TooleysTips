@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "updated": "12:39:31",
- "count": 1,
+ "updated": "12:49:37",
+ "count": 2,
  "bets": [
   {
    "time": "12:40",
@@ -9,6 +9,14 @@
    "horse": "Bowmore",
    "placed_at": "12:39:31",
    "price": 4.05,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "12:50",
+   "course": "Ffos Las",
+   "horse": "Tap Tap Shamie",
+   "placed_at": "12:49:32",
+   "price": 1.71,
    "secs_to_off": 30.0
   }
  ],
