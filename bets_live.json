@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "updated": "15:01:37",
- "count": 8,
+ "updated": "15:36:32",
+ "count": 9,
  "bets": [
   {
    "time": "12:40",
@@ -65,6 +65,14 @@
    "horse": "Kappa Des Mottes",
    "placed_at": "15:01:32",
    "price": 13.25,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "15:37",
+   "course": "Ffos Las",
+   "horse": "Galway Reel",
+   "placed_at": "15:36:32",
+   "price": 2.11,
    "secs_to_off": 28.0
   }
  ],
