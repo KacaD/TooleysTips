@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "updated": "14:26:32",
- "count": 6,
+ "updated": "14:49:36",
+ "count": 7,
  "bets": [
   {
    "time": "12:40",
@@ -49,6 +49,14 @@
    "horse": "Bound For Glory",
    "placed_at": "14:26:32",
    "price": 5.75,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "14:50",
+   "course": "Sandown",
+   "horse": "Nimba",
+   "placed_at": "14:49:32",
+   "price": 1.68,
    "secs_to_off": 28.0
   }
  ],
