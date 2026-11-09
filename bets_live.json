@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "updated": "12:19:32",
- "count": 1,
+ "updated": "12:39:36",
+ "count": 2,
  "bets": [
   {
    "time": "12:20",
@@ -10,6 +10,14 @@
    "placed_at": "12:19:31",
    "price": 2.43,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "12:40",
+   "course": "Stratford",
+   "horse": "Act Of Authority",
+   "placed_at": "12:39:34",
+   "price": 2.53,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
