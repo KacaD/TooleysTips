@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "updated": "12:49:36",
- "count": 3,
+ "updated": "13:09:32",
+ "count": 4,
  "bets": [
   {
    "time": "12:20",
@@ -25,6 +25,14 @@
    "horse": "Parisencore",
    "placed_at": "12:49:33",
    "price": 2.23,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "13:10",
+   "course": "Stratford",
+   "horse": "Eastern Fire",
+   "placed_at": "13:09:32",
+   "price": 1.52,
    "secs_to_off": 28.0
   }
  ],
