@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "updated": "14:26:36",
- "count": 7,
+ "updated": "14:49:36",
+ "count": 8,
  "bets": [
   {
    "time": "12:20",
@@ -57,6 +57,14 @@
    "horse": "Rossbridge",
    "placed_at": "14:26:32",
    "price": 12.75,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "14:50",
+   "course": "Stratford",
+   "horse": "Service Minimum",
+   "placed_at": "14:49:32",
+   "price": 5.85,
    "secs_to_off": 28.0
   }
  ],
