@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "updated": "14:49:32",
- "count": 6,
+ "updated": "15:09:32",
+ "count": 7,
  "bets": [
   {
    "time": "13:10",
@@ -49,6 +49,14 @@
    "horse": "Western Soldier",
    "placed_at": "14:49:30",
    "price": 4.15,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:10",
+   "course": "Huntingdon",
+   "horse": "Latin",
+   "placed_at": "15:09:30",
+   "price": 4.05,
    "secs_to_off": 30.0
   }
  ],
