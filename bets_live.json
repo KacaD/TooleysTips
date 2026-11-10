@@ -1,7 +1,16 @@
 {
  "date": "2026-11-10",
- "updated": "10:00:02",
- "count": 0,
- "bets": [],
+ "updated": "13:09:32",
+ "count": 1,
+ "bets": [
+  {
+   "time": "13:10",
+   "course": "Huntingdon",
+   "horse": "Charles Ritz",
+   "placed_at": "13:09:30",
+   "price": 2.87,
+   "secs_to_off": 30.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
