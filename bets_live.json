@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "updated": "13:09:32",
- "count": 1,
+ "updated": "13:39:32",
+ "count": 2,
  "bets": [
   {
    "time": "13:10",
@@ -9,6 +9,14 @@
    "horse": "Charles Ritz",
    "placed_at": "13:09:30",
    "price": 2.87,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "13:40",
+   "course": "Huntingdon",
+   "horse": "Teorie",
+   "placed_at": "13:39:30",
+   "price": 2.88,
    "secs_to_off": 30.0
   }
  ],
