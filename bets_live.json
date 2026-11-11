@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "updated": "14:50:32",
- "count": 6,
+ "updated": "15:04:32",
+ "count": 7,
  "bets": [
   {
    "time": "12:30",
@@ -49,6 +49,14 @@
    "horse": "Paddy De Pole",
    "placed_at": "14:50:30",
    "price": 4.75,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "15:05",
+   "course": "Bangor-on-Dee",
+   "horse": "Solid Performer",
+   "placed_at": "15:04:30",
+   "price": 1.89,
    "secs_to_off": 29.0
   }
  ],
