@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "updated": "15:04:32",
- "count": 7,
+ "updated": "15:21:32",
+ "count": 8,
  "bets": [
   {
    "time": "12:30",
@@ -58,6 +58,14 @@
    "placed_at": "15:04:30",
    "price": 1.89,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "15:22",
+   "course": "Warwick",
+   "horse": "Mary",
+   "placed_at": "15:21:30",
+   "price": 3.02,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
