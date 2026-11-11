@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "updated": "14:42:32",
- "count": 5,
+ "updated": "14:50:32",
+ "count": 6,
  "bets": [
   {
    "time": "12:30",
@@ -42,6 +42,14 @@
    "placed_at": "14:42:30",
    "price": 4.25,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:51",
+   "course": "Warwick",
+   "horse": "Paddy De Pole",
+   "placed_at": "14:50:30",
+   "price": 4.75,
+   "secs_to_off": 29.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
