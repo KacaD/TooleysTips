@@ -1,7 +1,16 @@
 {
  "date": "2026-11-11",
- "updated": "10:00:02",
- "count": 0,
- "bets": [],
+ "updated": "12:29:37",
+ "count": 1,
+ "bets": [
+  {
+   "time": "12:30",
+   "course": "Bangor-on-Dee",
+   "horse": "Chuggy",
+   "placed_at": "12:29:33",
+   "price": 4.35,
+   "secs_to_off": 26.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
