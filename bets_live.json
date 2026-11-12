@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "updated": "12:40:32",
- "count": 3,
+ "updated": "13:04:33",
+ "count": 4,
  "bets": [
   {
    "time": "12:06",
@@ -25,6 +25,14 @@
    "horse": "Eastern Rock",
    "placed_at": "12:40:30",
    "price": 2.51,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "13:05",
+   "course": "Hereford",
+   "horse": "Governors Rock",
+   "placed_at": "13:04:30",
+   "price": 1.55,
    "secs_to_off": 30.0
   }
  ],
