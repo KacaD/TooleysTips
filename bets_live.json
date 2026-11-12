@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "updated": "13:15:36",
- "count": 5,
+ "updated": "13:39:37",
+ "count": 6,
  "bets": [
   {
    "time": "12:06",
@@ -41,6 +41,14 @@
    "horse": "Chemoulin",
    "placed_at": "13:15:33",
    "price": 5.05,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "13:40",
+   "course": "Hereford",
+   "horse": "Mr Jukebox",
+   "placed_at": "13:39:33",
+   "price": 2.55,
    "secs_to_off": 27.0
   }
  ],
