@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "updated": "13:50:32",
- "count": 7,
+ "updated": "14:14:32",
+ "count": 8,
  "bets": [
   {
    "time": "12:06",
@@ -57,6 +57,14 @@
    "horse": "Miss Denver",
    "placed_at": "13:50:30",
    "price": 4.45,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "14:15",
+   "course": "Hereford",
+   "horse": "Oneinthewell",
+   "placed_at": "14:14:30",
+   "price": 2.09,
    "secs_to_off": 30.0
   }
  ],
