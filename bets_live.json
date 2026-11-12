@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "updated": "12:29:31",
- "count": 2,
+ "updated": "12:40:32",
+ "count": 3,
  "bets": [
   {
    "time": "12:06",
@@ -17,6 +17,14 @@
    "horse": "Koala Rose",
    "placed_at": "12:29:30",
    "price": 1.63,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "12:41",
+   "course": "Market Rasen",
+   "horse": "Eastern Rock",
+   "placed_at": "12:40:30",
+   "price": 2.51,
    "secs_to_off": 30.0
   }
  ],
