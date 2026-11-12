@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "updated": "14:25:32",
- "count": 9,
+ "updated": "14:49:32",
+ "count": 10,
  "bets": [
   {
    "time": "12:06",
@@ -73,6 +73,14 @@
    "horse": "This Sway",
    "placed_at": "14:25:30",
    "price": 4.05,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "14:50",
+   "course": "Hereford",
+   "horse": "Seraphic",
+   "placed_at": "14:49:30",
+   "price": 1.73,
    "secs_to_off": 30.0
   }
  ],
