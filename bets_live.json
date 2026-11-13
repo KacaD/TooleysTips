@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "updated": "13:29:32",
- "count": 5,
+ "updated": "13:44:32",
+ "count": 6,
  "bets": [
   {
    "time": "12:20",
@@ -41,6 +41,14 @@
    "horse": "Express Surprise",
    "placed_at": "13:29:31",
    "price": 8.5,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "13:45",
+   "course": "Cheltenham",
+   "horse": "Kingston Narcissus",
+   "placed_at": "13:44:31",
+   "price": 4.85,
    "secs_to_off": 30.0
   }
  ],
