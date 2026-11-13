@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "updated": "15:04:32",
- "count": 12,
+ "updated": "15:14:32",
+ "count": 13,
  "bets": [
   {
    "time": "12:20",
@@ -98,6 +98,14 @@
    "placed_at": "15:04:31",
    "price": 2.71,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "15:15",
+   "course": "Southwell",
+   "horse": "Character Testing",
+   "placed_at": "15:14:31",
+   "price": 5.15,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
