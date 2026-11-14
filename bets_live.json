@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "updated": "15:29:32",
- "count": 18,
+ "updated": "15:44:32",
+ "count": 19,
  "bets": [
   {
    "time": "12:07",
@@ -145,6 +145,14 @@
    "horse": "Daylatedollarshort",
    "placed_at": "15:29:29",
    "price": 2.59,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:45",
+   "course": "Windsor",
+   "horse": "Waverley",
+   "placed_at": "15:44:29",
+   "price": 4.25,
    "secs_to_off": 30.0
   }
  ],
