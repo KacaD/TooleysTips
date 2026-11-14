@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "updated": "12:34:37",
- "count": 3,
+ "updated": "12:41:37",
+ "count": 4,
  "bets": [
   {
    "time": "12:07",
@@ -26,6 +26,14 @@
    "placed_at": "12:34:32",
    "price": 8.9,
    "secs_to_off": 27.0
+  },
+  {
+   "time": "12:42",
+   "course": "Uttoxeter",
+   "horse": "Spanish Darling",
+   "placed_at": "12:41:32",
+   "price": 1.16,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
