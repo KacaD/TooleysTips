@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "updated": "15:09:32",
- "count": 17,
+ "updated": "15:29:32",
+ "count": 18,
  "bets": [
   {
    "time": "12:07",
@@ -137,6 +137,14 @@
    "horse": "Watamu",
    "placed_at": "15:09:29",
    "price": 5.85,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:30",
+   "course": "Cheltenham",
+   "horse": "Daylatedollarshort",
+   "placed_at": "15:29:29",
+   "price": 2.59,
    "secs_to_off": 30.0
   }
  ],
