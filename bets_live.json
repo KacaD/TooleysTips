@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "updated": "15:04:32",
- "count": 16,
+ "updated": "15:09:32",
+ "count": 17,
  "bets": [
   {
    "time": "12:07",
@@ -129,6 +129,14 @@
    "horse": "Filibustering",
    "placed_at": "15:04:29",
    "price": 2.46,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "15:10",
+   "course": "Windsor",
+   "horse": "Watamu",
+   "placed_at": "15:09:29",
+   "price": 5.85,
    "secs_to_off": 30.0
   }
  ],
