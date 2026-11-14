@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "updated": "15:44:32",
- "count": 19,
+ "updated": "15:59:34",
+ "count": 20,
  "bets": [
   {
    "time": "12:07",
@@ -153,6 +153,14 @@
    "horse": "Waverley",
    "placed_at": "15:44:29",
    "price": 4.25,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "16:00",
+   "course": "Cheltenham",
+   "horse": "Elegantemente",
+   "placed_at": "15:59:29",
+   "price": 3.02,
    "secs_to_off": 30.0
   }
  ],
