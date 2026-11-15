@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
- "updated": "12:29:32",
- "count": 1,
+ "updated": "12:49:32",
+ "count": 2,
  "bets": [
   {
    "time": "12:30",
@@ -9,6 +9,14 @@
    "horse": "Western Cross",
    "placed_at": "12:29:31",
    "price": 2.27,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "12:50",
+   "course": "Cheltenham",
+   "horse": "Wolf Rayet",
+   "placed_at": "12:49:31",
+   "price": 2.97,
    "secs_to_off": 29.0
   }
  ],
