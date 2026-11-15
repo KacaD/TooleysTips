@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
- "updated": "14:34:32",
- "count": 6,
+ "updated": "14:49:32",
+ "count": 7,
  "bets": [
   {
    "time": "12:30",
@@ -49,6 +49,14 @@
    "horse": "Double Powerful",
    "placed_at": "14:34:31",
    "price": 3.47,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "14:50",
+   "course": "Fontwell",
+   "horse": "Fay Ce Que Voudras",
+   "placed_at": "14:49:31",
+   "price": 11.25,
    "secs_to_off": 29.0
   }
  ],
