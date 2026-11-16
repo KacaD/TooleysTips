@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "updated": "14:14:33",
- "count": 3,
+ "updated": "14:44:32",
+ "count": 4,
  "bets": [
   {
    "time": "12:45",
@@ -26,6 +26,14 @@
    "placed_at": "14:14:31",
    "price": 3.02,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "14:45",
+   "course": "Plumpton",
+   "horse": "Golly Gosh",
+   "placed_at": "14:44:31",
+   "price": 3.17,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
