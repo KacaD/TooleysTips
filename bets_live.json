@@ -1,7 +1,7 @@
 {
  "date": "2026-11-17",
- "updated": "16:59:32",
- "count": 9,
+ "updated": "17:29:32",
+ "count": 10,
  "bets": [
   {
    "time": "11:50",
@@ -73,6 +73,14 @@
    "horse": "Roxa Love",
    "placed_at": "16:59:31",
    "price": 5.95,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "17:30",
+   "course": "Southwell (AW)",
+   "horse": "Fahidi",
+   "placed_at": "17:29:31",
+   "price": 4.15,
    "secs_to_off": 29.0
   }
  ],
