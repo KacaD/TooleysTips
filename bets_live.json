@@ -1,7 +1,7 @@
 {
  "date": "2026-11-17",
- "updated": "18:29:31",
- "count": 11,
+ "updated": "19:29:32",
+ "count": 12,
  "bets": [
   {
    "time": "11:50",
@@ -89,6 +89,14 @@
    "horse": "Moving Shadow",
    "placed_at": "18:29:31",
    "price": 3.92,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "19:30",
+   "course": "Southwell (AW)",
+   "horse": "Edmond Halley",
+   "placed_at": "19:29:31",
+   "price": 4.35,
    "secs_to_off": 29.0
   }
  ],
