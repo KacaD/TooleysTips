@@ -1,7 +1,7 @@
 {
  "date": "2026-11-17",
- "updated": "12:19:36",
- "count": 2,
+ "updated": "12:49:37",
+ "count": 3,
  "bets": [
   {
    "time": "11:50",
@@ -17,6 +17,14 @@
    "horse": "Bossman Jack",
    "placed_at": "12:19:35",
    "price": 1.49,
+   "secs_to_off": 27.0
+  },
+  {
+   "time": "12:50",
+   "course": "Carlisle",
+   "horse": "Throatlash",
+   "placed_at": "12:49:34",
+   "price": 3.52,
    "secs_to_off": 27.0
   }
  ],
