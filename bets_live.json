@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
- "updated": "19:59:32",
- "count": 15,
+ "updated": "20:29:32",
+ "count": 16,
  "bets": [
   {
    "time": "12:33",
@@ -121,6 +121,14 @@
    "horse": "Caragio",
    "placed_at": "19:59:31",
    "price": 6.5,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "20:30",
+   "course": "Kempton (AW)",
+   "horse": "Snooker McCrew",
+   "placed_at": "20:29:31",
+   "price": 6.7,
    "secs_to_off": 28.0
   }
  ],
