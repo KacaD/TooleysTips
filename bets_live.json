@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
- "updated": "14:17:36",
- "count": 6,
+ "updated": "14:37:31",
+ "count": 7,
  "bets": [
   {
    "time": "12:33",
@@ -50,6 +50,14 @@
    "placed_at": "14:17:32",
    "price": 10.25,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "14:38",
+   "course": "Hexham",
+   "horse": "Wal Buck's",
+   "placed_at": "14:37:29",
+   "price": 3.87,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
