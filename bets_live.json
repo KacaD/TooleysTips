@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
- "updated": "15:07:37",
- "count": 9,
+ "updated": "15:37:32",
+ "count": 10,
  "bets": [
   {
    "time": "12:33",
@@ -73,6 +73,14 @@
    "horse": "Stretchemout",
    "placed_at": "15:07:32",
    "price": 32.98,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "15:38",
+   "course": "Hexham",
+   "horse": "Yorgunnarock",
+   "placed_at": "15:37:32",
+   "price": 16.75,
    "secs_to_off": 29.0
   }
  ],
