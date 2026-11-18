@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
- "updated": "13:47:32",
- "count": 4,
+ "updated": "14:07:32",
+ "count": 5,
  "bets": [
   {
    "time": "12:33",
@@ -33,6 +33,14 @@
    "horse": "Old Park Star",
    "placed_at": "13:47:32",
    "price": 1.9,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "14:08",
+   "course": "Hexham",
+   "horse": "Ratemenow",
+   "placed_at": "14:07:32",
+   "price": 4.65,
    "secs_to_off": 29.0
   }
  ],
