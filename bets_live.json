@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
- "updated": "16:39:31",
- "count": 17,
+ "updated": "17:09:32",
+ "count": 18,
  "bets": [
   {
    "time": "11:18",
@@ -137,6 +137,14 @@
    "horse": "Crystal Kraken",
    "placed_at": "16:39:31",
    "price": 17.75,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "17:10",
+   "course": "Newcastle (AW)",
+   "horse": "High Threshold",
+   "placed_at": "17:09:31",
+   "price": 2.19,
    "secs_to_off": 28.0
   }
  ],
