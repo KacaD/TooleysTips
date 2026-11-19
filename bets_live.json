@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
- "updated": "16:09:32",
- "count": 16,
+ "updated": "16:39:31",
+ "count": 17,
  "bets": [
   {
    "time": "11:18",
@@ -130,6 +130,14 @@
    "placed_at": "16:09:31",
    "price": 67.45,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "16:40",
+   "course": "Newcastle (AW)",
+   "horse": "Crystal Kraken",
+   "placed_at": "16:39:31",
+   "price": 17.75,
+   "secs_to_off": 28.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
