@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
- "updated": "11:56:32",
- "count": 4,
+ "updated": "12:26:31",
+ "count": 5,
  "bets": [
   {
    "time": "11:18",
@@ -34,6 +34,14 @@
    "placed_at": "11:56:30",
    "price": 3.57,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "12:27",
+   "course": "Warwick",
+   "horse": "Smile John Boy",
+   "placed_at": "12:26:30",
+   "price": 2.03,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
