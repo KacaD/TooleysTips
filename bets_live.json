@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
- "updated": "13:01:37",
- "count": 6,
+ "updated": "13:36:32",
+ "count": 7,
  "bets": [
   {
    "time": "11:18",
@@ -49,6 +49,14 @@
    "horse": "Largy Force",
    "placed_at": "13:01:33",
    "price": 3.27,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "13:37",
+   "course": "Warwick",
+   "horse": "Pounding Poet",
+   "placed_at": "13:36:31",
+   "price": 8.7,
    "secs_to_off": 28.0
   }
  ],
