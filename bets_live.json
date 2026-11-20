@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
- "updated": "14:29:37",
- "count": 12,
+ "updated": "14:41:36",
+ "count": 13,
  "bets": [
   {
    "time": "11:50",
@@ -97,6 +97,14 @@
    "horse": "Fasol",
    "placed_at": "14:29:32",
    "price": 5.35,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "14:42",
+   "course": "Chepstow",
+   "horse": "Northwest Passage",
+   "placed_at": "14:41:32",
+   "price": 2.21,
    "secs_to_off": 28.0
   }
  ],
