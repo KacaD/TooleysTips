@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
- "updated": "18:29:32",
- "count": 21,
+ "updated": "19:29:32",
+ "count": 22,
  "bets": [
   {
    "time": "11:50",
@@ -169,6 +169,14 @@
    "horse": "Gunfighter",
    "placed_at": "18:29:29",
    "price": 3.32,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "19:30",
+   "course": "Wolverhampton (AW)",
+   "horse": "Asuka",
+   "placed_at": "19:29:29",
+   "price": 2.55,
    "secs_to_off": 30.0
   }
  ],
