@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
- "updated": "15:04:32",
- "count": 15,
+ "updated": "15:27:37",
+ "count": 16,
  "bets": [
   {
    "time": "11:50",
@@ -122,6 +122,14 @@
    "placed_at": "15:04:29",
    "price": 8.7,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "15:28",
+   "course": "Catterick",
+   "horse": "Rescheduled",
+   "placed_at": "15:27:32",
+   "price": 3.57,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
