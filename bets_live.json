@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
- "updated": "16:29:32",
- "count": 18,
+ "updated": "16:59:31",
+ "count": 19,
  "bets": [
   {
    "time": "11:50",
@@ -145,6 +145,14 @@
    "horse": "Book Of Life",
    "placed_at": "16:29:29",
    "price": 4.25,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "17:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "Frantic",
+   "placed_at": "16:59:29",
+   "price": 2.25,
    "secs_to_off": 30.0
   }
  ],
