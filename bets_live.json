@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
- "updated": "19:29:32",
- "count": 22,
+ "updated": "19:59:32",
+ "count": 23,
  "bets": [
   {
    "time": "11:50",
@@ -177,6 +177,14 @@
    "horse": "Asuka",
    "placed_at": "19:29:29",
    "price": 2.55,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "20:00",
+   "course": "Wolverhampton (AW)",
+   "horse": "Barry The Worm",
+   "placed_at": "19:59:29",
+   "price": 3.87,
    "secs_to_off": 30.0
   }
  ],
