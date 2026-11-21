@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "updated": "11:29:37",
- "count": 2,
+ "updated": "11:59:39",
+ "count": 3,
  "bets": [
   {
    "time": "11:00",
@@ -18,6 +18,14 @@
    "placed_at": "11:29:33",
    "price": 4.85,
    "secs_to_off": 28.0
+  },
+  {
+   "time": "12:00",
+   "course": "Lingfield (AW)",
+   "horse": "Bibury Star",
+   "placed_at": "11:59:36",
+   "price": 1.84,
+   "secs_to_off": 23.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
