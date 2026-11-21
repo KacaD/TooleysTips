@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "updated": "12:04:37",
- "count": 4,
+ "updated": "12:12:32",
+ "count": 5,
  "bets": [
   {
    "time": "11:00",
@@ -33,6 +33,14 @@
    "horse": "Koktail Divin",
    "placed_at": "12:04:33",
    "price": 1.47,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "12:13",
+   "course": "Huntingdon",
+   "horse": "Master Roque",
+   "placed_at": "12:12:30",
+   "price": 9.7,
    "secs_to_off": 29.0
   }
  ],
