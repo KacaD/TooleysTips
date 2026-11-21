@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "updated": "12:54:36",
- "count": 10,
+ "updated": "13:09:37",
+ "count": 11,
  "bets": [
   {
    "time": "11:00",
@@ -82,6 +82,14 @@
    "placed_at": "12:54:36",
    "price": 2.43,
    "secs_to_off": 25.0
+  },
+  {
+   "time": "13:10",
+   "course": "Lingfield (AW)",
+   "horse": "King's Hand",
+   "placed_at": "13:09:33",
+   "price": 7.9,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
