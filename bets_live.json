@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "updated": "12:19:32",
- "count": 6,
+ "updated": "12:34:31",
+ "count": 7,
  "bets": [
   {
    "time": "11:00",
@@ -49,6 +49,14 @@
    "horse": "Katarcice",
    "placed_at": "12:19:30",
    "price": 5.65,
+   "secs_to_off": 30.0
+  },
+  {
+   "time": "12:35",
+   "course": "Lingfield (AW)",
+   "horse": "Iris Olivia",
+   "placed_at": "12:34:30",
+   "price": 2.19,
    "secs_to_off": 30.0
   }
  ],
