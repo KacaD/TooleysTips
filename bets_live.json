@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "updated": "13:49:37",
- "count": 16,
+ "updated": "13:57:32",
+ "count": 17,
  "bets": [
   {
    "time": "11:00",
@@ -130,6 +130,14 @@
    "placed_at": "13:49:36",
    "price": 2.41,
    "secs_to_off": 25.0
+  },
+  {
+   "time": "13:58",
+   "course": "Huntingdon",
+   "horse": "Virtual Rock",
+   "placed_at": "13:57:30",
+   "price": 5.65,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
