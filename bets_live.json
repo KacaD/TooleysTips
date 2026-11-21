@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "updated": "15:17:32",
- "count": 25,
+ "updated": "15:28:37",
+ "count": 26,
  "bets": [
   {
    "time": "11:00",
@@ -202,6 +202,14 @@
    "placed_at": "15:17:30",
    "price": 2.29,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "15:29",
+   "course": "Newcastle (AW)",
+   "horse": "Kartini",
+   "placed_at": "15:28:33",
+   "price": 8.7,
+   "secs_to_off": 27.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
