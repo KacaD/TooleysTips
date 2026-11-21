@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "updated": "15:09:31",
- "count": 24,
+ "updated": "15:17:32",
+ "count": 25,
  "bets": [
   {
    "time": "11:00",
@@ -193,6 +193,14 @@
    "horse": "Nostrae De Cougny",
    "placed_at": "15:09:30",
    "price": 3.12,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "15:18",
+   "course": "Ascot",
+   "horse": "Vanderpoel",
+   "placed_at": "15:17:30",
+   "price": 2.29,
    "secs_to_off": 29.0
   }
  ],
