@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "updated": "13:57:32",
- "count": 17,
+ "updated": "14:04:37",
+ "count": 18,
  "bets": [
   {
    "time": "11:00",
@@ -138,6 +138,14 @@
    "placed_at": "13:57:30",
    "price": 5.65,
    "secs_to_off": 30.0
+  },
+  {
+   "time": "14:05",
+   "course": "Ascot",
+   "horse": "Smugglers Haven",
+   "placed_at": "14:04:33",
+   "price": 9.1,
+   "secs_to_off": 26.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
