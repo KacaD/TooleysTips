@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "updated": "15:59:32",
- "count": 30,
+ "updated": "16:29:32",
+ "count": 31,
  "bets": [
   {
    "time": "11:00",
@@ -242,6 +242,14 @@
    "placed_at": "15:59:30",
    "price": 1.17,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "16:30",
+   "course": "Newcastle (AW)",
+   "horse": "Eagle Storm",
+   "placed_at": "16:29:30",
+   "price": 3.47,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
