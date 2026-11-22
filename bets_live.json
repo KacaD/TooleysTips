@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "updated": "13:36:32",
- "count": 7,
+ "updated": "13:54:32",
+ "count": 8,
  "bets": [
   {
    "time": "11:25",
@@ -57,6 +57,14 @@
    "horse": "Rickety Bridge",
    "placed_at": "13:36:31",
    "price": 9.7,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "13:55",
+   "course": "Lingfield (AW)",
+   "horse": "Maria Da Silva",
+   "placed_at": "13:54:31",
+   "price": 2.83,
    "secs_to_off": 29.0
   }
  ],
