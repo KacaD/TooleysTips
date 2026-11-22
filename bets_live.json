@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "updated": "12:54:32",
- "count": 4,
+ "updated": "13:06:32",
+ "count": 5,
  "bets": [
   {
    "time": "11:25",
@@ -33,6 +33,14 @@
    "horse": "Olympic Charter",
    "placed_at": "12:54:31",
    "price": 2.11,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "13:07",
+   "course": "Exeter",
+   "horse": "Poet's Muse",
+   "placed_at": "13:06:31",
+   "price": 2.23,
    "secs_to_off": 29.0
   }
  ],
