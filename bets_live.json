@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "updated": "11:54:32",
- "count": 2,
+ "updated": "12:24:31",
+ "count": 3,
  "bets": [
   {
    "time": "11:25",
@@ -18,6 +18,14 @@
    "placed_at": "11:54:31",
    "price": 2.69,
    "secs_to_off": 29.0
+  },
+  {
+   "time": "12:25",
+   "course": "Lingfield (AW)",
+   "horse": "Two Of A Kind",
+   "placed_at": "12:24:31",
+   "price": 10.25,
+   "secs_to_off": 30.0
   }
  ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
