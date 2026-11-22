@@ -1,7 +1,16 @@
 {
  "date": "2026-11-22",
- "updated": "10:00:02",
- "count": 0,
- "bets": [],
+ "updated": "11:24:37",
+ "count": 1,
+ "bets": [
+  {
+   "time": "11:25",
+   "course": "Lingfield (AW)",
+   "horse": "Lady Mariko",
+   "placed_at": "11:24:34",
+   "price": 9.1,
+   "secs_to_off": 28.0
+  }
+ ],
  "note": "Automated record of this system's own \u00a31 bets at Betfair SP, logged as they are placed. Not tips \u2014 a live trial, published for transparency. 18+ | Please gamble responsibly | BeGambleAware.org"
 }
