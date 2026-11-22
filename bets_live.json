@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "updated": "15:24:32",
- "count": 12,
+ "updated": "15:36:32",
+ "count": 13,
  "bets": [
   {
    "time": "11:25",
@@ -97,6 +97,14 @@
    "horse": "In The Post",
    "placed_at": "15:24:31",
    "price": 4.25,
+   "secs_to_off": 28.0
+  },
+  {
+   "time": "15:37",
+   "course": "Exeter",
+   "horse": "Bertie Wooster",
+   "placed_at": "15:36:31",
+   "price": 10.25,
    "secs_to_off": 28.0
   }
  ],
