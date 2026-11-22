@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "updated": "13:24:32",
- "count": 6,
+ "updated": "13:36:32",
+ "count": 7,
  "bets": [
   {
    "time": "11:25",
@@ -49,6 +49,14 @@
    "horse": "Duke's Command",
    "placed_at": "13:24:31",
    "price": 5.45,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "13:37",
+   "course": "Exeter",
+   "horse": "Rickety Bridge",
+   "placed_at": "13:36:31",
+   "price": 9.7,
    "secs_to_off": 29.0
   }
  ],
