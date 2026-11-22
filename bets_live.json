@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "updated": "14:36:31",
- "count": 10,
+ "updated": "15:06:32",
+ "count": 11,
  "bets": [
   {
    "time": "11:25",
@@ -81,6 +81,14 @@
    "horse": "Koukeo",
    "placed_at": "14:36:31",
    "price": 5.15,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "15:07",
+   "course": "Exeter",
+   "horse": "The Bellhop",
+   "placed_at": "15:06:31",
+   "price": 3.62,
    "secs_to_off": 29.0
   }
  ],
