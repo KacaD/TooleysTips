@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "updated": "14:06:32",
- "count": 9,
+ "updated": "14:36:31",
+ "count": 10,
  "bets": [
   {
    "time": "11:25",
@@ -73,6 +73,14 @@
    "horse": "Handlethekettle",
    "placed_at": "14:06:31",
    "price": 4.25,
+   "secs_to_off": 29.0
+  },
+  {
+   "time": "14:37",
+   "course": "Exeter",
+   "horse": "Koukeo",
+   "placed_at": "14:36:31",
+   "price": 5.15,
    "secs_to_off": 29.0
   }
  ],
